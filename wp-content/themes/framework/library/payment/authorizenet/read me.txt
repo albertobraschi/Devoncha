@@ -1,0 +1,53 @@
+######################################
+THIS IS "AUTHORIZE DOT NET " MODULE
+######################################
+
+1)Copy this folder and paste to library/payment folder
+
+2)Go to wp-admin->Shopping Cart -> Payment  Options
+
+You can see two Sections
+	1)Manage Payment Options  -- All installed payment gateways listed
+	2)Install New Payment Gateway -- Listing of all payment gateways with status
+
+3)You can see current module in "Install New Payment Gateway" section with "Uninstall" label.
+
+4)Install it and you  can see it in "Manage Payment Options" Section.
+
+5)From "Settings" option you need to set necessary option.
+
+6)Your Module is ready to use, you can see this option while checking out in payment options.
+
+
+Thank You
+==================================================================
+
+
+WE PASS BELOW INFORMAITONS TO THE AUTHORIZE.NET SITE
+this is only for your kind information.
+-----------------------------------------------------
+x_show_form : PAYMENT_FORM 
+x_delim_data : FALSE 
+x_relay_response : False 
+x_login : <snip> 
+x_tran_key : <snip>
+x_method : CC 
+x_type : AUTH_CAPTURE 
+x_amount : 100.00 
+x_currency_code : USD 
+x_invoice_num : 781 
+x_test_request : TRUE 
+x_receipt_link_method : POST 
+x_receipt_link_text : Please return to MobiVite to complete the order and mark order successfull 
+x_receipt_link_url : http://192.168.1.30:8012/mobivite/order/callback/authorizenet 
+x_first_name : vaibhav 
+x_last_name : Saxena 
+x_company : 
+x_city : delhi 
+x_state : 
+x_zip : 250002 
+x_phone : 9310974585 
+x_cust_id : 4 
+x_email : vaibhav1407@gmail.com 
+x_address : test 
+x_country : IN 

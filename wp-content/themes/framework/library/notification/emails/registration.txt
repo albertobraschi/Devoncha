@@ -1,0 +1,8 @@
+[SUBJECT-STR]Registration Email[SUBJECT-END]
+<p>Dear [#$user_name#],</p>
+<p>You can log in  with the following information:</p>
+<p>Username: [#$user_login#]</p>
+<p>Password: [#$user_password#]</p>
+<br>
+<p>We hope you enjoy the shopping. Thanks!</p>
+<p>[#$store_name#]</p>

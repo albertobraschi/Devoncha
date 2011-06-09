@@ -1,0 +1,3 @@
+<p>Sorry for cancellation of your order</p>
+<p>Thank you for visit at [#$store_name#].
+</p>

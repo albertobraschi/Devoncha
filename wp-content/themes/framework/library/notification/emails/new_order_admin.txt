@@ -1,0 +1,4 @@
+[SUBJECT-STR]New order has been placed - Payment Pending[SUBJECT-END]<p>Dear [#$to_name#],</p>
+<p>order received successfully but payment is not confirm yet.</p>
+<p>[#$order_info#]</p>
+<p>Thank you </p>

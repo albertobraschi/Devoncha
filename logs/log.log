@@ -1,0 +1,1373 @@
+[19-Mar-2011 15:25:08] PHP Fatal error:  Call to undefined function curl_init() in D:\Apache\htdocs\lojaexemplo-php\includes\include.php on line 29
+[19-Mar-2011 15:27:30] PHP Fatal error:  Call to undefined function curl_init() in D:\Apache\htdocs\lojaexemplo-php\includes\include.php on line 29
+[19-Mar-2011 15:28:28] PHP Fatal error:  Call to undefined function curl_init() in D:\Apache\htdocs\lojaexemplo-php\includes\include.php on line 29
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-19 15:28:36 (BRT)
+     ARQUIVO: D:\Apache\htdocs\lojaexemplo-php\pages\novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-19 15:28:39 (BRT)
+     ARQUIVO: D:\Apache\htdocs\lojaexemplo-php\pages\novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+[19-Mar-2011 15:28:54] PHP Fatal error:  Call to undefined function curl_init() in D:\Apache\htdocs\lojaexemplo-php\includes\include.php on line 29
+[19-Mar-2011 15:28:58] PHP Fatal error:  Call to undefined function curl_init() in D:\Apache\htdocs\lojaexemplo-php\includes\include.php on line 29
+[19-Mar-2011 15:29:31] PHP Fatal error:  Call to undefined function curl_init() in D:\Apache\htdocs\lojaexemplo-php\includes\include.php on line 29
+[19-Mar-2011 15:29:53] PHP Fatal error:  Call to undefined function curl_init() in D:\Apache\htdocs\lojaexemplo-php\includes\include.php on line 29
+[19-Mar-2011 15:32:27] PHP Fatal error:  Call to undefined function curl_init() in D:\Apache\htdocs\lojaexemplo-php\includes\include.php on line 29
+**********************************************************
+2 WARNING - 2011-03-19 16:20:10 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\includes\include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 9 is not a valid cURL handle resource
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-19 16:46:50 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 32)
+     MENSAGEM: 
+Undefined index:  capturarAutomaticamente
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-19 16:47:18 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 32)
+     MENSAGEM: 
+Undefined index:  capturarAutomaticamente
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-03-19 18:58:13 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\includes\errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- Invalid value for boolean: : '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="fc1af15530aefc5c5f3e2bdb980f6bc7" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>6197082</numero>
+      <valor>48000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-03-19T18:58:12</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/cielo/pages/retorno.php</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar></capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:55:02 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 6)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:55:04 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 6)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:55:10 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 6)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:55:11 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 6)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:55:12 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 6)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:55:13 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 6)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:56:08 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 5)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:56:10 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 5)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:56:49 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 6)
+     MENSAGEM: 
+Undefined variable: dia_semana_eng
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:57:57 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 76)
+     MENSAGEM: 
+Undefined variable: dia_semana_port
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:57:59 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 76)
+     MENSAGEM: 
+Undefined variable: dia_semana_port
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:58:10 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 76)
+     MENSAGEM: 
+Undefined variable: dia_semana_port
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:58:17 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 76)
+     MENSAGEM: 
+Undefined variable: dia_semana_port
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:58:37 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 76)
+     MENSAGEM: 
+Undefined variable: text
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 20:59:10 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\retorno.php(Linha 76)
+     MENSAGEM: 
+Undefined variable: text
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-03-21 21:36:46 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\includes\errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- Decimal (7422960000) is greater than max inclusive facet (999999999) for type of valor element in DadosPedido in namespace http://ecommerce.cbmp.com.br: '7422960000'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="c723b92f8d27f27c07e101fcfbf4111b" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>3335418</numero>
+      <valor>7422960000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-03-21T21:36:46</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>3</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/cielo/pages/retorno.php</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-03-21 21:37:27 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\includes\errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- Decimal (2234208000) is greater than max inclusive facet (999999999) for type of valor element in DadosPedido in namespace http://ecommerce.cbmp.com.br: '2234208000'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="f35f6080b217ccccbcc5a46f1be3169d" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>2591918</numero>
+      <valor>2234208000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-03-21T21:37:26</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/cielo/pages/retorno.php</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 21:45:28 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-21 21:45:34 (BRT)
+     ARQUIVO: D:\Apache\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 16:33:33 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\data.php(Linha 51)
+     MENSAGEM: 
+Use of undefined constant sim - assumed 'sim'
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:56:06 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:56:30 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:56:51 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:57:29 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:14 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:37 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:46 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:48 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:49 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:49 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:50 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:50 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-22 22:58:51 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 100)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-24 11:00:49 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 62)
+     MENSAGEM: 
+Undefined variable: endereco
+
+**********************************************************
+2 WARNING - 2011-03-24 11:01:43 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 66)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-03-24 14:16:39 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 66)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-03-24 15:29:19 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 66)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-03-24 15:36:13 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\includes\include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-03-24 17:58:59 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index: codigoBandeira
+
+**********************************************************
+2 WARNING - 2011-05-10 16:31:00 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\includes\include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-05-10 16:34:06 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\includes\include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-10 16:34:13 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index: codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-13 14:31:04 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 39)
+     MENSAGEM: 
+Undefined variable: pedido
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-13 14:31:11 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index: codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-13 14:31:18 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 39)
+     MENSAGEM: 
+Undefined variable: pedido
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-13 14:34:52 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages2\novoPedidoAguarde.php(Linha 39)
+     MENSAGEM: 
+Undefined variable: pedido
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-13 15:37:51 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 31)
+     MENSAGEM: 
+Use of undefined constant CIELO - assumed 'CIELO'
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-13 15:39:13 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\includes\include.php(Linha 18)
+     MENSAGEM: 
+Use of undefined constant ENDERECO_BASE - assumed 'ENDERECO_BASE'
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-13 15:39:15 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\includes\include.php(Linha 18)
+     MENSAGEM: 
+Use of undefined constant ENDERECO_BASE - assumed 'ENDERECO_BASE'
+
+**********************************************************
+2 WARNING - 2011-05-25 00:58:18 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 23)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing
+
+**********************************************************
+2 WARNING - 2011-05-25 22:51:27 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 226)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:52:08 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 228)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:52:49 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 228)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:54:42 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 236)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:55:17 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 237)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:55:39 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 237)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:55:52 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 237)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:56:09 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 237)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:57:31 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 239)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 22:59:49 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 243)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:00:06 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 243)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:00:12 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 243)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:00:17 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 243)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:02:12 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 248)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:02:21 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 248)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:02:49 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 248)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:03:01 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 248)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:16:37 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 211)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:19:10 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 210)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:19:19 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 210)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:19:33 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 210)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:19:44 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 210)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:20:07 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 211)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:20:19 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 211)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:22:14 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 211)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:22:26 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:22:49 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:22:58 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:24:03 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:24:08 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:24:35 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:24:50 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:25:01 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:25:42 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:26:16 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:26:51 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:27:35 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:27:51 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:27:59 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:28:16 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:29:47 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:30:03 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:30:24 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:30:42 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:30:55 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:31:03 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:31:16 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:31:54 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:32:06 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:32:19 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:33:13 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:33:28 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:33:33 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:34:22 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:34:39 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:35:08 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:35:27 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:35:56 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+2 WARNING - 2011-05-25 23:35:59 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 265)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:36:04 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 265)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+2 WARNING - 2011-05-25 23:36:08 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 265)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:44:11 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:45:47 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:45:52 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 213)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:47:08 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 215)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:47:20 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 215)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:47:57 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:48:03 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 211)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:48:28 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 211)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:48:43 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 211)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:50:00 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:50:09 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:51:30 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 209)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:51:46 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:52:08 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:52:32 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:52:39 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 212)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:55:54 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 275)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+2 WARNING - 2011-05-25 23:55:58 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 327)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:56:00 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 275)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:56:02 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 275)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+2 WARNING - 2011-05-25 23:56:15 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 327)
+     MENSAGEM: 
+mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:56:15 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 275)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:56:50 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 275)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:56:52 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 275)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:57:48 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 276)
+     MENSAGEM: 
+Undefined index: cpf
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-25 23:59:59 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:00:08 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:00:15 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:00:27 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:00:38 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:00:43 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:00:47 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:01:05 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:01:42 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:02:07 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:02:37 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:03:03 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:03:11 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:03:46 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:03:56 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:04:11 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:04:26 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:04:32 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:04:37 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:04:40 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:04:44 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 279)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:05:35 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 283)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:05:53 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 283)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:06:54 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 284)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:11:05 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 284)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:11:53 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 284)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:12:23 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 286)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:12:43 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\retorno.php(Linha 286)
+     MENSAGEM: 
+Undefined index: nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 00:56:27 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/pages/retorno.php(Linha 286)
+     MENSAGEM: 
+Undefined index:  nome
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-05-26 00:58:58 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 013
+     Mensagem: Flag de autorização (3) inválida para Débito.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="137810b8812352cf608c669a7e25749a" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>2202295</numero>
+      <valor>48000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-05-26T00:58:58</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>A</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://softdec.com/cielo/pages/retorno.php</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-05-26 00:59:04 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 013
+     Mensagem: Flag de autorização (3) inválida para Débito.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="d1560d653e3576af8dbffd3d96b28a4a" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>1509584</numero>
+      <valor>48000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-05-26T00:59:04</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>A</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://softdec.com/cielo/pages/retorno.php</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-05-26 00:59:21 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 013
+     Mensagem: Flag de autorização (3) inválida para Débito.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="80e7da8e4ccaa0cee10538c888c975c0" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>1716935</numero>
+      <valor>48000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-05-26T00:59:20</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>A</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://softdec.com/cielo/pages/retorno.php</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 01:00:57 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/pages/retorno.php(Linha 286)
+     MENSAGEM: 
+Undefined index:  nome
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-05-26 01:01:17 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 013
+     Mensagem: Flag de autorização (3) inválida para Débito.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="91ae7a99dc531c6862171ffcf877da31" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>5932003</numero>
+      <valor>48000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-05-26T01:01:16</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>A</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://softdec.com/cielo/pages/retorno.php</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 01:02:08 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/pages/retorno.php(Linha 286)
+     MENSAGEM: 
+Undefined index:  nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 01:03:00 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/pages/retorno.php(Linha 286)
+     MENSAGEM: 
+Undefined index:  nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-26 01:03:01 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/pages/retorno.php(Linha 286)
+     MENSAGEM: 
+Undefined index:  nome
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-05-30 00:22:30 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 013
+     Mensagem: Flag de autorização (3) inválida para Débito.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="698a69993a162bcfc1ea3c2495c6c282" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>2146857</numero>
+      <valor>48000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-05-30T00:22:30</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>A</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://softdec.com/cielo/pages/retorno.php</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-05-30 00:22:35 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 012
+     Mensagem: Número de parcelas ultrapassa o permitido.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="8d883a99f9a929b9960b84abfd095bff" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>9406020</numero>
+      <valor>48000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-05-30T00:22:35</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>4</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://softdec.com/cielo/pages/retorno.php</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-05-30 00:22:39 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 012
+     Mensagem: Número de parcelas ultrapassa o permitido.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="347898929c85616e979c628941247981" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>6484731</numero>
+      <valor>48000</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-05-30T00:22:39</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>5</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://softdec.com/cielo/pages/retorno.php</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-30 00:23:26 (BRT)
+     ARQUIVO: /home/softdec/public_html/cielo/pages/retorno.php(Linha 286)
+     MENSAGEM: 
+Undefined index:  nome
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-30 10:49:39 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 31)
+     MENSAGEM: 
+Use of undefined constant CIELO - assumed 'CIELO'
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-30 10:55:58 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 31)
+     MENSAGEM: 
+Use of undefined constant CIELO - assumed 'CIELO'
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-05-30 11:05:38 (BRT)
+     ARQUIVO: C:\xampp\htdocs\cielo\pages\novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index: codigoBandeira
+

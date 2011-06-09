@@ -1,0 +1,161 @@
+/* reset css */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+
+/* ----------------- */
+a { text-decoration:none; }
+a:hover { text-decoration:none; }
+
+
+/* text & div alignment */
+.fl{ float: left }
+.fr{ float: right }
+.ac{ text-align: center }
+.ar{ text-align: right }
+
+hr { margin-bottom:30px; margin-top:20px; clear:both;  }
+
+/* Wordpress default image  css class format ----------*/
+.alignleft { float:left;  padding:5px; margin:13px 12px 0px 0; text-align:center;  }
+.alignright { float:right; padding:5px;  margin:24px 0 0px 12px; text-align:center; }
+.aligncenter { text-align:center; padding:5px; background:#fff; border-bottom:2px solid  #eee;  }
+
+.alignleft { border:2px solid #eee; background:#fff;  }
+.alignright { border:2px solid #eee; background:#fff;  }
+
+.wp-caption .alignleft { margin:0 15px 10px 15px;  padding:0;    }
+.wp-caption p { margin:0; padding:3px 5px; font:bold 12px Arial, Helvetica, sans-serif;  }
+.wp-caption .alignright { float:right; margin:0 0 10px 15px; padding:0;    }
+.wp-caption { width:auto !important; }
+
+/* text formating ------------------------------ */
+p { margin:0; padding:0px 0 10px 0; font-size:14px; line-height:22px; }
+p em { line-height:20px; } 
+code { line-height:18px; }
+
+ul { margin:0; padding:0;}
+ul li { margin:0 0 8px 20px; padding:0; list-style:disc; line-height:20px; font-size:14px; }
+
+ol { margin:0 0 0 20px; padding:0 0 10px 5px; list-style-type:decimal;  line-height:18px; }
+ol li ol { margin:8px 0 5px 18px; padding:0; }
+ol li { margin:0 0 5px 25px; padding:0; list-style:decimal; }
+
+dl,hr,ol,ul,pre,table,address,fieldset { padding:10px 0 5px 0; margin:0 }
+
+blockquote p { font:italic 18px Georgia, "Times New Roman", Times, serif; margin:0 0 5px 0; padding:0; line-height:23px; }
+blockquote { clear:both; height:100%; margin:10px 0 0px 5px; overflow:hidden; padding:0 0 5px 45px; }
+blockquote cite { font-size:12px; font-style:bold ; float:right; line-height:18px; text-align:right; display:block;   }
+blockquote a { font-size:13px; }
+
+/* notification -------------------------------------- */
+address {  font-style:italic; }
+p.alert, p.download, p.info, p.note {  margin:10px 0 10px 0; padding:9px 10px 9px 36px; }
+p.alert { border-top:1px solid #f0baa2; border-bottom:1px solid #f0baa2; background:#ffd9c8 url(../../images/alert.png) no-repeat 12px 13px; }
+p.download { border-top:1px solid #d4ebaf; border-bottom:1px solid #d4ebaf; background:#edfcd5 url(../../images/download.png) no-repeat 10px 13px; }
+p.info { border-top:1px solid #ccc; border-bottom:1px solid #ccc; background:#eee url(../../images/info.png) no-repeat 12px 13px; }
+p.note { border-top:1px solid #efe3ae; border-bottom:1px solid #efe3ae; background:#fef6d2 url(../../images/note.png) no-repeat 14px 13px; margin:10px 0 10px 0; padding:9px 10px 9px 36px;  }
+
+.sucess_msg { padding:5px; margin-bottom:15px; text-align:center; font-size:12px; font-weight:bold; clear:both; }
+.error_msg { padding:5px; margin-bottom:15px; text-align:center; font-size:12px; font-weight:bold; }
+
+
+/* headings ----- */
+h1 { font-size:24px; }
+h2 { font-size:18px; }
+h3 { font-size:16px; }
+h4 { font-size:24px; }
+h5 { font-size:18px; }
+h6 { font-size:18px; }
+
+
+
+/* headings ---------------------- */
+h1.head { margin:0; font-size:36px; padding:10px 0; padding-bottom:2px; }
+
+
+/*#breadcrumb section  =================================== */
+.breadcrumb { font-size:11px; padding:5px 0; margin-bottom:20px; clear:both; text-transform:uppercase; } 
+.breadcrumb a { font-weight:normal; text-decoration:none; padding:0 3px 0 0; margin:0; text-align:left; text-decoration:none; }
+.breadcrumb strong { padding:0 0 0 5px; margin:0; font-weight:normal; font-size:11px; text-align:left; }
+.breadcrumb a:hover { text-decoration:none; }
+
+
+/* Post Details formating ---------------------------------------------------------------------*/
+.posts h2 { font-size: 23px; }
+.posts h3 {	font-size: 21px; }
+.posts h4 {	font-size: 19px; }
+.posts h5 {	font-size: 17px; }
+.posts h6 {	font-size: 15px; }
+
+.pagination { height:100%; overflow:hidden; text-align:center; clear:left; margin-bottom:25px; }
+.pagination .on,  .pagination a { padding:5px 10px; margin-right:3px; margin-left:3px; display:inline; font-weight:bold; }
+.pagination a { margin-left:0; line-height:28px; text-decoration:none; }
+
+
+/*---------COMMENTS --------- */
+#comments h3{   font:normal 18px Arial, Helvetica, sans-serif; }
+#comments .commentlist { margin:0; padding:0;  }
+#comments .comment { margin: 0px 0 30px 0; padding:0; width: 100%; list-style:none }
+#comments  p.authorcomment { margin:3px 0 0 0; padding:0; line-height:normal;  font-size:11px; }
+#comments .comment .meta-left p{ margin:0; padding:0;}
+#comments .comment small {font-size: 11px }
+#comments ul.children { margin:30px 0 0 20px; padding:0 }
+span.comm-reply{ float:right; padding:3px 8px 3px 8px; font-size:11px; text-transform:uppercase; }
+
+#respond { padding:10px 0 15px 0; margin:0; }
+
+#respond textarea, .commpadd input{ font:13px Arial, Helvetica, sans-serif;   }
+#respond textarea { margin:0; padding:5px; width:75%;  }
+#content .product_inner #respond textarea { width:95%  }
+#content .product_inner #respond input#submit { margin-left:0px; } 
+
+p.commpadd input{ line-height:25px; height:25px; padding:5px 0 0 5px;  }
+p.commpadd label{ padding:0  }
+input#submit { font:bold 12px; text-align:center; padding: 5px; margin-left:100px; cursor:pointer;  }
+.avatar { padding:3px;}
+
+
+/* table formating ------------------------------------*/
+.table { width:100%; margin-bottom:10px;   }
+.table td { padding:5px 10px; vertical-align:top; }
+.table td.title {  font-size:14px; font-weight:bold; }
+.table .row1 { font-size:12px; }
+.table .row1 a { text-decoration:none;}
+.table .row2 { padding-top:10px; font-size:14px; }
+.table .row3 { padding:8px; font-size:13px; }
+.table a { text-decoration:underline; }
+.table a:hover { text-decoration:underline; }
+.table .tprice { padding-left:22px; font-size:14px; text-align:left; }
+.table .remove { font-size:12px; }
+.table .total_price { padding-left:22px; font-size:22px; text-align:left;}
+.table .pro_des { font-size:12px; }
+.table .qty { padding:2px; width:60px; }
+.table_spacer { margin-bottom:30px; }
+
+.total_amount {padding:10px 5px; font-size:18px;  }
+.total_amount_title { padding:8px 5px 0 5px !important;  font-size:16px;  }
+.order_info { height:100%; overflow:hidden; padding:10px; padding-bottom:5px; margin-bottom:10px; }
+.continue_spacer { margin-left:20px; margin-top:17px; }
+.checkout_spacer { margin-top:10px; }
+.help h5 { margin-bottom:10px; }
+.help p.phone { font-size:18px; }
+
+table.checkout_frm td { padding:5px 8px; font-size:13px; }
+table.checkout_frm td.shipping_title { font-size:18px; color:#000; }
+.guest_checkout_spacer  { margin-right:10px;  }
+
+
+.content_full .ordcomment { width:100% !important;  }
+.content_full .ordcomment textarea#client_order_desc { width:40% !important;  }
+.content_full .ordcomment p.commpadd label { display:block; float:left; padding-right:12px; } 
+
+#sidebar .social_media_list, #sidebar .social_media_list, .sidebar_l .social_media_list, .sidebar_r .social_media_list { 
+margin:0; padding:0; border:none; background:none; height:100%; overflow:hidden; }
+#sidebar .social_media_list li, #sidebar .social_media_list li, .sidebar_l .social_media_list li, .sidebar_r .social_media_list li { list-style:none; float:left; margin:0 12px 12px 0; padding:0; background:none !important;}
+#sidebar .social_media_list li a, .sidebar_l .social_media_list li a,  .sidebar_r .social_media_list li a { margin:0; padding:0; background:none !important; }
+
+/* clearfix ----- */
+.clear, .fix { clear:both; display:block; overflow:hidden; visibility:hidden; width:0; height:0 }
+.clearfix:after { clear:both; content:' '; display:block; font-size:0; line-height:0; visibility:hidden; width:0; height:0; }
+.clearfix { display:inline-block }
+* html .clearfix { height:1% }
+.clearfix { display:block; }

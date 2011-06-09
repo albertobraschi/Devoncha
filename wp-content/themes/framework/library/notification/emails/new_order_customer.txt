@@ -1,0 +1,5 @@
+[SUBJECT-STR]Thank you for shopping - Payment Pending[SUBJECT-END]
+<p>Dear [#$to_name#],</p>
+<p>your order received successfully but payment is not confirm yet.</p>
+<p>[#$order_info#]</p>
+<p>Thank you for shopping at [#$store_name#].</p>

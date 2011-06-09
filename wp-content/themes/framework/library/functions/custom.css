@@ -1,0 +1,36 @@
+.tbborder {border: 1px solid #C0C0C0;}
+	 table {background: #fff;}
+	.form-wrap label
+	{
+		display:inline;
+		font-weight:bold;
+	}
+	a.head
+	{
+		background-color:#fff;
+		padding:14px 10px;
+		margin:0 10px;
+		color:#444;
+		font: bold 14px Arial, Helvetica, sans-serif;
+		display:block;
+		height:100%; overflow:hidden;
+		text-decoration:none;
+		border-top:1px solid #e5e5e5;
+		cursor:pointer;
+	}
+	a:hover.head { background:#ff3b99; }
+	
+	span.plus { background:url(../../admin/images/show.png) no-repeat left top; width:22px; height:18px;  display:block; float:left; text-indent:-9009px; }
+	span.minus { background:url(../../admin/images/hide.png) no-repeat left top; width:22px; height:18px;  display:block; float:left; }
+	
+	.options-box { border-bottom:4px solid #eee; padding-bottom:15px; margin-bottom:30px; }
+	
+	.form-field { height:100%; overflow:hidden; border-bottom:1px dashed #e5e5e5; }
+	.form-field label { float:left; padding-top:2px; padding-right:10px; width:155px; font:bold 12px Arial, Helvetica, sans-serif; color:#555; line-height:20px; }
+	.form-field input { width:220px; float:left; margin-right:10px; }
+	.form-field .f_content input { width:220px; float:none; margin-right:10px; }
+	.form-field textarea { width:60%; height:150px;  }
+	.form-field .checkbox { margin-top:8px; float:left !important;   }
+	.form-field p {  padding-top:3px; }
+	.form-field .f_content { float:left; display:block; width:65%; }
+	.button_n { margin-top:10px; }

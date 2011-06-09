@@ -1,0 +1,4 @@
+<p>Thank you, your order has been successfully received.</p>
+<p>Thank you for shopping at [#$store_name#].</p>
+
+will inform you soon

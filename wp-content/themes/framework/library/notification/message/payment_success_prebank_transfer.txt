@@ -1,0 +1,9 @@
+<p>Thank you, your order has been successfully received.</p>
+<p>To complete the order Please transfer amount of <u>[#$order_amt#] </u> out bank with the following information :</p>
+<p>Bank Name : [#$bank_name#]</p>
+<p>Account Number : [#$account_number#]</p>
+<br>
+<p>Please include the following reference : [#$orderId#]</p>
+<br>
+<p>Upon receipt we will process and ship your order.</p>
+<p>Thank you for shopping at [#$store_name#].</p>

@@ -1,0 +1,23 @@
+######################################
+THIS IS "PAYPAL " MODULE
+######################################
+
+1)Copy this folder and paste to library/payment folder
+
+2)Go to wp-admin->Shopping Cart -> Payment  Options
+
+You can see two Sections
+	1)Manage Payment Options  -- All installed payment gateways listed
+	2)Install New Payment Gateway -- Listing of all payment gateways with status
+
+3)You can see current module in "Install New Payment Gateway" section with "Uninstall" label.
+
+4)Install it and you  can see it in "Manage Payment Options" Section.
+
+5)From "Settings" option you need to set necessary option.
+
+6)Your Module is ready to use, you can see this option while checking out in payment options.
+
+
+Thank You
+==================================================================

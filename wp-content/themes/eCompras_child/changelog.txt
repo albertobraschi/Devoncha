@@ -1,0 +1,27 @@
+27th - Oct, 2010 ( content unordered list items fixing, copyright text change & link color fixing)
+--------------------------------------------------
+style.css
+skins/1-default.css
+skins/2-pink.css
+skins/3-green.css
+skins/4-purple.css
+skins/5-yellow.css
+
+
+23rd - Oct, 2010(search in navigation)
+-------------------------------------------------
+header_nav_right.php
+skins/1-default.css
+skins/2-pink.css
+skins/3-green.css
+skins/4-purple.css
+skins/5-yellow.css
+
+19th - Oct, 2010 (archives, sitemap, contact page templates added)
+--------------------------------------------------
+page-archives.php
+page-contact.php
+page-sitemap.php
+style.css
+skins/1-default.css
+skins/2-black.css

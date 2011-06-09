@@ -1,0 +1,6 @@
+[SUBJECT-STR]Order Payment Success[SUBJECT-END]
+<p>Dear [#$user_name#],</p>
+<p>[#$transaction_details#]</p>
+<br>
+<p>We hope you enjoy the shopping. Thanks!</p>
+<p>[#$store_name#]</p>

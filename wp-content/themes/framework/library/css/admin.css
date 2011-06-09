@@ -1,0 +1,108 @@
+/*	--------------------------------------------------
+Global Reset - Resets all browser defaults to 0
+-------------------------------------------------- */
+html, body { margin:0; padding:0; background:#fff; }
+body { font:14px Arial, Helvetica, sans-serif;}
+a { text-decoration:none; }
+a:hover { text-decoration:none; }
+
+
+/* Structure ---------------------- */
+#wrapper { margin:45px auto; width:785px; border:1px solid #dadada; -moz-box-shadow:3px 3px 3px #DDD; -khtml-box-shadow:3px 3px 3px #DDD; -webkit-box-shadow:3px 3px 3px #DDD; }
+#header { background:#050505 url(images/headerbg.png) repeat-x left top; min-height:65px; }
+
+/* header ---------------------- */
+#header img { float:left; margin: 13px 0 0 15px; }
+.frmaework_info { float:right; margin:13px 15px 0 0; }
+.frmaework_info .ftitle { font-size:24px; color:#fff; display:block; }
+.frmaework_info .version { font-size:12px; color:#949494; display:block; text-align:right; }
+
+.theme_info { background:#1f1f1f url(images/header_bottomstrip.png) repeat-x left top; min-height:50px; }
+.theme_name { font-size:28px; font-weight:bold; display:block; float:left; padding:8px 0 0 10px; color:#fff; }
+
+.links { margin:18px 15px 0 0; padding:0; float:right; }
+.links li { margin:0 0 0 22px; padding:2px 0 0 18px; list-style:none; float:left; font:12px Arial, Helvetica, sans-serif; color:#c5c5c5;  }
+.links li a { color:#c5c5c5; text-decoration:none; }
+.links li a:hover { color:#fff; text-decoration:none; }
+
+
+.titlebg { margin-bottom:40px;  background:url(images/titlebg.png) repeat-x top; border-bottom:1px solid #d3d3d3; min-height:47px; }
+.titlebg span { font:18px Arial, Helvetica, sans-serif; color:#1f1f1f; padding:13px 5px 5px 45px; float:left; }
+
+.i_themeguide { background:url(images/i_doc.png) no-repeat left top; }
+.i_changelog { background:url(images/i_log.png) no-repeat left top; }
+
+.i_design_setting { background:url(images/i_design.png) no-repeat 8px 10px; }
+
+
+
+/*  Tabber  Style start -------------------- */
+.tabberlive .tabbertabhide { display:none; }
+ul.tabbernav { margin:0; padding:0; height:30px; font:bold 16px Arial, Helvetica, sans-serif; background:url(images/hr.png) repeat-x bottom left; }
+ul.tabbernav li { list-style:none; margin:0; padding:0; display:inline;   }
+ul.tabbernav li a { padding:10px 20px 11px 20px; margin-left:10px; text-decoration:none;  }
+
+/*---- tabbertab = the tab content---------------------*/
+.tabberlive .tabbertab { padding:0; margin-bottom:20px; }
+/* If desired, hide the heading since a heading is provided by the tab */
+.tabberlive .tabbertab h2 { display:none; }
+.tabberlive#tab2 .tabbertab { height:200px; overflow:auto; }
+
+
+
+/*  Tabber  Style start -------------------- */
+ul.tabbernav li a { background: url(images/tabbg_n.png) repeat-x left top;  border: 1px solid #e5e5e5; border-bottom:none; -moz-border-radius-topleft:8px;  -moz-border-radius-topright:8px; -webkit-border-radius-topleft:5px;  -webkit-border-radius-topright:5px; color: #919191; }
+ul.tabbernav li a:link { color: #919191; }
+ul.tabbernav li a:hover { color: #000; background: #fff;  /*border: 1px solid #cecece;*/  border-bottom:none; }
+ul.tabbernav li.tabberactive a { background:#fff url(images/tabbg_h.png) repeat-x left top; /*border: 1px solid #cecece;*/ color:#000; border-bottom:none; }
+ul.tabbernav li.tabberactive a:hover { color: #000; background:#eee; border-bottom:none; }
+
+/*---- tabbertab = the tab content---------------------*/
+.tabberlive .tabbertab {  background:#fff; padding:25px;    }
+
+.subheading { margin-bottom:15px; padding-bottom:10px; border-bottom:1px solid #e5e5e5; }
+.pos { background:url(images/show.png) no-repeat left 3px; margin-bottom:10px; padding-left:22px; color:#666; font:18px Georgia, "Times New Roman", Times, serif; outline:none; }
+.neg { background:url(images/hide.png) no-repeat left 3px; padding-left:22px; color:#000; font:18px Georgia, "Times New Roman", Times, serif; outline:none; }
+
+.row { border-bottom:1px solid #e5e5e5; padding-bottom:15px; margin-bottom:15px;  }
+.row label { width:120px; float:left; display:block; padding-top:5px; color:#444; font-weight:bold; }
+.row .textfield { background:#fff; padding:7px; font:13px Arial, Helvetica, sans-serif; color:#666; border:1px solid #ccc; width:250px; float:left;  }
+
+.row .note { font-size:11px; color:#757575; display:block; padding-top:4px; float:left; margin-left:120px; clear:both; }
+
+
+
+/* clearfix ----- */
+.clear, .fix { clear:both; display:block; overflow:hidden; visibility:hidden; width:0; height:0 }
+.clearfix:after { clear:both; content:' '; display:block; font-size:0; line-height:0; visibility:hidden; width:0; height:0; }
+.clearfix { display:inline-block }
+* html .clearfix { height:1% }
+.clearfix { display:block; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

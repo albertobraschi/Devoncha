@@ -1,0 +1,4548 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eComFramework/framework v0.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-10-14 15:57+0530\n"
+"Last-Translator: test <test@best.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ default
+#: admin/admin_functions.php:197
+msgid "Select Page"
+msgstr "اختر صفحة"
+
+#@ default
+#: admin/admin_functions.php:218
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+#@ default
+#: admin/admin_options.php:13
+msgid "Please select the CSS skin of your blog here."
+msgstr "الرجاء اختيار الجلد المغلق الخاص بك بلوق هنا."
+
+#@ default
+#: admin/admin_options.php:21
+msgid "Use Custom Stylesheet"
+msgstr "استخدام الأنماط المخصصة"
+
+#@ default
+#: admin/admin_options.php:22
+msgid "If you want to make custom design changes using CSS enable and <a href=''>edit custom.css file here</a>."
+msgstr "إذا كنت تريد إجراء تغييرات على التصميم مخصصة باستخدام المغلق تمكين و <a href=''>تحرير custom.css ملف هنا</a> ."
+
+#@ default
+#: admin/admin_options.php:28
+msgid "Paste the full URL for your favicon image here if you wish to show it in browser address bar. <a href='http://www.favicon.cc/'>Create one here</a>"
+msgstr "لصق عنوان الموقع الكامل للصورة فافيكون هنا إذا كنت ترغب في عرضه في شريط عنوان المتصفح. <a href='http://www.favicon.cc/'>إنشاء واحدة هنا</a>"
+
+#@ default
+#: admin/admin_options.php:33
+msgid "Header Logo Image Path"
+msgstr "رأس مسار صورة الشعار"
+
+#@ default
+#: admin/admin_options.php:34
+msgid "Paste the full URL to your logo image here. eg. : <b>http://mysite.com/images/logo.png</b>"
+msgstr "لصق عنوان الموقع الكامل للصورة شعارك هنا. على سبيل المثال. : <b>http://mysite.com/images/logo.png</b>"
+
+#@ default
+#: admin/admin_options.php:39
+msgid "Display Blog Title instead of Logo"
+msgstr "عرض المدونة العنوان بدلا من الشعار"
+
+#@ default
+#: admin/admin_options.php:40
+msgid "This option will overwrite your logo selection above - You can <a href=''>change your settings here</a>"
+msgstr "وهذا خيار الكتابة فوق شعار اختيارك أعلاه -- يمكنك <a href=''>تغيير إعدادات هنا</a>"
+
+#@ default
+#: admin/admin_options.php:41
+msgid "Display Blog Title and Tagline."
+msgstr "عرض المدونة العنوان وسطر العلامة."
+
+#@ default
+#: admin/admin_options.php:46
+msgid "Syndication / Feed"
+msgstr "القرض / تغذية"
+
+#@ default
+#: admin/admin_options.php:47
+msgid "If you are using a service like Feedburner to manage your RSS feed, enter Feed ID here. If you'd prefer to use the default WordPress feed, simply leave this box blank. eg. : <b>templatic/eKPs</b>"
+msgstr "إذا كنت تستخدم خدمة مثل فيدبورنر لإدارة حسابك آر إس إس ، أدخل اسم المستخدم تغذية هنا. إذا كنت تفضل استخدام الأعلاف وورد الافتراضي ، ببساطة ترك هذا المربع فارغا. على سبيل المثال. : <b>templatic / eKPs</b>"
+
+#@ default
+#: admin/admin_options.php:52
+msgid "Feed URL link"
+msgstr "يورونيوز عنوان الارتباط"
+
+#@ default
+#: admin/admin_options.php:53
+msgid "If you are using a service like Feedburner to manage your RSS feed, enter full URL of your feed here. If you'd prefer to use the default WordPress feed, simply leave this box blank. eg. :<b>http://feeds2.feedburner.com/templatic</b>"
+msgstr "إذا كنت تستخدم خدمة مثل فيدبورنر لإدارة حسابك آر إس إس ، أدخل عنوان الكامل لخلاصتك هنا. إذا كنت تفضل استخدام الأعلاف وورد الافتراضي ، ببساطة ترك هذا المربع فارغا. على سبيل المثال. : <b>http://feeds2.feedburner.com/templatic</b>"
+
+#@ default
+#: admin/admin_options.php:71
+msgid "Cufon Fonts"
+msgstr "Cufon الخطوط"
+
+#@ default
+#: admin/admin_options.php:72
+msgid "Enable cufon style being used for titles?"
+msgstr "تستخدم تمكين نمط cufon للعناوين؟"
+
+#@ default
+#: admin/admin_options.php:73
+msgid "This theme uses Rockwell fonts for headings in the site. You can disable this if you wish to."
+msgstr "هذا الموضوع يستخدم الخطوط روكويل لعناوين في الموقع. يمكنك تعطيل هذا إذا كنت ترغب في."
+
+#@ default
+#: admin/admin_options.php:88
+msgid "Header Navigation Settings"
+msgstr "إعدادات رأس الملاحة"
+
+#@ default
+#: admin/admin_options.php:92
+msgid "Display Store Link?"
+msgstr "عرض الارتباط مخزن؟"
+
+#@ default
+#: admin/admin_options.php:93
+msgid "Wish to display Store Link?"
+msgstr "ترغب في عرض مخزن وصله؟"
+
+#@ default
+#: admin/admin_options.php:94
+msgid "Do you wish to display 'Store' link in Header Navigation? Select 'Show' to display else 'Hide'"
+msgstr "هل ترغب في عرض الارتباط &#39;مخزن&#39; في رأس الملاحة؟ &#39;عرض&#39; حدد لعرض آخر &#39;إخفاء&#39;"
+
+#@ default
+#: admin/admin_options.php:100
+msgid "Display Blog Categories Link?"
+msgstr "صلة وصله عرض المدونة؟"
+
+#@ default
+#: admin/admin_options.php:101
+msgid "Wish to display Blog Categories Link?"
+msgstr "ترغب في عرض المدونة صلة وصله؟"
+
+#@ default
+#: admin/admin_options.php:102
+msgid "Do you wish to display 'Blog Categories' link in Header Navigation? Select 'Show' to display else 'Hide'"
+msgstr "هل ترغب في عرض الارتباط &#39;مدونة صلة&#39; في رأس الملاحة؟ &#39;عرض&#39; حدد لعرض آخر &#39;إخفاء&#39;"
+
+#@ default
+#: admin/admin_options.php:108
+msgid "Display Pages?"
+msgstr "عرض الصفحات؟"
+
+#@ default
+#: admin/admin_options.php:109
+msgid "Wish to display Pages?"
+msgstr "ترغب في عرض صفحات؟"
+
+#@ default
+#: admin/admin_options.php:110
+msgid "Do you wish to display 'Pages' in Header Navigation? Select 'Show' to display else 'Hide'."
+msgstr "هل ترغب في عرض &#39;صفحات&#39; في رأس الملاحة؟ &#39;عرض&#39; حدد لعرض آخر &#39;إخفاء&#39;."
+
+#@ default
+#: admin/admin_options.php:117
+#: admin/admin_options.php:118
+msgid "Exclude Pages from Header Menu"
+msgstr "استبعاد صفحات من رأس القائمة"
+
+#@ default
+#: admin/admin_options.php:119
+msgid "Enter a comma-separated list of the <code>Page ID's</code> that you'd like to display in header (on the right). (ie. <code>1,2,3,4</code>)"
+msgstr "أدخل قائمة مفصولة بفواصل من <code>Page ID&#39;s</code> التي تريد عرضها في رأس (على اليمين). (أي <code>1,2,3,4</code> )"
+
+#@ default
+#: admin/admin_options.php:126
+#: admin/admin_options.php:127
+msgid "Display Categories?"
+msgstr "فئات العرض؟"
+
+#@ default
+#: admin/admin_options.php:128
+msgid "Do you wish to display 'Categories' in Header Navigation? Select 'Show' to display else 'Hide'."
+msgstr "هل ترغب في عرض &#39;فئات&#39; في رأس الملاحة؟ &#39;عرض&#39; حدد لعرض آخر &#39;إخفاء&#39;."
+
+#@ default
+#: admin/admin_options.php:141
+msgid "Menu Category"
+msgstr "القائمة الفئة"
+
+#@ default
+#: admin/admin_options.php:142
+msgid "Header Navigation Select Menu Category"
+msgstr "اختر الفئة رأس الملاحة القائمة"
+
+#@ default
+#: admin/admin_options.php:143
+msgid "Select categories that you'd like to display on the right side in header. Press ctrl to select more than one."
+msgstr "حدد الفئات التي كنت ترغب في عرض على الجانب الأيمن في الرأس. الصحافة السيطرة لاختيار واحد أو أكثر."
+
+#@ default
+#: admin/admin_options.php:149
+msgid "Breadcrumbs Navigation"
+msgstr "مسارات التنقل الملاحة"
+
+#@ default
+#: admin/admin_options.php:150
+#: admin/admin_options.php:172
+msgid "Show breadcrumbs navigation bar"
+msgstr "إظهار مسارات التنقل شريط التنقل"
+
+#@ default
+#: admin/admin_options.php:167
+msgid "Footer Navigation Settings"
+msgstr "إعدادات تذييل الملاحة"
+
+#@ default
+#: admin/admin_options.php:171
+msgid "Footer Navigation"
+msgstr "تذييل الملاحة"
+
+#@ default
+#: admin/admin_options.php:173
+msgid "Select categories that you'd like to display on the right side in footer. Press ctrl to select more than one."
+msgstr "حدد الفئات التي كنت ترغب في عرض على الجانب الأيمن في تذييل. الصحافة السيطرة لاختيار واحد أو أكثر."
+
+#@ default
+#: admin/admin_options.php:193
+msgid "Products Listing Settings -> For 'Store' or 'All Products' Page"
+msgstr "إعدادات قائمة المنتجات --> للحصول على الصفحة جميع منتجات &#39;مخزن&#39; أو"
+
+#@ default
+#: admin/admin_options.php:197
+msgid "Listing Format on 'Store' or 'All Products' Page"
+msgstr "قائمة تنسيق على &#39;مخزن&#39; أو صفحة &#39;جميع المنتجات&#39;"
+
+#@ default
+#: admin/admin_options.php:198
+msgid "Display product listing either grid or normat listing format on 'Store' or 'All Products' Page"
+msgstr "عرض المنتجات إما قائمة أو شبكة النورمات شكل قائمة على &#39;مخزن&#39; أو صفحة &#39;جميع المنتجات&#39;"
+
+#@ default
+#: admin/admin_options.php:204
+#: admin/admin_options.php:308
+#: admin/admin_options.php:412
+#: library/functions/widgets_functions.php:930
+msgid "Number of Products"
+msgstr "عدد من المنتجات"
+
+#@ default
+#: admin/admin_options.php:205
+msgid "Display number of products on Store or All Products Page. The Number is for per page Products number."
+msgstr "عرض عدد من المنتجات على مخزن أو كل صفحة المنتجات. كان الرقم لعدد المنتجات في الصفحة."
+
+#@ default
+#: admin/admin_options.php:211
+#: admin/admin_options.php:315
+msgid "Display Title?"
+msgstr "عرض العنوان؟"
+
+#@ default
+#: admin/admin_options.php:212
+#: admin/admin_options.php:316
+#: admin/admin_options.php:420
+msgid "Check mark if you wish to display Product Title. Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض المنتجات العنوان. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:218
+msgid "Title Display order"
+msgstr "العنوان ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:225
+#: admin/admin_options.php:329
+msgid "Display Image?"
+msgstr "عرض الصور؟"
+
+#@ default
+#: admin/admin_options.php:226
+#: admin/admin_options.php:330
+#: admin/admin_options.php:434
+msgid "Check mark if you wish to display Product Image. Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض صورة المنتج. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:232
+#: admin/admin_options.php:336
+#: admin/admin_options.php:440
+msgid "Image Display Order"
+msgstr "صورة ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:239
+#: admin/admin_options.php:343
+#: admin/admin_options.php:447
+msgid "Set Image Border?"
+msgstr "مجموعة صورة الحدود؟"
+
+#@ default
+#: admin/admin_options.php:240
+msgid "Check mark if wish to set image border."
+msgstr "علامة الاختيار إذا رغبت في وضع حدود الصورة."
+
+#@ default
+#: admin/admin_options.php:246
+#: admin/admin_options.php:350
+#: admin/admin_options.php:454
+msgid "Display Price?"
+msgstr "عرض السعر؟"
+
+#@ default
+#: admin/admin_options.php:247
+#: admin/admin_options.php:351
+#: admin/admin_options.php:455
+msgid "Check mark if you wish to display Product Price. Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض المنتجات السعر. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:253
+#: admin/admin_options.php:357
+msgid "Price Display order"
+msgstr "سعر ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:260
+msgid "Display Description?"
+msgstr "عرض الوصف؟"
+
+#@ default
+#: admin/admin_options.php:261
+msgid "Check mark if you wish to display Product Description. Note that product description will only appear in listing view and not in grid view. Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض وصف المنتج. نلاحظ أن وصف المنتج سوف تظهر فقط في عرض قائمة وليس في عرض الشبكة. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:267
+#: admin/admin_options.php:371
+msgid "Description Display order"
+msgstr "وصف ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:274
+#: admin/admin_options.php:378
+#: admin/admin_options.php:482
+msgid "Display View Button?"
+msgstr "عرض الزر عرض؟"
+
+#@ default
+#: admin/admin_options.php:275
+msgid "Check mark if you wish to display Product View Button. Note that View button will only appear in listing view and not in gird view. Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض المنتجات الزر عرض. لاحظ أن الزر عرض سوف تظهر فقط في قائمة عرض وليس في عرض تنطقوا. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:281
+msgid "View Button Display order"
+msgstr "عرض الطلب زر العرض"
+
+#@ default
+#: admin/admin_options.php:297
+msgid "Products Listing Settings -> For 'Archive' or 'Category' Page"
+msgstr "إعدادات قائمة المنتجات --> ل &#39;الأرشيف&#39; أو &#39;الفئة&#39; صفحة"
+
+#@ default
+#: admin/admin_options.php:301
+#: admin/admin_options.php:405
+msgid "Listing Format"
+msgstr "قائمة تنسيق"
+
+#@ default
+#: admin/admin_options.php:302
+msgid "Display product listing either grid or normat listing format on 'Archive' or 'Category' Page"
+msgstr "عرض المنتجات إما قائمة أو شبكة النورمات شكل قائمة على &#39;الأرشيف&#39; أو صفحة &#39;الفئة&#39;"
+
+#@ default
+#: admin/admin_options.php:309
+msgid "Display number of products on Category or Archive Page. The Number is for per page Products number."
+msgstr "عرض عدد من المنتجات في الفئة أو صفحة الأرشيف. كان الرقم لعدد المنتجات في الصفحة."
+
+#@ default
+#: admin/admin_options.php:322
+msgid "Title Display Order"
+msgstr "العنوان ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:344
+msgid "Please check mark if you wish to set image border in listing."
+msgstr "الرجاء مراجعة علامة إذا كنت ترغب في تعيين الحدود في صورة قائمة."
+
+#@ default
+#: admin/admin_options.php:364
+msgid "Display Product Description?"
+msgstr "عرض وصف المنتج؟"
+
+#@ default
+#: admin/admin_options.php:365
+msgid "Check mark if you wish to display Product Description. Description will only appear in listing view and not in grid view.  Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض وصف المنتج. سوف تظهر فقط في وصف عرض قائمة وليس في عرض الشبكة. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:379
+msgid "Check mark if you wish to display Product View Button. View Button will appear only in listing view and not in gird view. Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض المنتجات الزر عرض. سوف الزر عرض تظهر فقط في قائمة عرض وليس في عرض تنطقوا. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:385
+msgid "Button Display order"
+msgstr "زر ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:401
+msgid "Products Listing Settings -> For Home Page - Latest Products "
+msgstr "إعدادات قائمة المنتجات --> للحصول على الصفحة الرئيسية -- أحدث المنتجات"
+
+#@ default
+#: admin/admin_options.php:406
+msgid "Display product listing either grid or normat listing format on 'Home' Page"
+msgstr "عرض المنتجات إما قائمة أو شبكة النورمات شكل قائمة على صفحة &#39;البداية&#39;"
+
+#@ default
+#: admin/admin_options.php:413
+msgid "Display number of products on 'Home' Page"
+msgstr "عرض عدد من المنتجات على صفحة &#39;البداية&#39;"
+
+#@ default
+#: admin/admin_options.php:419
+msgid "Display Product Title?"
+msgstr "عرض المنتجات العنوان؟"
+
+#@ default
+#: admin/admin_options.php:426
+#: admin/admin_options.php:461
+msgid "Price Display Order"
+msgstr "سعر ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:433
+msgid "Display Product Image?"
+msgstr "عرض صورة المنتج؟"
+
+#@ default
+#: admin/admin_options.php:448
+msgid "Wish to set Image border?"
+msgstr "ترغب في تعيين صورة الحدود؟"
+
+#@ default
+#: admin/admin_options.php:468
+msgid "Display Description"
+msgstr "عرض الوصف"
+
+#@ default
+#: admin/admin_options.php:469
+msgid "Check mark if you wish to display Product Description. Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض وصف المنتج. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:475
+msgid "Description Display Order"
+msgstr "وصف ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:483
+msgid "Check mark if you wish to display Product View Button. Other related options will be effected only if this option is checked."
+msgstr "علامة الاختيار إذا كنت ترغب في عرض المنتجات الزر عرض. ستتأثر الخيارات الأخرى ذات الصلة فقط إذا تم تحديد هذا الخيار."
+
+#@ default
+#: admin/admin_options.php:489
+msgid "View Button Display Order"
+msgstr "الزر عرض ترتيب العرض"
+
+#@ default
+#: admin/admin_options.php:505
+msgid "Image default width & height Settings For Product Listing"
+msgstr "صورة العرض الافتراضي وارتفاع إعدادات قائمة المنتج"
+
+#@ default
+#: admin/admin_options.php:509
+msgid "Default Width (in pixel)"
+msgstr "العرض الافتراضي (في بكسل)"
+
+#@ default
+#: admin/admin_options.php:510
+msgid "Set the image Width. Image will be automatically resized to this width."
+msgstr "تعيين عرض الصورة. وسيتم تغيير حجم الصور تلقائيا لهذا العرض."
+
+#@ default
+#: admin/admin_options.php:516
+msgid "Default Height (in pixel)"
+msgstr "الارتفاع الافتراضي (في بكسل)"
+
+#@ default
+#: admin/admin_options.php:517
+msgid "Set the image Height. Image will be automatically resized to this Height."
+msgstr "تعيين ارتفاع الصورة. وسيتم تغيير حجم الصور تلقائيا لهذا الارتفاع."
+
+#@ default
+#: admin/admin_options.php:522
+msgid "Default Image Cutting Edge"
+msgstr "الصورة الافتراضية قطع الحافة"
+
+#@ default
+#: admin/admin_options.php:523
+msgid "Set Default Image Cutting Edge Position."
+msgstr "مجموعة الصور الافتراضية قطع المركز الحافة."
+
+#@ default
+#: admin/admin_options.php:540
+msgid "Blog Section Settings"
+msgstr "إعدادات القسم كمدونة"
+
+#@ default
+#: admin/admin_options.php:545
+msgid "Select Categories As Blog Categories"
+msgstr "حدد فئات وصلة المدونة"
+
+#@ default
+#: admin/admin_options.php:554
+msgid "Content Display"
+msgstr "محتوى العرض"
+
+#@ default
+#: admin/admin_options.php:555
+msgid "Display Full Post Content"
+msgstr "عرض بوست المحتوى الكامل"
+
+#@ default
+#: admin/admin_options.php:556
+msgid "Instead of default Post excerpts display Full Post Content in Blog Section"
+msgstr "بدلا من الافتراضي مقتطفات حاليا عرض كامل نشر المحتوى في قسم مدونة"
+
+#@ default
+#: admin/admin_options.php:576
+msgid "Stats and Scripts"
+msgstr "احصائيات ومخطوطات"
+
+#@ default
+#: admin/admin_options.php:580
+msgid "Header Scripts"
+msgstr "رأس مخطوطات"
+
+#@ default
+#: admin/admin_options.php:581
+msgid "If you need to add scripts to your header (like <a href='http://haveamint.com/'>Mint</a> tracking code), do so here."
+msgstr "إذا كنت بحاجة إلى إضافة البرامج النصية لرأس الخاص بك (مثل <a href='http://haveamint.com/'>النعناع</a> شفرة التتبع) ، القيام بذلك هنا."
+
+#@ default
+#: admin/admin_options.php:586
+msgid "Footer Scripts"
+msgstr "تذييل مخطوطات"
+
+#@ default
+#: admin/admin_options.php:587
+msgid "If you need to add scripts to your footer (like <a href='http://www.google.com/analytics/'>Google Analytics</a> tracking code), do so here."
+msgstr "إذا كنت بحاجة إلى إضافة البرامج النصية لتذييل الخاص (مثل <a href='http://www.google.com/analytics/'>جوجل تحليلات</a> شفرة التتبع) ، القيام بذلك هنا."
+
+#@ default
+#: admin/admin_options.php:605
+msgid "SEO Options"
+msgstr "كبار المسئولين الاقتصاديين خيارات"
+
+#@ default
+#: admin/admin_options.php:609
+msgid "Meta Description"
+msgstr "وصف ميتا"
+
+#@ default
+#: admin/admin_options.php:610
+msgid "You should use meta descriptions to provide search engines with additional information about topics that appear on your site. This only applies to your home page."
+msgstr "يجب استخدام الأوصاف التعريفية لتزويد محركات البحث مع معلومات إضافية حول المواضيع التي تظهر على موقعك. ينطبق هذا فقط على الصفحة الرئيسية الخاصة بك."
+
+#@ default
+#: admin/admin_options.php:615
+msgid "Meta Keywords (comma separated)"
+msgstr "كلمات التعريف (مفصولة بفواصل)"
+
+#@ default
+#: admin/admin_options.php:616
+msgid "Meta keywords are rarely used nowadays but you can still provide search engines with additional information about topics that appear on your site. This only applies to your home page."
+msgstr "نادرا ما تستخدم كلمات ميتا في الوقت الحاضر ولكن يمكنك لا تزال توفر محركات البحث مع معلومات إضافية حول المواضيع التي تظهر على موقعك. ينطبق هذا فقط على الصفحة الرئيسية الخاصة بك."
+
+#@ default
+#: admin/admin_options.php:621
+msgid "Meta Author"
+msgstr "تعريف المؤلف"
+
+#@ default
+#: admin/admin_options.php:622
+msgid "You should write your <em>full name</em> here but only do so if this blog is writen only by one outhor. This only applies to your home page."
+msgstr "يجب عليك أن تكتب <em>اسمك الكامل</em> هنا ، ولكن القيام بذلك إلا إذا تم كتابة هذا بلوق واحد فقط من outhor. ينطبق هذا فقط على الصفحة الرئيسية الخاصة بك."
+
+#@ default
+#: admin/admin_options.php:639
+msgid "Product  Details  Page Settings"
+msgstr "إعدادات صفحة تفاصيل المنتج"
+
+#@ default
+#: admin/admin_options.php:643
+msgid "Display quantity textbox"
+msgstr "عرض كمية النص"
+
+#@ default
+#: admin/admin_options.php:644
+msgid "Do you want to display quantity textbox on Detail page"
+msgstr "هل تريد عرض نص الكمية على صفحة تفاصيل"
+
+#@ default
+#: admin/admin_options.php:650
+msgid "Set quantity textbox on Shopping Cart page"
+msgstr "ضبط كمية نص على صفحة سلة التسوق"
+
+#@ default
+#: admin/admin_options.php:651
+msgid "Do you want to set quantity textbox on Shopping Cart page to be editable?"
+msgstr "هل تريد تعيين نص الكمية على صفحة سلة التسوق لتكون قابلة للتحرير؟"
+
+#@ default
+#: admin/admin_options.php:658
+msgid "Maximum number of Quantity Decimal"
+msgstr "الحد الأقصى لعدد عشري الكمية"
+
+#@ default
+#: admin/admin_options.php:659
+msgid "Maximum number of quantity Decimal in case of <u>quantity textbox=show</u>"
+msgstr "الحد الأقصى لعدد عشري الكمية في حالة <u>نص كمية = إظهار</u>"
+
+#@ default
+#: admin/admin_options.php:664
+msgid "Show or Hide Product Weight"
+msgstr "إظهار أو إخفاء وزن المنتج"
+
+#@ default
+#: admin/admin_options.php:665
+msgid "Select wish to either Show or Hide Product Weight on Product detail page "
+msgstr "حدد إما يرغبون في إظهار أو إخفاء وزن المنتج على صفحة تفاصيل المنتج"
+
+#@ default
+#: admin/admin_options.php:671
+msgid "Show or Hide 'Tell a Friend'"
+msgstr "إظهار أو إخفاء &#39;أخبر صديقا&#39;"
+
+#@ default
+#: admin/admin_options.php:672
+msgid "Select wish to either Show or Hide 'Tell a Friend' on Product detail page "
+msgstr "حدد إما يرغبون في إظهار أو إخفاء &#39;أخبر صديقا&#39; على صفحة تفاصيل المنتج"
+
+#@ default
+#: admin/admin_options.php:678
+msgid "Show or Hide 'Add Comment'"
+msgstr "إظهار أو إخفاء &#39;التعليق&#39;"
+
+#@ default
+#: admin/admin_options.php:679
+msgid "Select wish to either Show or Hide 'Add Comment' on Product detail page "
+msgstr "حدد إما يرغبون في إظهار أو إخفاء &#39;التعليق&#39; على صفحة تفاصيل المنتج"
+
+#@ default
+#: admin/admin_options.php:687
+msgid "Add to Cart/Send Inquiry Button Position"
+msgstr "أضف إلى سلة / ارسال التحقيق المركز زر"
+
+#@ default
+#: admin/admin_options.php:688
+msgid "Select Add to Cart Button Position in Product Detail Page"
+msgstr "حدد إضافة إلى وضع زر السلة في صفحة تفاصيل المنتج"
+
+#@ default
+#: admin/admin_options.php:694
+msgid "Show or Hide Related produts"
+msgstr "إظهار أو إخفاء برودوتس ذات صلة"
+
+#@ default
+#: admin/admin_options.php:695
+msgid "Wish to either Show or Hide related produts on product detail page"
+msgstr "ترغب في إما إظهار أو إخفاء برودوتس متصلة على صفحة تفاصيل المنتج"
+
+#@ default
+#: admin/admin_options.php:702
+msgid "Number of Related products"
+msgstr "عدد زراعية"
+
+#@ default
+#: admin/admin_options.php:703
+msgid "Number of Related products display on Detail page"
+msgstr "عدد من المنتجات ذات العرض على صفحة تفاصيل"
+
+#@ default
+#: admin/admin_options.php:716
+msgid "Site Pages Layout setting"
+msgstr "موقع الصفحات تخطيط الإعداد"
+
+#@ default
+#: admin/admin_options.php:720
+msgid "Home Page Layout setting"
+msgstr "الصفحة الرئيسية وضع تخطيط"
+
+#@ default
+#: admin/admin_options.php:727
+msgid "Content Page Layout setting"
+msgstr "تحديد محتوى تخطيط الصفحة"
+
+#@ default
+#: admin/admin_options.php:728
+msgid "Select layout of Content pages, e.g. About, Contact Ua"
+msgstr "حدد تخطيط صفحات المحتوى ، على سبيل المثال عن ، اتصل تعميم الوصول إلى الخدمات"
+
+#@ default
+#: admin/admin_options.php:734
+msgid "Product Listing Page Layout setting"
+msgstr "منتج تخطيط الصفحة اظهر الإعداد"
+
+#@ default
+#: admin/admin_options.php:741
+msgid "Blog Listing Page Layout setting"
+msgstr "بلوق الإعداد اظهر تخطيط الصفحة"
+
+#@ default
+#: admin/admin_options.php:748
+msgid "Product Detail Page Layout setting"
+msgstr "منتج تخطيط الصفحة تفاصيل الإعداد"
+
+#@ default
+#: admin/admin_options.php:755
+msgid "Blog Detail Page Layout setting"
+msgstr "بلوق تخطيط الصفحة تفاصيل الإعداد"
+
+#@ default
+#: admin/admin_options.php:762
+msgid "Store Listing Page Layout setting"
+msgstr "مخزن اظهر تخطيط الصفحة الإعداد"
+
+#@ default
+#: admin/admin_options.php:769
+msgid "Shopping Cart Page Layout setting"
+msgstr "التسوق تخطيط الصفحة إعداد السلة"
+
+#@ default
+#: admin/admin_options.php:775
+msgid "Checkout Page Layout setting"
+msgstr "الخروج تخطيط الصفحة الإعداد"
+
+#@ default
+#: admin/admin_options.php:782
+msgid "All Other Pages Layout setting"
+msgstr "كل تخطيط صفحات أخرى الإعداد"
+
+#@ default
+#: admin/admin_settings.php:73
+#: product_menu.php:27
+msgid "Design Settings"
+msgstr "تصميم إعدادات"
+
+#@ default
+#: admin/admin_settings.php:75
+msgid "Show/Hide All Options"
+msgstr "إظهار / إخفاء جميع الخيارات"
+
+#@ default
+#: admin/admin_settings.php:76
+msgid "Show All Options"
+msgstr "اعرض كل خيارات"
+
+#@ default
+#: admin/admin_settings.php:77
+msgid "Hide All Options"
+msgstr "إخفاء كل الخيارات"
+
+#@ default
+#: admin/admin_settings.php:122
+msgid "Child Theme"
+msgstr "موضوع الطفل"
+
+#@ default
+#: admin/admin_settings.php:204
+#: admin/design_settings.php:107
+msgid "label"
+msgstr "ملصق"
+
+#@ default
+#: admin/admin_settings.php:240
+#: admin/admin_settings.php:249
+#: admin/admin_settings.php:262
+#: admin/admin_settings.php:334
+#: admin/design_settings.php:143
+#: admin/design_settings.php:152
+#: admin/design_settings.php:173
+#: library/includes/admin_shipping_settings.php:86
+msgid "name"
+msgstr "اسم"
+
+#@ default
+#: admin/admin_settings.php:241
+#: admin/admin_settings.php:342
+#: admin/design_settings.php:144
+msgid "desc"
+msgstr "تنازلي"
+
+#@ default
+#: admin/admin_settings.php:251
+#: admin/admin_settings.php:311
+#: admin/design_settings.php:154
+#: admin/design_settings.php:163
+#: admin/design_settings.php:223
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#@ default
+#: admin/admin_settings.php:317
+#: admin/design_settings.php:229
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#@ default
+#: admin/design_settings.php:1
+msgid "Framework"
+msgstr "الإطار"
+
+#@ default
+#: admin/design_settings.php:236
+msgid "Are you sure want to Reset Settings?"
+msgstr "هل أنت متأكد تريد إعادة تعيين إعدادات؟"
+
+#@ default
+#: comments-old.php:76
+#: comments-old.php:82
+#: comments.php:63
+#: comments.php:69
+msgid "*"
+msgstr "*"
+
+#@ default
+#: functions.php:93
+msgid "All State"
+msgstr "كل دولة"
+
+#@ default
+#: index.php:81
+msgid "Product"
+msgstr "المنتج"
+
+#@ default
+#: index.php:81
+#: library/functions/general_functions.php:1042
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:76
+#: library/includes/affiliates/export_report.php:21
+#: library/includes/checkout_cart.php:71
+#: message.php:127
+#: message.php:265
+msgid "Qty"
+msgstr "الكميه"
+
+#@ default
+#: index.php:81
+#: library/functions/custom.php:1089
+#: library/functions/general_functions.php:1043
+#: message.php:34
+#: message.php:126
+msgid "Price"
+msgstr "السعر"
+
+#@ default
+#: index.php:89
+#: library/includes/admin_manage_country.php:158
+#: library/includes/admin_manage_orders.php:326
+#: library/includes/admin_manage_state.php:163
+#: library/includes/admin_manage_tax.php:122
+#: library/includes/admin_manage_users.php:195
+#: library/includes/affiliates/export_report.php:109
+#: message.php:128
+#: message.php:270
+msgid "Total"
+msgstr "مجموع"
+
+#@ default
+#: index.php:90
+#: library/functions/widgets_functions.php:1032
+#: library/includes/edit_profile.php:321
+#: library/includes/registration_page.php:29
+#: message.php:14
+#: message.php:80
+#: message.php:136
+#: message.php:240
+msgid "Checkout"
+msgstr "الخروج"
+
+#@ default
+#: library/captcha/captcha_function.php:8
+msgid "Captha"
+msgstr "Captha"
+
+#@ default
+#: library/captcha/captcha_function.php:11
+msgid "Please enter valid black colored text only"
+msgstr "الرجاء إدخال النص صالح اللون الأسود فقط"
+
+#@ default
+#: library/captcha/captcha_function.php:12
+msgid "Please enter black colored text only."
+msgstr "الرجاء إدخال النص اللون الأسود فقط."
+
+#@ default
+#: library/functions/comments_functions.php:46
+msgid "Reply"
+msgstr "الرد"
+
+#@ default
+#: library/functions/custom.php:44
+msgid "Physical Product"
+msgstr "المادية المنتج"
+
+#@ default
+#: library/functions/custom.php:48
+msgid "Download/Digital Product"
+msgstr "تنزيل / المنتجات الرقمية"
+
+#@ default
+#: library/functions/custom.php:52
+msgid "Virtual/Service Product"
+msgstr "الظاهري المنتج / الخدمة"
+
+#@ default
+#: library/functions/custom.php:56
+#: message.php:139
+msgid "Donation Product"
+msgstr "تبرع المنتج"
+
+#@ default
+#: library/functions/custom.php:59
+#: library/functions/general_functions.php:1093
+#: library/includes/admin_coupon.php:96
+#: library/includes/admin_manage_tax.php:92
+#: library/includes/admin_shipping_settings.php:101
+#: library/includes/admin_shipping_settings.php:143
+#: library/includes/admin_shipping_settings.php:181
+#: library/includes/admin_tax_form.php:102
+#: library/includes/admin_tax_form.php:107
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:77
+#: library/includes/affiliates/export_report.php:22
+#: library/includes/cart_detail_page.php:96
+#: library/includes/normal_checkout_page_cartdetail.php:67
+#: library/includes/view_orders.php:6
+#: message.php:266
+msgid "Amount"
+msgstr "المبلغ"
+
+#@ default
+#: library/functions/custom.php:65
+msgid "Affiliate Product"
+msgstr "انضم المنتج"
+
+#@ default
+#: library/functions/custom.php:70
+msgid "Affiliate Link"
+msgstr "انضم صلة"
+
+#@ default
+#: library/functions/custom.php:71
+msgid "On clicking the affiliate link, you will redirected to this url"
+msgstr "على النقر على الرابط التابعة ، وسوف توجيهك إلى هذا الرابط"
+
+#@ default
+#: library/functions/custom.php:73
+msgid "Link Button text"
+msgstr "زر الرابط النص"
+
+#@ default
+#: library/functions/custom.php:74
+msgid "Text will be display on the affiliate link button"
+msgstr "سوف يكون النص عرض على زر التابعة الارتباط"
+
+#@ default
+#: library/functions/custom.php:900
+msgid "Select Digital Product to Upload"
+msgstr "حدد المنتج الرقمية لتحميلها"
+
+#@ default
+#: library/functions/custom.php:906
+msgid "Select Image to Upload"
+msgstr "حدد صورة لترفعه"
+
+#@ default
+#: library/functions/custom.php:936
+msgid "Remove"
+msgstr "إزالة"
+
+#@ default
+#: library/functions/custom.php:1069
+msgid "View all posts and products"
+msgstr "إستعراض جميع المشاركات والمنتجات"
+
+#@ default
+#: library/functions/custom.php:1072
+msgid "View only products"
+msgstr "عرض المنتجات فقط"
+
+#@ default
+#: library/functions/custom.php:1090
+msgid "Is Taxable"
+msgstr "الخاضع للضريبة"
+
+#@ default
+#: library/functions/custom.php:1091
+#: product_menu.php:20
+msgid "Stock"
+msgstr "الأسهم"
+
+#@ default
+#: library/functions/custom.php:1092
+msgid "Main Image"
+msgstr "الصورة الرئيسية"
+
+#@ default
+#: library/functions/custom.php:1095
+msgid "Digital Product"
+msgstr "المنتجات الرقمية"
+
+#@ default
+#: library/functions/custom.php:1097
+msgid "Thumbnails"
+msgstr "الصور المصغرة"
+
+#@ default
+#: library/functions/custom.php:1100
+msgid "Is Product"
+msgstr "هو المنتج"
+
+#@ default
+#: library/functions/custom.php:1113
+#: library/functions/custom.php:1127
+#: library/functions/custom.php:1150
+#: library/functions/custom.php:1162
+#: library/includes/admin_settings.php:292
+#: library/includes/admin_settings.php:324
+#: library/includes/admin_settings.php:335
+#: library/includes/admin_settings.php:342
+#: library/includes/admin_settings.php:353
+#: library/includes/admin_settings.php:362
+#: library/includes/admin_settings.php:371
+#: library/includes/admin_settings.php:380
+#: library/includes/admin_settings.php:396
+#: library/includes/admin_settings.php:402
+#: library/includes/admin_settings.php:409
+#: library/includes/admin_settings.php:417
+#: library/includes/admin_settings.php:424
+#: library/includes/admin_settings.php:435
+#: library/includes/admin_settings.php:443
+#: library/includes/affiliates/affiliates_settings.php:88
+msgid "Yes"
+msgstr "نعم"
+
+#@ default
+#: library/functions/custom.php:1116
+#: library/functions/custom.php:1130
+#: library/functions/custom.php:1153
+#: library/functions/custom.php:1165
+#: library/includes/admin_settings.php:293
+#: library/includes/admin_settings.php:325
+#: library/includes/admin_settings.php:334
+#: library/includes/admin_settings.php:343
+#: library/includes/admin_settings.php:352
+#: library/includes/admin_settings.php:361
+#: library/includes/admin_settings.php:370
+#: library/includes/admin_settings.php:379
+#: library/includes/admin_settings.php:397
+#: library/includes/admin_settings.php:403
+#: library/includes/admin_settings.php:410
+#: library/includes/admin_settings.php:418
+#: library/includes/admin_settings.php:425
+#: library/includes/admin_settings.php:436
+#: library/includes/admin_settings.php:444
+#: library/includes/affiliates/affiliates_settings.php:87
+msgid "No"
+msgstr "لا"
+
+#@ default
+#: library/functions/custom.php:1253
+msgid "Current  Month"
+msgstr "الشهر الحالي"
+
+#@ default
+#: library/functions/custom.php:1254
+msgid "Up to Date"
+msgstr "حتى الآن"
+
+#@ default
+#: library/functions/custom.php:1258
+#: library/includes/admin_stock.php:63
+#: message.php:77
+msgid "Products"
+msgstr "المنتجات"
+
+#@ default
+#: library/functions/custom.php:1264
+msgid "Total Orders"
+msgstr "مجموع الطلبات"
+
+#@ default
+#: library/functions/custom.php:1282
+msgid "Processing Orders"
+msgstr "أوامر تصنيع"
+
+#@ default
+#: library/functions/custom.php:1410
+#: library/functions/general_functions.php:1004
+#: library/includes/admin_manage_orders.php:281
+#: library/includes/view_orders.php:4
+#: message.php:76
+msgid "Order Number"
+msgstr "الأمر رقم"
+
+#@ default
+#: library/functions/custom.php:1411
+#: library/includes/admin_manage_orders.php:285
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:72
+#: library/includes/affiliates/export_report.php:17
+#: library/includes/view_orders.php:5
+#: message.php:261
+msgid "Date"
+msgstr "تاريخ"
+
+#@ default
+#: library/functions/custom.php:1412
+msgid "Bill Amount"
+msgstr "بيل المبلغ"
+
+#@ default
+#: library/functions/custom.php:1413
+#: library/includes/admin_manage_orders.php:286
+#: library/includes/admin_manage_tax.php:95
+#: library/includes/admin_tax_form.php:93
+#: library/includes/view_orders.php:7
+#: message.php:311
+msgid "Status"
+msgstr "حالة"
+
+#@ default
+#: library/functions/custom.php:1430
+msgid "Sorry, Not a single order is there"
+msgstr "عذرا ، وليس هناك أمر واحد"
+
+#@ default
+#: library/functions/custom.php:1444
+msgid "Shopping Cart Summary"
+msgstr "ملخص سلة التسوق"
+
+#@ default
+#: library/functions/custom.php:1447
+msgid "Latest Order List"
+msgstr "أحدث ترتيب القائمة"
+
+#@ twentyten
+#: library/functions/custom_functions.php:471
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">→</span> مواصلة القراءة"
+
+#@ default
+#: library/functions/duplicate_posts.php:11
+#: library/functions/duplicate_posts.php:70
+msgid "No post to duplicate has been supplied!"
+msgstr "لقد تم توفير أية مقالة للتكرار!"
+
+#@ default
+#: library/functions/duplicate_posts.php:30
+#: library/functions/duplicate_posts.php:89
+msgid "Post creation failed, could not find original post:"
+msgstr "فشل مشاركة والخلق ، لا يستطيع ان يجد الوظيفة الأصلية :"
+
+#@ default
+#: library/functions/duplicate_posts.php:40
+#: library/functions/duplicate_posts.php:99
+msgid "Make a duplicate from this post"
+msgstr "جعل نسخة مكررة من هذا المنصب"
+
+#@ default
+#: library/functions/duplicate_posts.php:41
+#: library/functions/duplicate_posts.php:100
+msgid "Duplicate"
+msgstr "مكررة"
+
+#@ default
+#: library/functions/duplicate_posts.php:58
+#: library/functions/duplicate_posts.php:120
+msgid "Copy to a new draft"
+msgstr "نسخة لمشروع جديد"
+
+#@ default
+#: library/functions/general_functions.php:19
+msgid "Pay with name"
+msgstr "دفع مع اسم"
+
+#@ default
+#: library/functions/general_functions.php:253
+#: library/functions/general_functions.php:337
+msgid "Note tax included : "
+msgstr "وشملت الضرائب ملاحظة :"
+
+#@ default
+#: library/functions/general_functions.php:412
+#: library/functions/general_functions.php:1086
+#: library/includes/admin_manage_coupon.php:49
+#: message.php:137
+msgid "Discount Amount"
+msgstr "خصم المبلغ"
+
+#@ default
+#: library/functions/general_functions.php:518
+msgid "Tax"
+msgstr "الضرائب"
+
+#@ default
+#: library/functions/general_functions.php:1005
+msgid "Order Date"
+msgstr "الترتيب التاريخ"
+
+#@ default
+#: library/functions/general_functions.php:1006
+#: library/includes/admin_manage_orders.php:144
+#: library/includes/admin_manage_users.php:37
+#: library/includes/admin_order_detail.php:156
+msgid "Order Status"
+msgstr "ترتيب أوضاع"
+
+#@ default
+#: library/functions/general_functions.php:1012
+#: message.php:107
+#: message.php:143
+msgid "User Information"
+msgstr "معلومات المستخدم"
+
+#@ default
+#: library/functions/general_functions.php:1019
+#: message.php:82
+#: message.php:255
+msgid "Shipping Address"
+msgstr "عنوان الشحن"
+
+#@ default
+#: library/functions/general_functions.php:1027
+msgid "Payment Information"
+msgstr "معلومات الدفع"
+
+#@ default
+#: library/functions/general_functions.php:1028
+#: message.php:108
+msgid "Shipping Information"
+msgstr "معلومات الشحن"
+
+#@ default
+#: library/functions/general_functions.php:1036
+msgid "Products Information"
+msgstr "منتجات المعلومات"
+
+#@ default
+#: library/functions/general_functions.php:1040
+#: library/includes/normal_checkout_page_cartdetail.php:4
+msgid "Image"
+msgstr "صورة"
+
+#@ default
+#: library/functions/general_functions.php:1041
+#: message.php:86
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+#@ default
+#: library/functions/general_functions.php:1044
+msgid "Price Total"
+msgstr "السعر الإجمالي"
+
+#@ default
+#: library/functions/general_functions.php:1069
+msgid "code : "
+msgstr "رمز :"
+
+#@ default
+#: library/functions/general_functions.php:1080
+msgid "Sub Total"
+msgstr "المجموع الفرعي"
+
+#@ default
+#: library/functions/general_functions.php:1105
+msgid "Total Payable Amount"
+msgstr "يدفع المبلغ الإجمالي"
+
+#@ default
+#: library/functions/general_functions.php:1121
+msgid "Please transfer amount of"
+msgstr "الرجاء نقل مبلغ"
+
+#@ default
+#: library/functions/general_functions.php:1121
+msgid "to out bank with following information"
+msgstr "إلى خارج البنك مع المعلومات التالية"
+
+#@ default
+#: library/functions/general_functions.php:1122
+msgid "payment for Order Number"
+msgstr "الدفع عن الأمر رقم"
+
+#@ default
+#: library/functions/general_functions.php:1123
+msgid "Bank Name"
+msgstr "اسم البنك"
+
+#@ default
+#: library/functions/general_functions.php:1124
+msgid "Account Number"
+msgstr "رقم الحساب"
+
+#@ default
+#: library/functions/general_functions.php:1380
+msgid "out_of_stock"
+msgstr "out_of_stock"
+
+#@ default
+#: library/functions/general_functions.php:1520
+#: library/functions/general_functions.php:1525
+msgid "Current stock is"
+msgstr "المخزون الحالي هو"
+
+#@ default
+#: library/functions/general_functions.php:1981
+#: library/functions/general_functions.php:1990
+#: library/includes/admin_stock.php:97
+#: library/includes/admin_stock.php:111
+#: library/includes/admin_stock.php:119
+msgid "Out of Stock"
+msgstr "من المخزون"
+
+#@ default
+#: library/functions/product.php:174
+msgid "select "
+msgstr "حدد"
+
+#@ default
+#: library/functions/product.php:269
+msgid "Donation Amount : "
+msgstr "تبرع المبلغ :"
+
+#@ default
+#: library/functions/product.php:430
+#: library/functions/product.php:522
+#: message.php:297
+msgid "View Details"
+msgstr "عرض تفاصيل"
+
+#@ default
+#: library/functions/product.php:634
+msgid "Product Code"
+msgstr "رمز المنتج"
+
+#@ default
+#: library/functions/theme_ui.php:41
+msgid "Click here"
+msgstr "اضغط هنا"
+
+#@ default
+#: library/functions/theme_ui.php:54
+#: library/functions/widgets_functions.php:798
+msgid "You have"
+msgstr "لديك"
+
+#@ default
+#: library/functions/theme_ui.php:91
+#: library/functions/theme_ui.php:94
+msgid "sizetitle"
+msgstr "sizetitle"
+
+#@ default
+#: library/functions/theme_ui.php:102
+#: library/functions/theme_ui.php:105
+msgid "colortitle"
+msgstr "colortitle"
+
+#@ default
+#: library/functions/theme_ui.php:112
+#: library/functions/theme_ui.php:115
+msgid "att3title"
+msgstr "att3title"
+
+#@ default
+#: library/functions/theme_ui.php:112
+#: library/functions/theme_ui.php:115
+msgid "Attribute3"
+msgstr "Attribute3"
+
+#@ default
+#: library/functions/theme_ui.php:122
+#: library/functions/theme_ui.php:125
+msgid "att4title"
+msgstr "att4title"
+
+#@ default
+#: library/functions/theme_ui.php:122
+#: library/functions/theme_ui.php:125
+msgid "Attribute4"
+msgstr "Attribute4"
+
+#@ default
+#: library/functions/theme_ui.php:132
+#: library/functions/theme_ui.php:135
+msgid "att5title"
+msgstr "att5title"
+
+#@ default
+#: library/functions/theme_ui.php:132
+#: library/functions/theme_ui.php:135
+msgid "Attribute5"
+msgstr "Attribute5"
+
+#@ default
+#: library/functions/widgets_functions.php:84
+msgid "Subscribe"
+msgstr "اشترك"
+
+#@ default
+#: library/functions/widgets_functions.php:656
+#: library/functions/widgets_functions.php:922
+msgid "Categories (<code>IDs</code> separated by commas):"
+msgstr "الفئات ( <code>IDs</code> مفصولة بفواصل) :"
+
+#@ default
+#: library/functions/widgets_functions.php:661
+msgid "Number of posts:"
+msgstr "عدد الوظائف :"
+
+#@ default
+#: library/functions/widgets_functions.php:666
+msgid "Set slider auto rotation:"
+msgstr "مجموعة تناوب التمرير التلقائي :"
+
+#@ default
+#: library/functions/widgets_functions.php:674
+msgid "Slider rotation speed(frame/milisecond):"
+msgstr "التمرير سرعة دوران (الإطار / milisecond) :"
+
+#@ default
+#: library/functions/widgets_functions.php:679
+msgid "Slider image Width in px <br />(Default is 420px):"
+msgstr "المنزلق عرض الصورة في مقصف <br /> (الافتراضي هو 420px) :"
+
+#@ default
+#: library/functions/widgets_functions.php:684
+msgid "Slider image Height in px <br />(Default is 460px):"
+msgstr "المنزلق ارتفاع الصورة في مقصف <br /> (الافتراضي هو 460px) :"
+
+#@ default
+#: library/functions/widgets_functions.php:689
+msgid "Slider content Length in characters:"
+msgstr "التمرير في طول محتوى الأحرف :"
+
+#@ default
+#: library/functions/widgets_functions.php:756
+#: library/functions/widgets_functions.php:820
+#: library/functions/widgets_functions.php:927
+#: library/functions/widgets_functions.php:1055
+#: library/functions/widgets_functions.php:1104
+#: library/functions/widgets_functions.php:1169
+#: library/functions/widgets_functions.php:1250
+#: library/functions/widgets_functions.php:1321
+#: library/includes/admin_country_form.php:54
+#: library/includes/admin_manage_country.php:68
+#: library/includes/admin_manage_country.php:133
+#: library/includes/admin_manage_state.php:68
+#: library/includes/admin_manage_state.php:138
+#: library/includes/admin_manage_tax.php:91
+#: library/includes/admin_state_form.php:65
+#: library/includes/affiliates/admin_affiliates.php:33
+msgid "Title"
+msgstr "العنوان"
+
+#@ default
+#: library/functions/widgets_functions.php:761
+msgid "Exclude Categories (<code>IDs</code> separated by commas)"
+msgstr "استبعاد فئات ( <code>IDs</code> مفصولة بفواصل)"
+
+#@ default
+#: library/functions/widgets_functions.php:851
+#: message.php:318
+msgid "Latest Products"
+msgstr "أحدث المنتجات"
+
+#@ default
+#: library/functions/widgets_functions.php:932
+msgid "Listing Type"
+msgstr "نوع العرض"
+
+#@ default
+#: library/functions/widgets_functions.php:942
+msgid "Wish to display Store link?"
+msgstr "ترغب في عرض مخزن الارتباط؟"
+
+#@ default
+#: library/functions/widgets_functions.php:945
+msgid "Image Width (in px)"
+msgstr "صورة العرض (في بكسل)"
+
+#@ default
+#: library/functions/widgets_functions.php:949
+msgid "Image Height (in px)"
+msgstr "صورة الارتفاع (في بكسل)"
+
+#@ default
+#: library/functions/widgets_functions.php:952
+msgid "Image Cutting Type"
+msgstr "صورة نوع القطع"
+
+#@ default
+#: library/functions/widgets_functions.php:1005
+msgid "Welcome "
+msgstr "مرحبا بكم"
+
+#@ default
+#: library/functions/widgets_functions.php:1009
+#: message.php:4
+msgid "Hello Guest"
+msgstr "مرحبا بالضيف"
+
+#@ default
+#: library/functions/widgets_functions.php:1020
+#: message.php:10
+#: message.php:97
+msgid "My Account"
+msgstr "حسابي"
+
+#@ default
+#: library/functions/widgets_functions.php:1021
+#: message.php:5
+msgid "Logout"
+msgstr "خروج"
+
+#@ default
+#: library/functions/widgets_functions.php:1026
+#: message.php:6
+#: message.php:239
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#@ default
+#: library/functions/widgets_functions.php:1027
+#: library/includes/admin_manage_users.php:155
+msgid "Registration"
+msgstr "تسجيل"
+
+#@ default
+#: library/functions/widgets_functions.php:1031
+msgid "Cart Detail"
+msgstr "عربة التفاصيل"
+
+#@ default
+#: library/functions/widgets_functions.php:1108
+msgid "Advertisement"
+msgstr "إعلان"
+
+#@ default
+#: library/functions/widgets_functions.php:1173
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr "فليكر معرف ( <a href=\"http://www.idgettr.com\">idGettr</a> )"
+
+#@ default
+#: library/functions/widgets_functions.php:1178
+msgid "Number of photos"
+msgstr "عدد الصور"
+
+#@ default
+#: library/functions/widgets_functions.php:1254
+msgid "Number of posts"
+msgstr "عدد الوظائف"
+
+#@ default
+#: library/functions/widgets_functions.php:1325
+msgid "Twitter Account ID"
+msgstr "التغريد حساب معرف"
+
+#@ default
+#: library/functions/widgets_functions.php:1329
+msgid "Number of List"
+msgstr "عدد من قائمة"
+
+#@ default
+#: library/functions/widgets_functions.php:1333
+msgid "Follow Link"
+msgstr "اتبع وصلة"
+
+#@ default
+#: library/functions/yoast-breadcrumbs.php:21
+#: message.php:7
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#@ default
+#: library/functions/yoast-breadcrumbs.php:22
+#: message.php:9
+msgid "Blog"
+msgstr "بلوق"
+
+#@ default
+#: library/functions/yoast-breadcrumbs.php:29
+msgid "Archives for"
+msgstr "المحفوظات ل"
+
+#@ default
+#: library/functions/yoast-breadcrumbs.php:30
+msgid "Search for"
+msgstr "البحث عن"
+
+#@ default
+#: library/functions/yoast-breadcrumbs.php:61
+#: library/includes/admin_paymet_settings.php:59
+#: library/includes/admin_paymethods.php:261
+#: library/includes/admin_paymethods.php:300
+#: library/includes/admin_shippings.php:87
+#: library/includes/affiliates/affiliates_settings.php:44
+msgid "Settings"
+msgstr "إعدادات"
+
+#@ default
+#: library/functions/yoast-breadcrumbs.php:69
+msgid "You cannot edit the Yoast Breadcrumbs options."
+msgstr "لا يمكنك تحرير مسارات التنقل خيارات Yoast."
+
+#@ default
+#: library/functions/yoast-breadcrumbs.php:185
+#: library/functions/yoast-breadcrumbs.php:189
+#: library/functions/yoast-breadcrumbs.php:271
+msgid "home"
+msgstr "الصفحة الرئيسية"
+
+#@ default
+#: library/functions/yoast-breadcrumbs.php:186
+msgid "blog"
+msgstr "بلوق"
+
+#@ yoast-posts
+#: library/functions/yoast-posts.php:23
+msgid "Yoast - Tweaking Websites"
+msgstr "Yoast -- مواقع اللف"
+
+#@ default
+#: library/includes/404_page.php:5
+msgid "Error 404 | Nothing found!"
+msgstr "الخطأ 404 | العثور على أي شيء!"
+
+#@ default
+#: library/includes/404_page.php:6
+msgid "Sorry, but you are looking for something that is not here."
+msgstr "عذرا ، لكن كنت تبحث عن شيء غير موجود هنا."
+
+#@ default
+#: library/includes/add_new_paymethod.php:1
+msgid "Install New Payment Gateway"
+msgstr "تثبيت بوابة الدفع الجديدة"
+
+#@ default
+#: library/includes/add_new_paymethod.php:4
+msgid "Installed successully."
+msgstr "تثبيت successully."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:288
+#: product_menu.php:25
+msgid "Bulk Upload"
+msgstr "تحميل مجمع"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:297
+msgid "Invalid File type. Please upload  CSV(comma delimited) only."
+msgstr "نوع ملف غير صالح. الرجاء تحميل كسف (فاصلة محدد) فقط."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:299
+msgid "Please upload CSV(comma delimited) file only."
+msgstr "الرجاء تحميل كسف (فاصلة محدد) ملف فقط."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:306
+msgid "Uploaded successully."
+msgstr "تم الرفع successully."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:311
+msgid "Select CSV file"
+msgstr "حدد ملف كسف"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:316
+#: library/includes/admin_country_form.php:62
+#: library/includes/admin_coupon.php:108
+#: library/includes/admin_manage_orders.php:324
+#: library/includes/admin_manage_users_frm.php:172
+#: library/includes/admin_notification_edit.php:93
+#: library/includes/admin_paymet_settings.php:106
+#: library/includes/admin_settings.php:261
+#: library/includes/admin_settings.php:312
+#: library/includes/admin_settings.php:385
+#: library/includes/admin_settings.php:495
+#: library/includes/admin_shipping_settings.php:131
+#: library/includes/admin_shipping_settings.php:211
+#: library/includes/admin_shippings.php:96
+#: library/includes/admin_state_form.php:81
+#: library/includes/admin_tax_form.php:114
+#: library/includes/affiliates/admin_affiliates_frm.php:89
+#: library/includes/affiliates/affiliates_settings.php:107
+#: message.php:281
+msgid "Submit"
+msgstr "تقدم"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:320
+msgid "<b><u>Note</u> :- </b>Only CSV(comma delimited) file is allowed. Everytime you upload a CSV, the records will be inserted, not updated."
+msgstr "<b><u>ملاحظة</u> : --</b> (فاصلة محدد) ملف يتم السماح فقط كسف. في كل مرة تقوم تحميل كسف ، سيتم إدراج السجلات ، لا يتم تحديث."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:325
+msgid "You may like to download"
+msgstr "قد هل تريد تنزيل"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:325
+msgid "sample CSV file"
+msgstr "عينة ملف كسف"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:328
+msgid "CSV file field description Guide"
+msgstr "كسف الحقل الوصف ملف دليل"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:334
+msgid "This is \"Product Title\". It's a mandatory field and it should not be left as blank. It must be in first column only."
+msgstr "هذا هو \"عنوان المنتج\". إنه حقل إلزامية وأنه لا ينبغي أن تترك كما فارغة. ويجب أن يكون في العمود الأول فقط."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:338
+msgid "This is the product description. This should be in second column and can also be left as blank."
+msgstr "هذا هو وصف المنتج. ينبغي أن يكون ذلك في العمود الثاني ويمكن أيضا أن تترك كما فارغة."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:342
+msgid ""
+" This is products category. It should always be in third column and if its left as blank, then all products will be inserted in \"Uncategorised\" category.\n"
+"Note: Column Position of above three fields should not be changed. And for below product fields, you can change the column position, but don't change its column's name.\n"
+msgstr "هذا هو منتجات الفئة. وينبغي أن يكون دائما في العمود الثالث ، وإذا ، فارغة ثم يتم إدخال جميع المنتجات إرادتها بقي كما هو الحال في الغير مصنف \"الفئة\" :. ملاحظة عمود موقف أعلاه لا ينبغي أن ثلاثة مجالات يمكن تغييرها. وأدناه الحقول المنتج ، يمكنك تغيير موضع العمود ، ولكن لا تغيير اسم العمود الخاصة به.\n"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:348
+msgid "If you want to insert a digital product, then you'll need to first setup its path from wp-admin > Shopping cart > General settings > Product Settings > Digital Product Path. In this column, just enter the filename of the product. E.g. moneytransfer.zip"
+msgstr "إذا كنت ترغب في إدراج المنتجات الرقمية ، ثم ستحتاج إلى إعداد أول طريقها من الفسفور الابيض بين المشرف عربة التسوق> الإعدادات العامة> المنتجات الضبط <مسار المنتجات الرقمية. في هذا العمود ، فقط أدخل اسم المنتج. على سبيل المثال moneytransfer.zip"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:352
+msgid "The price of this product"
+msgstr "سعر هذا المنتج"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:356
+msgid "This is the products special price last date"
+msgstr "هذا هو ثمن المنتجات الخاصة الميلاد الماضي"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:360
+msgid "This is products special price"
+msgstr "هذا هو سعر المنتجات الخاصة"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:364
+msgid "Products model number"
+msgstr "المنتجات نموذج رقم"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:368
+msgid "This is products size chart. It can be image URL or basic HTML code."
+msgstr "هذا هو المخطط حجم المنتجات. ويمكن أن يكون رابط صورة أو رمز الأساسية أتش تي أم أل."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:372
+msgid "If you have physical product and want to set shipping as free, then set it to \"1\" else \"0\"."
+msgstr "إذا كان لديك منتج مادي وتريد تعيين النقل البحري والخطوط ، ثم تعيينها إلى \"1\" \"0\" آخر."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:376
+msgid ""
+"This is products weight. Just enter the weight amount. You can set weight unit from wp-admin > Shopping cart > General settings > Shopping cart > Default Weight Unit. E.g. if products weight is 10 lbs, then just enter 10\n"
+"Istaxable: If you want to apply tax for this product, then write \"1\", else write \"0\".\n"
+msgstr "هذا هو الوزن المنتجات. فقط أدخل المبلغ الوزن. يمكنك تعيين وحدة الوزن من الفسفور الابيض بين المشرف عربة التسوق> الإعدادات العامة> سلة التسوق> وحدة الوزن الافتراضي. على سبيل المثال إذا كانت منتجات الوزن هو 10 £ ، ثم أدخل فقط 10 Istaxable : إذا كنت تريد تطبيق ضريبة لهذا المنتج ، ثم اكتب \"1\" ، وآخر يكتب \"\n"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:382
+msgid "These are product attribute titles. You can write any attribute here e.g. size, shape, brand, type, etc."
+msgstr "هذه هي العناوين السمة المنتج. يمكنك كتابة أي سمة هنا مثل الحجم والشكل والعلامة التجارية ، نوع ، الخ."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:386
+msgid "These are product attribute values. Multiple values should be comma separated and price should be entered in brackets e.g. Red(-2), black(+2), Blue(+1)."
+msgstr "هذه هي القيم السمة المنتج. وينبغي أن تكون قيم متعددة مفصولة بفواصل ويجب إدخال السعر بين قوسين على سبيل المثال الأحمر (-2) ، أسود (+2) ، الأزرق (+1)."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:390
+msgid "You can manage stock for each and every attributes from here. E.g. for these product attributes: Red(-2), black(+2), Blue(+1), you can enter stock as10,15,50"
+msgstr "يمكنك إدارة المخزون لكل وسمات من هنا. على سبيل المثال لهذه الصفات المنتج : الأحمر (-2) ، أسود (+2) ، الأزرق (+1) ، يمكنك إدخال الأسهم as10 ، 15،50"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:394
+msgid "If you want to enable stock management for your product, then write \"1\" to enable stock management and \"0\" to disable."
+msgstr "إذا كنت تريد لتمكين إدارة المخزون عن المنتج الخاص بك ، ثم كتابة \"1\" لتمكين إدارة المخزون و\"0\" لتعطيل."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:398
+msgid "If you have enabled stock management, then you can write the initial stock (starting stock) value here. \"0\" means out of stock and if you leave it as blank, then it will consider it as unlimited stock."
+msgstr "إذا كان لديك تمكين إدارة المخزون ، ثم يمكنك كتابة الأوراق المالية الأولية (الأسهم البداية) القيمة هنا. \"0\" وسائل للخروج من الأسهم وإذا ترك الأمر كما فارغة ، بعد ذلك سوف تنظر فيه بوصفه الأسهم غير محدود."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:402
+msgid "If you want to set minimum stock alert, then set its limit here. E.g. 5. You'll receive an Email, if the product stock reaches 5 or less than 5."
+msgstr "إذا كنت ترغب في تعيين الحد الأدنى تنبيه للطبيعة ، ثم تعيين حدوده هنا. على سبيل المثال 5. ستتلقى رسالة بريد إلكتروني ، إذا السهم يصل المنتج 5 أو أقل من 5."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:406
+msgid "To show stock details in \"Product detail\" page."
+msgstr "لإظهار التفاصيل الأسهم في صفحة \"تفاصيل المنتج\"."
+
+#@ default
+#: library/includes/admin_bulk_upload.php:410
+msgid "Filename of the products image should be inserted in this field. E.g. tie_01.jpg. If you want to insert more than one product, then you have to insert the column with same title, which would be \"productimage\", then just enter its filename e.g. tie_02.jpg. Finally upload the CSV and then you'll be presented URL where you'll need to upload the images. Use an FTP client like FileZilla to upload the images at that path.\n"
+msgstr "ينبغي إدراج اسم الملف للصورة المنتجات في هذا المجال. على سبيل المثال tie_01.jpg. إذا كنت ترغب في إدراج أكثر من منتج واحد ، ثم لديك لإدراج عمود مع نفس العنوان ، والذي سيكون \"productimage\" ، ثم أدخل اسم الملف الخاص به على سبيل المثال فقط tie_02.jpg. تحميل وأخيرا كسف ثم عليك أن تكون قدمت عنوان حيث ستحتاج لتحميل الصور. استخدام بروتوكول نقل الملفات العملاء مثل فايلزيلا لتحميل الصور في هذا المسار.\n"
+
+#@ default
+#: library/includes/admin_bulk_upload.php:422
+msgid "Please select csv file to upload"
+msgstr "الرجاء اختيار ملف لتحميل كسف"
+
+#@ default
+#: library/includes/admin_country_form.php:35
+msgid "Edit Country"
+msgstr "تحرير البلد."
+
+#@ default
+#: library/includes/admin_country_form.php:35
+msgid "Add Country"
+msgstr "أضف القطرية"
+
+#@ default
+#: library/includes/admin_country_form.php:49
+msgid "Country&nbsp;Code"
+msgstr "دولة القانون"
+
+#@ default
+#: library/includes/admin_country_form.php:64
+#: library/includes/admin_coupon.php:110
+#: library/includes/admin_manage_users_frm.php:174
+#: library/includes/admin_notification_edit.php:94
+#: library/includes/admin_paymet_settings.php:108
+#: library/includes/admin_shipping_settings.php:133
+#: library/includes/admin_shipping_settings.php:213
+#: library/includes/admin_state_form.php:83
+#: library/includes/admin_tax_form.php:116
+#: library/includes/affiliates/admin_affiliates_frm.php:91
+#: message.php:305
+msgid "Cancel"
+msgstr "إلغاء"
+
+#@ default
+#: library/includes/admin_country_form.php:73
+msgid "Please enter Country Code"
+msgstr "الرجاء إدخال رمز البلد"
+
+#@ default
+#: library/includes/admin_country_form.php:79
+#: library/includes/admin_state_form.php:98
+#: library/includes/admin_tax_form.php:126
+msgid "Please enter Title"
+msgstr "الرجاء إدخال العنوان"
+
+#@ default
+#: library/includes/admin_coupon.php:70
+msgid "Edit Coupon"
+msgstr "تحرير القسيمة"
+
+#@ default
+#: library/includes/admin_coupon.php:70
+msgid "Add Coupon"
+msgstr "أضف القسيمة"
+
+#@ default
+#: library/includes/admin_coupon.php:82
+#: library/includes/admin_state_form.php:55
+msgid "Coupon code already exists, Please user different one."
+msgstr "رمز القسيمة موجود مسبقا ، الرجاء مستخدم آخر واحد."
+
+#@ default
+#: library/includes/admin_coupon.php:87
+#: library/includes/admin_manage_coupon.php:47
+msgid "Coupon Code"
+msgstr "رمز القسيمة"
+
+#@ default
+#: library/includes/admin_coupon.php:92
+msgid "Discount&nbsp;Type"
+msgstr "نوع الخصم"
+
+#@ default
+#: library/includes/admin_coupon.php:95
+#: library/includes/admin_tax_form.php:106
+msgid "Percentage"
+msgstr "النسبة المئوية"
+
+#@ default
+#: library/includes/admin_coupon.php:102
+msgid "Value"
+msgstr "القيمة"
+
+#@ default
+#: library/includes/admin_coupon.php:121
+#: library/includes/affiliates/admin_affiliates_frm.php:102
+msgid "Percentage should be less than or equal to 100"
+msgstr "وينبغي أن تكون النسبة المئوية أقل من أو يساوي 100"
+
+#@ default
+#: library/includes/admin_manage_country.php:23
+#: product_menu.php:30
+msgid "Manage Country"
+msgstr "إدارة الدولة"
+
+#@ default
+#: library/includes/admin_manage_country.php:34
+#: library/includes/admin_manage_state.php:34
+msgid "State information added successfully"
+msgstr "وأضاف دولة المعلومات بنجاح"
+
+#@ default
+#: library/includes/admin_manage_country.php:37
+#: library/includes/admin_manage_state.php:37
+msgid "State information deleted successfully"
+msgstr "دولة المعلومات المحذوفة بنجاح"
+
+#@ default
+#: library/includes/admin_manage_country.php:40
+#: library/includes/admin_manage_state.php:40
+msgid "State information edited successfully"
+msgstr "دولة المعلومات تحرير بنجاح"
+
+#@ default
+#: library/includes/admin_manage_country.php:53
+#: library/includes/admin_manage_country.php:69
+#: library/includes/admin_manage_orders.php:139
+#: library/includes/admin_manage_orders.php:195
+#: library/includes/admin_manage_state.php:53
+#: library/includes/admin_manage_state.php:69
+#: library/includes/admin_manage_users.php:32
+#: library/includes/admin_manage_users.php:88
+#: library/includes/admin_stock.php:44
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:44
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:44
+#: message.php:259
+msgid "Search"
+msgstr "البحث"
+
+#@ default
+#: library/includes/admin_manage_country.php:69
+#: library/includes/admin_manage_state.php:69
+msgid "List All"
+msgstr "قائمة جميع"
+
+#@ default
+#: library/includes/admin_manage_country.php:72
+msgid "Search Country United States title with starting characters. ex: to search <b>United States</b> you can enter <b>United</b>"
+msgstr "البحث القطرية لقب الولايات المتحدة مع شخصيات البداية. مثلا : للبحث <b>الولايات المتحدة</b> يمكنك إدخال <b>المتحدة</b>"
+
+#@ default
+#: library/includes/admin_manage_country.php:90
+msgid "[ + Add Country ]"
+msgstr "[+ اضف البلد]"
+
+#@ default
+#: library/includes/admin_manage_country.php:131
+#: library/includes/admin_manage_state.php:136
+msgid "ID"
+msgstr "معرف"
+
+#@ default
+#: library/includes/admin_manage_country.php:132
+#: library/includes/admin_manage_state.php:137
+msgid "Code"
+msgstr "رمز"
+
+#@ default
+#: library/includes/admin_manage_country.php:134
+msgid "States"
+msgstr "الولايات"
+
+#@ default
+#: library/includes/admin_manage_country.php:135
+#: library/includes/admin_manage_state.php:140
+#: library/includes/admin_manage_tax.php:96
+#: library/includes/admin_paymethods.php:260
+#: library/includes/admin_shipping_settings.php:146
+#: library/includes/admin_shippings.php:56
+#: library/includes/affiliates/admin_affiliates.php:36
+msgid "Action"
+msgstr "عمل"
+
+#@ default
+#: library/includes/admin_manage_country.php:147
+msgid "View States"
+msgstr "عرض الولايات"
+
+#@ default
+#: library/includes/admin_manage_country.php:148
+#: library/includes/admin_manage_state.php:153
+#: library/includes/admin_manage_tax.php:112
+msgid "Are you sure want to delete?"
+msgstr "هل أنت متأكد تريد حذف؟"
+
+#@ default
+#: library/includes/admin_manage_country.php:148
+#: library/includes/admin_manage_coupon.php:51
+#: library/includes/admin_manage_coupon.php:70
+#: library/includes/admin_manage_orders.php:314
+#: library/includes/admin_manage_state.php:153
+#: library/includes/admin_manage_tax.php:112
+#: library/includes/admin_shipping_settings.php:167
+#: library/includes/affiliates/admin_affiliates.php:59
+msgid "Delete"
+msgstr "حذف"
+
+#@ default
+#: library/includes/admin_manage_country.php:158
+#: library/includes/admin_manage_state.php:163
+#: library/includes/admin_manage_tax.php:122
+msgid "records"
+msgstr "السجلات"
+
+#@ default
+#: library/includes/admin_manage_country.php:174
+#: library/includes/admin_manage_state.php:179
+#: library/includes/admin_manage_tax.php:138
+msgid "No Record Available"
+msgstr "لا يوجد سجل المتوفرة"
+
+#@ default
+#: library/includes/admin_manage_coupon.php:26
+msgid "Manage Coupons"
+msgstr "إدارة القسائم"
+
+#@ default
+#: library/includes/admin_manage_coupon.php:35
+msgid "Coupon updated successfully."
+msgstr "القسيمة تحديثها بنجاح."
+
+#@ default
+#: library/includes/admin_manage_coupon.php:40
+msgid "Coupon deleted successfully."
+msgstr "القسيمة حذف بنجاح."
+
+#@ default
+#: library/includes/admin_manage_coupon.php:43
+msgid "[ + Add Coupon ]"
+msgstr "[+ اضف القسيمة]"
+
+#@ default
+#: library/includes/admin_manage_coupon.php:48
+msgid "Discount Type"
+msgstr "نوع الخصم"
+
+#@ default
+#: library/includes/admin_manage_coupon.php:50
+#: library/includes/admin_manage_coupon.php:69
+#: library/includes/admin_shipping_settings.php:165
+#: library/includes/admin_shippings.php:86
+#: library/includes/affiliates/admin_affiliates.php:45
+#: message.php:94
+msgid "Edit"
+msgstr "تحرير"
+
+#@ default
+#: library/includes/admin_manage_orders.php:32
+#: product_menu.php:19
+msgid "Manage Orders"
+msgstr "إدارة أوامر"
+
+#@ default
+#: library/includes/admin_manage_orders.php:85
+msgid "Please select atleast one record to delete."
+msgstr "الرجاء اختيار أتلست سجل واحد لحذف."
+
+#@ default
+#: library/includes/admin_manage_orders.php:86
+#: library/includes/admin_manage_orders.php:99
+msgid "Are you sure want to continue?"
+msgstr "هل أنت متأكد من ترغب في الاستمرار؟"
+
+#@ default
+#: library/includes/admin_manage_orders.php:91
+msgid "Select Status to set"
+msgstr "حدد مركز لضبط"
+
+#@ default
+#: library/includes/admin_manage_orders.php:98
+msgid "Please select atleast one record to "
+msgstr "الرجاء اختيار أتلست سجل واحد إلى"
+
+#@ default
+#: library/includes/admin_manage_orders.php:121
+msgid "Deleted successfully..."
+msgstr "حذف بنجاح..."
+
+#@ default
+#: library/includes/admin_manage_orders.php:124
+#: library/includes/admin_manage_users.php:16
+msgid "Status Updated successfully..."
+msgstr "حدثت حالة بنجاح..."
+
+#@ default
+#: library/includes/admin_manage_orders.php:158
+#: library/includes/admin_manage_users.php:51
+msgid "order number"
+msgstr "الأمر رقم"
+
+#@ default
+#: library/includes/admin_manage_orders.php:173
+#: library/includes/admin_manage_users.php:66
+msgid "Select Payment Type"
+msgstr "اختر نوع الدفع"
+
+#@ default
+#: library/includes/admin_manage_orders.php:186
+#: library/includes/admin_manage_orders.php:316
+#: library/includes/admin_manage_users.php:79
+msgid "Select Status"
+msgstr "حدد مركز"
+
+#@ default
+#: library/includes/admin_manage_orders.php:207
+#: library/includes/admin_manage_users.php:100
+msgid "List All Orders"
+msgstr "قائمة بجميع أوامر"
+
+#@ default
+#: library/includes/admin_manage_orders.php:212
+#: library/includes/admin_manage_users.php:105
+msgid "<u><b>Note</b></u> : you can search multiple orders by enter \"Order Number\"  comma seperated. example : 1,2,3,4"
+msgstr "<b><u>ملاحظة</u></b> : يمكنك البحث أوامر متعددة عن طريق إدخال طلب الرقم \"فاصلة\" المشتتة. على سبيل المثال : 1،2،3،4"
+
+#@ default
+#: library/includes/admin_manage_orders.php:282
+msgid "Customer Name"
+msgstr "اسم العميل"
+
+#@ default
+#: library/includes/admin_manage_orders.php:283
+msgid "Order Total"
+msgstr "أجل المجموع"
+
+#@ default
+#: library/includes/admin_manage_orders.php:284
+msgid "Payment Type"
+msgstr "نوع الدفع"
+
+#@ default
+#: library/includes/admin_manage_orders.php:315
+msgid "Set Status to :"
+msgstr "تغيير الحالة إلى ما يلي :"
+
+#@ default
+#: library/includes/admin_manage_orders.php:326
+msgid "orders"
+msgstr "أوامر"
+
+#@ default
+#: library/includes/admin_manage_orders.php:344
+#: library/includes/admin_manage_users.php:206
+msgid "No Orders Available"
+msgstr "أي أوامر المتوفرة"
+
+#@ default
+#: library/includes/admin_manage_state.php:23
+#: product_menu.php:31
+msgid "Manage States"
+msgstr "إدارة الولايات"
+
+#@ default
+#: library/includes/admin_manage_state.php:72
+msgid "Search State title with starting characters. ex: to search <b>London City</b> you can enter <b>London</b>"
+msgstr "البحث الدولة العنوان بأحرف البداية. مثلا : <b>مدينة لندن</b> للبحث يمكنك إدخال <b>لندن</b>"
+
+#@ default
+#: library/includes/admin_manage_state.php:90
+msgid "[ + Add State ]"
+msgstr "[+ اضف الدولة]"
+
+#@ default
+#: library/includes/admin_manage_state.php:139
+#: library/includes/admin_manage_tax.php:94
+#: library/includes/admin_manage_users_frm.php:114
+#: library/includes/admin_manage_users_frm.php:158
+#: library/includes/admin_settings.php:480
+#: library/includes/admin_shipping_settings.php:113
+#: library/includes/admin_shipping_settings.php:193
+#: library/includes/admin_state_form.php:71
+#: library/includes/admin_tax_form.php:73
+#: message.php:252
+msgid "Country"
+msgstr "البلد"
+
+#@ default
+#: library/includes/admin_manage_tax.php:23
+#: product_menu.php:29
+msgid "Manage Tax"
+msgstr "إدارة الضرائب"
+
+#@ default
+#: library/includes/admin_manage_tax.php:34
+msgid "Information added successfully"
+msgstr "إضافة المعلومات بنجاح"
+
+#@ default
+#: library/includes/admin_manage_tax.php:37
+msgid "Information deleted successfully"
+msgstr "المعلومات التي تم حذفها بنجاح"
+
+#@ default
+#: library/includes/admin_manage_tax.php:40
+msgid "Information edited successfully"
+msgstr "معلومات تحرير بنجاح"
+
+#@ default
+#: library/includes/admin_manage_tax.php:47
+msgid "[ + Add Tax ]"
+msgstr "[+ اضف الضرائب]"
+
+#@ default
+#: library/includes/admin_manage_tax.php:93
+msgid "State	"
+msgstr "الدولة"
+
+#@ default
+#: library/includes/admin_manage_tax.php:153
+#: library/includes/admin_tax_form.php:96
+msgid "Active"
+msgstr "أحدث"
+
+#@ default
+#: library/includes/admin_manage_tax.php:156
+#: library/includes/admin_tax_form.php:97
+msgid "Inactive"
+msgstr "غير فعال"
+
+#@ default
+#: library/includes/admin_manage_users.php:7
+#: product_menu.php:21
+msgid "Manage Users"
+msgstr "إدارة المستخدمين"
+
+#@ default
+#: library/includes/admin_manage_users.php:23
+msgid "Click to Add or Delete Users"
+msgstr "انقر لإضافة أو حذف المستخدمين"
+
+#@ default
+#: library/includes/admin_manage_users.php:153
+msgid "User ID"
+msgstr "هوية المستخدم"
+
+#@ default
+#: library/includes/admin_manage_users.php:154
+#: library/includes/admin_notification_edit.php:47
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#@ default
+#: library/includes/admin_manage_users.php:156
+msgid "Orders"
+msgstr "أوامر"
+
+#@ default
+#: library/includes/admin_manage_users.php:157
+#: library/includes/admin_manage_users.php:178
+#: message.php:287
+msgid "View Detail"
+msgstr "عرض التفاصيل"
+
+#@ default
+#: library/includes/admin_manage_users.php:195
+msgid "users"
+msgstr "المستخدمين"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:69
+msgid "Edit User"
+msgstr "تحرير المستخدم"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:83
+msgid "User Information "
+msgstr "معلومات المستخدم"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:85
+#: library/includes/admin_manage_users_frm.php:129
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:90
+#: library/includes/admin_manage_users_frm.php:134
+#: library/includes/admin_settings.php:460
+#: message.php:248
+msgid "Address1"
+msgstr "Address1"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:96
+#: library/includes/admin_manage_users_frm.php:140
+#: library/includes/admin_settings.php:465
+#: message.php:249
+msgid "Address2"
+msgstr "ADDRESS2"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:102
+#: library/includes/admin_manage_users_frm.php:146
+#: library/includes/admin_settings.php:470
+#: message.php:250
+msgid "City"
+msgstr "المدينة"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:108
+#: library/includes/admin_manage_users_frm.php:152
+#: library/includes/admin_settings.php:475
+#: library/includes/admin_shipping_settings.php:122
+#: library/includes/admin_shipping_settings.php:202
+#: library/includes/admin_tax_form.php:83
+#: message.php:251
+msgid "State"
+msgstr "الدولة"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:120
+#: library/includes/admin_manage_users_frm.php:164
+#: library/includes/admin_settings.php:484
+#: message.php:253
+msgid "Postal Code"
+msgstr "الرمز البريدي"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:127
+msgid "Shipping Information "
+msgstr "معلومات الشحن"
+
+#@ default
+#: library/includes/admin_manage_users_frm.php:183
+msgid "Please enter Full Name"
+msgstr "الرجاء إدخال الاسم الكامل"
+
+#@ default
+#: library/includes/admin_notification.php:8
+#: library/includes/admin_notification_edit.php:29
+msgid "Manage Notification"
+msgstr "إدارة الإعلام"
+
+#@ default
+#: library/includes/admin_notification.php:14
+msgid "updated successfully."
+msgstr "تحديث بنجاح."
+
+#@ default
+#: library/includes/admin_notification.php:103
+msgid "Emails"
+msgstr "رسائل البريد الإلكتروني"
+
+#@ default
+#: library/includes/admin_notification.php:107
+#: library/includes/admin_notification.php:136
+#: library/includes/admin_notification_edit.php:69
+msgid "File Name"
+msgstr "اسم الملف"
+
+#@ default
+#: library/includes/admin_notification.php:108
+#: library/includes/admin_notification_edit.php:81
+#: message.php:29
+#: message.php:62
+msgid "Subject"
+msgstr "الموضوع"
+
+#@ default
+#: library/includes/admin_notification.php:109
+#: library/includes/admin_notification.php:137
+msgid "Description"
+msgstr "الوصف"
+
+#@ default
+#: library/includes/admin_notification.php:132
+msgid "Messages"
+msgstr "رسائل"
+
+#@ default
+#: library/includes/admin_notification_edit.php:55
+#: library/includes/admin_notification_edit.php:88
+msgid "Message"
+msgstr "رسالة"
+
+#@ default
+#: library/includes/admin_notification_edit.php:73
+msgid "File Path"
+msgstr "مسار الملف"
+
+#@ default
+#: library/includes/admin_notification_edit.php:95
+#: message.php:91
+msgid "Back"
+msgstr "العودة"
+
+#@ default
+#: library/includes/admin_order_detail.php:98
+msgid "Your Affiliate Sale"
+msgstr "بيع التابعة الخاص بك"
+
+#@ default
+#: library/includes/admin_order_detail.php:131
+msgid "Order Detail of Order"
+msgstr "ترتيب تفاصيل ترتيب"
+
+#@ default
+#: library/includes/admin_order_detail.php:139
+msgid "Order Request IP Address : "
+msgstr "ترتيب العنوان طلب الملكية الفكرية :"
+
+#@ default
+#: library/includes/admin_order_detail.php:143
+msgid "Order status changed successfuly"
+msgstr "تغيير ترتيب الوضع بنجاح"
+
+#@ default
+#: library/includes/admin_order_detail.php:169
+msgid "Comments"
+msgstr "تعليقات"
+
+#@ default
+#: library/includes/admin_order_detail.php:174
+#: message.php:115
+msgid "Update"
+msgstr "التحديث"
+
+#@ default
+#: library/includes/admin_order_detail.php:180
+msgid "Back to Orders Listing"
+msgstr "العودة إلى قائمة الطلبات"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:67
+#: library/includes/admin_shipping_settings.php:91
+msgid "Updated Succesfully"
+msgstr "تحديث بنجاح"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:73
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:77
+#: library/includes/admin_paymethods.php:258
+msgid "Is Active"
+msgstr "نشط"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:79
+#: library/includes/admin_paymethods.php:296
+msgid "Activate"
+msgstr "تفعيل"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:80
+#: library/includes/admin_paymethods.php:293
+msgid "Deactivate"
+msgstr "عطل"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:85
+msgid "Display Order"
+msgstr "ترتيب العرض"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:97
+msgid "title"
+msgstr "العنوان"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:99
+msgid "description"
+msgstr "الوصف"
+
+#@ default
+#: library/includes/admin_paymet_settings.php:119
+msgid "Please enter Payment Method"
+msgstr "الرجاء إدخال طريقة الدفع"
+
+#@ default
+#: library/includes/admin_paymethods.php:57
+#: library/includes/admin_paymethods.php:63
+#: library/includes/admin_paymethods.php:69
+#: library/includes/admin_paymethods.php:75
+#: library/includes/admin_paymethods.php:93
+#: library/payment/2co/install.php:18
+#: library/payment/authorizenet/install.php:13
+#: library/payment/authorizenet/install.php:19
+#: library/payment/googlechkout/install.php:11
+#: library/payment/paypal/install.php:11
+#: library/payment/paypal/install.php:17
+#: library/payment/paypal/install.php:23
+#: library/payment/paypal/install.php:29
+#: library/payment/paypal_pro/install.php:11
+#: library/payment/paypal_pro/install.php:17
+#: library/payment/paypal_pro/install.php:23
+#: library/payment/paypal_pro_express/install.php:11
+#: library/payment/paypal_pro_express/install.php:17
+#: library/payment/paypal_pro_express/install.php:23
+#: library/payment/paypal_pro_express/install.php:29
+#: library/payment/paypal_pro_express/install.php:35
+#: library/payment/worldpay/install.php:11
+#: library/payment/worldpay/install.php:17
+msgid "Example"
+msgstr "المثال"
+
+#@ default
+#: library/includes/admin_paymethods.php:241
+msgid "Manage Payment Options"
+msgstr "إدارة خيارات الدفع"
+
+#@ default
+#: library/includes/admin_paymethods.php:253
+msgid "Current Installed"
+msgstr "الحالية المثبتة"
+
+#@ default
+#: library/includes/admin_paymethods.php:257
+#: library/includes/admin_shippings.php:55
+msgid "Method Name"
+msgstr "اسم الأسلوب"
+
+#@ default
+#: library/includes/admin_paymethods.php:259
+msgid "Sort Order"
+msgstr "الترتيب"
+
+#@ default
+#: library/includes/admin_paymethods.php:314
+msgid "Install New / All Options"
+msgstr "تثبيت جديد / جميع الخيارات"
+
+#@ default
+#: library/includes/admin_settings.php:169
+#: product_menu.php:28
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#@ default
+#: library/includes/admin_settings.php:182
+#: library/includes/admin_settings.php:187
+#: library/includes/admin_settings.php:196
+#: message.php:13
+#: product_menu.php:9
+#: product_menu.php:13
+msgid "Shopping Cart"
+msgstr "سلة التسوق"
+
+#@ default
+#: library/includes/admin_settings.php:185
+msgid "Store Type"
+msgstr "تخزين نوع"
+
+#@ default
+#: library/includes/admin_settings.php:188
+msgid "Digital Shop"
+msgstr "الرقمية للتسوق"
+
+#@ default
+#: library/includes/admin_settings.php:190
+msgid "Catalog Mode"
+msgstr "وضع التسويقي"
+
+#@ default
+#: library/includes/admin_settings.php:194
+msgid "<em>Checkout Type (for 'Shopping Cart' and 'Digital Shop' only)</em>"
+msgstr "<em>الخروج نوع (ل &#39;سلة التسوق والرقمية متجر&#39; فقط &#39;)</em>"
+
+#@ default
+#: library/includes/admin_settings.php:197
+msgid "Buy Now Button"
+msgstr "زر شراء الآن"
+
+#@ default
+#: library/includes/admin_settings.php:201
+msgid "Checkout/Login Method"
+msgstr "الخروج / طريقة الدخول"
+
+#@ default
+#: library/includes/admin_settings.php:203
+msgid "Normal Login Checkout"
+msgstr "طبيعي الخروج تسجيل الدخول"
+
+#@ default
+#: library/includes/admin_settings.php:204
+#: message.php:205
+msgid "Checkout as Guest"
+msgstr "الخروج وآراء"
+
+#@ default
+#: library/includes/admin_settings.php:205
+msgid "Login and Registration not allowed"
+msgstr "الدخول والتسجيل غير مسموح"
+
+#@ default
+#: library/includes/admin_settings.php:206
+msgid "Registration not allowed"
+msgstr "تسجيل غير مسموح"
+
+#@ default
+#: library/includes/admin_settings.php:210
+msgid "From Email Name"
+msgstr "من اسم البريد الإلكتروني"
+
+#@ default
+#: library/includes/admin_settings.php:214
+msgid "From Email ID"
+msgstr "من معرف البريد الإلكتروني"
+
+#@ default
+#: library/includes/admin_settings.php:218
+msgid "Default Currency (Ex.: USD)"
+msgstr "العملة الافتراضية (مثلا : دولار أمريكي)"
+
+#@ default
+#: library/includes/admin_settings.php:222
+msgid "Default Currency Symbol (Ex.: $)"
+msgstr "رمز العملة الافتراضي (مثلا : $)"
+
+#@ default
+#: library/includes/admin_settings.php:226
+msgid "Price Format Decimals <br> (Ex.: 0 for 1/1 for 1.0/2 for 1.00/3 for 1.000/4 for  1.000)"
+msgstr "عشرى السعر تنسيق <br> (مثلا : ل0 1 / 1 / 2 1.0 لمدة 3 / 4 ل1.00 / 1.000 1.000 ل)"
+
+#@ default
+#: library/includes/admin_settings.php:230
+msgid "Price Format Currency Symbol Position"
+msgstr "سعر العملة رمز تنسيق الموقف"
+
+#@ default
+#: library/includes/admin_settings.php:242
+#, php-format
+msgid "Before Price Amount(%s 10.00)"
+msgstr "قبل المبلغ السعر (10.00 %s)"
+
+#@ default
+#: library/includes/admin_settings.php:243
+#, php-format
+msgid "After Price Amount(10.00 %s)"
+msgstr "بعد المبلغ السعر (10.00 %s)"
+
+#@ default
+#: library/includes/admin_settings.php:244
+msgid "None(10.00)"
+msgstr "بلا (10.00)"
+
+#@ default
+#: library/includes/admin_settings.php:249
+msgid "Default Weight Unit (Ex.: gr,dr,oz or lb)"
+msgstr "الافتراضي وحدة الوزن (مثلا : غرام ، الدكتور ، أو أوقية رطل)"
+
+#@ default
+#: library/includes/admin_settings.php:251
+msgid "You can also leave this as blank "
+msgstr "كما يمكنك ترك هذا فارغا كما"
+
+#@ default
+#: library/includes/admin_settings.php:256
+msgid "Product Tax - apply to each products (%)"
+msgstr "المنتج الضرائب -- على كل المنتجات (٪) تطبيق"
+
+#@ default
+#: library/includes/admin_settings.php:267
+msgid "Product Settings"
+msgstr "إعدادات المنتج"
+
+#@ default
+#: library/includes/admin_settings.php:271
+msgid "Product Image Path"
+msgstr "صورة المنتج مسار"
+
+#@ default
+#: library/includes/admin_settings.php:272
+msgid "(Default folder is 'products_img')"
+msgstr "(المجلد الافتراضي هو &#39;products_img&#39;)"
+
+#@ default
+#: library/includes/admin_settings.php:276
+msgid "Digital Product Path"
+msgstr "المنتجات الرقمية مسار"
+
+#@ default
+#: library/includes/admin_settings.php:277
+msgid "(Default folder is 'digital_products')"
+msgstr "(المجلد الافتراضي هو &#39;digital_products&#39;)"
+
+#@ default
+#: library/includes/admin_settings.php:284
+msgid "Stock Settings"
+msgstr "الأسهم إعدادات"
+
+#@ default
+#: library/includes/admin_settings.php:290
+msgid "Set email alert on minimum stock of Product"
+msgstr "تعيين تنبيه بالبريد الالكتروني على الحد الأدنى من المخزون المنتج"
+
+#@ default
+#: library/includes/admin_settings.php:297
+msgid "Stock calculation for order status"
+msgstr "الأسهم حساب للحصول على مركز النظام"
+
+#@ default
+#: library/includes/admin_settings.php:300
+msgid "All Status"
+msgstr "جميع الأحوال"
+
+#@ default
+#: library/includes/admin_settings.php:318
+msgid "Email Settings"
+msgstr "إعدادات البريد الإلكتروني"
+
+#@ default
+#: library/includes/admin_settings.php:321
+msgid "Send Registration Email Notification"
+msgstr "إرسال البريد الإلكتروني تسجيل إعلام"
+
+#@ default
+#: library/includes/admin_settings.php:329
+msgid "Send Guest Registration Email Notification"
+msgstr "آراء إرسال إعلام البريد الإلكتروني التسجيل"
+
+#@ default
+#: library/includes/admin_settings.php:330
+msgid "In case of Checkout as Guest do you want to send Registration Email Notification"
+msgstr "في حالة الخروج وآراء هل تريد إرسال البريد الإلكتروني الإخطار التسجيل"
+
+#@ default
+#: library/includes/admin_settings.php:339
+msgid "Send Forgot Password Email Notification"
+msgstr "إرسال البريد الإلكتروني كلمة المرور نسيت إعلام"
+
+#@ default
+#: library/includes/admin_settings.php:347
+msgid "Send New Order Success Email to Customer"
+msgstr "إرسال بريد إلكتروني جديد نجاح اجل ان العملاء"
+
+#@ default
+#: library/includes/admin_settings.php:348
+msgid "Send an Email to customer if Checkout is successfull"
+msgstr "إرسال بريد إلكتروني إلى العميل إذا الخروج بنجاح"
+
+#@ default
+#: library/includes/admin_settings.php:357
+msgid "Send New Order Success Email to Admin"
+msgstr "إرسال بريد إلكتروني جديد لترتيب النجاح الادارية"
+
+#@ default
+#: library/includes/admin_settings.php:358
+msgid "Send an Email to Admin if Checkout is successfull"
+msgstr "إرسال بريد إلكتروني إلى المشرف إذا الخروج بنجاح"
+
+#@ default
+#: library/includes/admin_settings.php:366
+msgid "Send Order Approval Email from wp-admin"
+msgstr "إرسال طلب الموافقة على البريد الإلكتروني من المشرف الفسفور الابيض"
+
+#@ default
+#: library/includes/admin_settings.php:367
+msgid "Send an Email to customer in case of wp-admin order approval"
+msgstr "إرسال بريد إلكتروني إلى العملاء في حالة الموافقة أجل الفسفور الابيض بين المشرف"
+
+#@ default
+#: library/includes/admin_settings.php:375
+msgid "Send Order Rejection Email from wp-admin"
+msgstr "إرسال البريد الإلكتروني رفض طلب من المشرف الفسفور الابيض"
+
+#@ default
+#: library/includes/admin_settings.php:376
+msgid "Send an Email to customer in case of wp-admin order rejection"
+msgstr "إرسال بريد إلكتروني إلى العملاء في حالة رفض النظام الفسفور الابيض بين المشرف"
+
+#@ default
+#: library/includes/admin_settings.php:391
+msgid "Other Settings"
+msgstr "إعدادات أخرى"
+
+#@ default
+#: library/includes/admin_settings.php:394
+msgid "Enable SSL - https for checkout process"
+msgstr "تمكين خدمة تصميم المواقع -- الشبكي لعملية السحب"
+
+#@ default
+#: library/includes/admin_settings.php:400
+msgid "Enable SSL - https for Login process"
+msgstr "تمكين خدمة تصميم المواقع -- الشبكي لعملية تسجيل الدخول"
+
+#@ default
+#: library/includes/admin_settings.php:407
+msgid "Enable Auto login after successful Registraton"
+msgstr "تمكين دخول السيارات بعد نجاح Registraton"
+
+#@ default
+#: library/includes/admin_settings.php:415
+msgid "Display Blog Page link on header navigation"
+msgstr "عرض الارتباط صفحة المدونة على رأس الملاحة"
+
+#@ default
+#: library/includes/admin_settings.php:422
+msgid "Display Store Page link on header navigation"
+msgstr "عرض الارتباط على الصفحة مخزن رأس الملاحة"
+
+#@ default
+#: library/includes/admin_settings.php:429
+msgid "Display Number of Orders on Admin Dashboard"
+msgstr "عرض عدد الطلبات على الادارة وحة القيادة"
+
+#@ default
+#: library/includes/admin_settings.php:433
+msgid "Display Coupon code on checkout page"
+msgstr "عرض رمز القسيمة على صفحة الخروج"
+
+#@ default
+#: library/includes/admin_settings.php:440
+msgid "Display Term and Conditions"
+msgstr "عرض المدة والشروط"
+
+#@ default
+#: library/includes/admin_settings.php:441
+msgid "Display Term and Conditions checkbox at checkout page"
+msgstr "عرض الأجل وشروط الاختيار في صفحة الخروج"
+
+#@ default
+#: library/includes/admin_settings.php:446
+msgid "syntax beside checkbox"
+msgstr "بناء الجملة بجانب مربع"
+
+#@ default
+#: library/includes/admin_settings.php:449
+msgid "Registration Page Mandatory Fields"
+msgstr "الحقول تسجيل إلزامية الصفحة"
+
+#@ default
+#: library/includes/admin_settings.php:450
+msgid "the selected fields will be Mandatory Fields while collecting user information"
+msgstr "سوف الحقول المحددة يكون إلزاميا الحقول في حين جمع معلومات المستخدم"
+
+#@ default
+#: library/includes/admin_settings.php:456
+#: message.php:246
+msgid "Last Name"
+msgstr "اسم آخر"
+
+#@ default
+#: library/includes/admin_settings.php:490
+msgid "Login Page Top Content"
+msgstr "تسجيل الدخول المحتوى أعلى الصفحة"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:44
+msgid "Please enter Amount"
+msgstr "الرجاء إدخال المبلغ"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:62
+#: library/includes/admin_tax_form.php:134
+msgid "Processing ..."
+msgstr "تجهيز..."
+
+#@ default
+#: library/includes/admin_shipping_settings.php:86
+#, php-format
+msgid "Settings for %s"
+msgstr "إعدادات %s"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:91
+msgid "Delete Succesfully"
+msgstr "حذف بنجاح"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:94
+msgid "Add New"
+msgstr "إضافة جديدة"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:106
+#: library/includes/admin_shipping_settings.php:144
+#: library/includes/admin_shipping_settings.php:186
+msgid "Range"
+msgstr "مجموعة"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:109
+#: library/includes/admin_shipping_settings.php:189
+msgid "Keep blank for no range. You can set as from starting range to ending range as starting->ending. <u>ex: 0->1000</u>. The range unit depends on type of shipping. like for price base shipping range will be from start price->end price and for weight base shipping it will be from start weight->end weight"
+msgstr "احتفظ فارغة لا لطائفة. كما يمكنك ضبط مجموعة من بدء التشغيل لإنهاء نطاق و> انطلاق المنتهية <u>:. السابقين 0 --> 1000.</u> وحدة مجموعة يعتمد على نوع من الشحن. ومثل لقاعدة السعر من سعر الشحن يكون بداية نهاية السعر> وقاعدة وزن الشحن سيكون من الوزن بداية نهاية الوزن>"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:116
+#: library/includes/admin_shipping_settings.php:163
+#: library/includes/admin_shipping_settings.php:196
+#: library/includes/admin_tax_form.php:76
+msgid "All Countries"
+msgstr "جميع البلدان"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:125
+#: library/includes/admin_shipping_settings.php:205
+#: library/includes/admin_tax_form.php:86
+msgid "Select Country First"
+msgstr "حدد القطري الأول"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:145
+msgid "State / Country"
+msgstr "الدولة / البلد"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:163
+msgid "All States"
+msgstr "جميع الدول"
+
+#@ default
+#: library/includes/admin_shipping_settings.php:169
+msgid "Can't&nbsp;Delete"
+msgstr "لا يمكن حذف"
+
+#@ default
+#: library/includes/admin_shippings.php:41
+msgid "Manage Shipping Options"
+msgstr "إدارة الشحن"
+
+#@ default
+#: library/includes/admin_shippings.php:54
+msgid "Select"
+msgstr "حدد"
+
+#@ default
+#: library/includes/admin_shippings.php:127
+msgid "Please Enter Title"
+msgstr "من فضلك ادخل العنوان"
+
+#@ default
+#: library/includes/admin_state_form.php:41
+msgid "Edit State"
+msgstr "تحرير الدولة"
+
+#@ default
+#: library/includes/admin_state_form.php:41
+msgid "Add State"
+msgstr "أضف الدولة"
+
+#@ default
+#: library/includes/admin_state_form.php:60
+msgid "State&nbsp;Code"
+msgstr "دولة القانون"
+
+#@ default
+#: library/includes/admin_state_form.php:74
+msgid "Select Country"
+msgstr "اختر البلد"
+
+#@ default
+#: library/includes/admin_state_form.php:92
+msgid "Please enter State Code"
+msgstr "الرجاء إدخال رمز الدولة"
+
+#@ default
+#: library/includes/admin_state_form.php:104
+msgid "Please select Country"
+msgstr "يرجى اختيار الدولة"
+
+#@ default
+#: library/includes/admin_stock.php:5
+#: product_menu.php:20
+msgid "Manage Stock"
+msgstr "إدارة الأسهم"
+
+#@ default
+#: library/includes/admin_stock.php:64
+msgid "Opening Stock"
+msgstr "افتتاح معرض"
+
+#@ default
+#: library/includes/admin_stock.php:65
+msgid "Sold Out"
+msgstr "مباعة"
+
+#@ default
+#: library/includes/admin_stock.php:66
+msgid "Current Stock"
+msgstr "المخزون الحالي"
+
+#@ default
+#: library/includes/admin_stock.php:67
+msgid "Low stock value"
+msgstr "انخفاض قيمة الأوراق المالية"
+
+#@ default
+#: library/includes/admin_stock.php:68
+msgid "Stock enabled?"
+msgstr "تمكين ألبوم؟"
+
+#@ default
+#: library/includes/admin_stock.php:94
+#: library/includes/admin_stock.php:108
+msgid "Unlimited"
+msgstr "غير محدود"
+
+#@ default
+#: library/includes/admin_tax_form.php:47
+msgid "Edit Tax"
+msgstr "تحرير الضرائب"
+
+#@ default
+#: library/includes/admin_tax_form.php:47
+msgid "Add Tax"
+msgstr "أضف الضرائب"
+
+#@ default
+#: library/includes/admin_tax_form.php:61
+msgid "Tax&nbsp;Title"
+msgstr "ضريبة العنوان"
+
+#@ default
+#: library/includes/admin_tax_form.php:67
+msgid "Tax&nbsp;Description"
+msgstr "ضريبة الوصف"
+
+#@ default
+#: library/includes/admin_tax_form.php:79
+msgid "Skip to apply in all countries."
+msgstr "انتقل إلى تطبيق في جميع البلدان."
+
+#@ default
+#: library/includes/admin_tax_form.php:89
+msgid "Skip to apply in all states of above country."
+msgstr "انتقل إلى تطبيق في جميع ولايات البلاد المذكورة أعلاه."
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:24
+msgid "Affiliates Share"
+msgstr "حصة الشركات التابعة"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:39
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:39
+#: message.php:272
+msgid "Search By"
+msgstr "البحث عن طريق"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:40
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:40
+#: message.php:273
+msgid "Date From"
+msgstr "التاريخ من"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:42
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:42
+#: library/includes/affiliates/affiliate_sale_report.php:40
+msgid "To"
+msgstr "إلى"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:45
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:45
+#: message.php:260
+msgid "Default"
+msgstr "الافتراضي"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:61
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:61
+#: message.php:271
+msgid "Export to Excel"
+msgstr "التصدير على التفوق"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:67
+#: message.php:291
+#: message.php:327
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:68
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:28
+#: message.php:285
+#: message.php:292
+#: message.php:328
+msgid "Total Sale Amount"
+msgstr "مجموع المبلغ بيع"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:69
+#: message.php:293
+#: message.php:329
+msgid "Total Share Amount"
+msgstr "مجموع الاسهم المبلغ"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:101
+msgid "No affiliates share available."
+msgstr "لا حصة الشركات التابعة المتاحة."
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:5
+msgid "Affiliate Detail Report"
+msgstr "انضم التفاصيل التقرير"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:22
+msgid "'s Affiliate Detail Report"
+msgstr "&#39;ق انضم تفاصيل التقرير"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:24
+msgid "No of Transactions"
+msgstr "عدد الصفقات"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:26
+msgid "Total Item Sold"
+msgstr "مجموع المبيع"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:30
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:166
+msgid "Total Earn Amount"
+msgstr "مجموع المبلغ اكسب"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:73
+#: library/includes/affiliates/export_report.php:18
+#: message.php:262
+msgid "Transaction ID"
+msgstr "رقم المعاملة"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:74
+#: library/includes/affiliates/export_report.php:19
+#: message.php:263
+msgid "Payment Status"
+msgstr "مركز الدفع"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:75
+#: library/includes/affiliates/export_report.php:20
+#: message.php:264
+msgid "Item Name"
+msgstr "البند الاسم"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:78
+#: library/includes/affiliates/export_report.php:23
+#: message.php:267
+msgid "Currency"
+msgstr "العملة"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:79
+#: library/includes/affiliates/export_report.php:24
+#: message.php:268
+msgid "Affiliate Share"
+msgstr "انضم الاسهم"
+
+#@ default
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:161
+msgid "No record available"
+msgstr "لا يوجد سجل المتاحة"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates.php:21
+msgid "Manage Affiliate Links"
+msgstr "إدارة التابعة صلة"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates.php:29
+#: library/includes/affiliates/admin_affiliates_frm.php:57
+msgid "Add Affiliate Link"
+msgstr "إضافة وصلة انضم"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates.php:34
+#: library/includes/affiliates/admin_affiliates_frm.php:73
+msgid "Link URL"
+msgstr "عنوان الارتباط"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates.php:35
+msgid "Link Key"
+msgstr "وصل رئيسية"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates.php:52
+#: library/includes/affiliates/admin_affiliates_frm.php:82
+msgid "Hide"
+msgstr "إخفاء"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates.php:55
+#: library/includes/affiliates/admin_affiliates_frm.php:81
+msgid "Show"
+msgstr "عرض"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates.php:67
+msgid "No records available"
+msgstr "لا السجلات المتاحة"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates.php:76
+msgid "Are you sure want to delete the link?"
+msgstr "هل أنت متأكد تريد حذف الارتباط؟"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates_frm.php:54
+msgid "Edit Affiliate Link"
+msgstr "تحرير ارتباط انضم"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates_frm.php:68
+msgid "Link Title"
+msgstr "ربط عنوان"
+
+#@ default
+#: library/includes/affiliates/admin_affiliates_frm.php:78
+msgid "Link Status"
+msgstr "ارتباط الحالة"
+
+#@ default
+#: library/includes/affiliates/affiliate_account.php:81
+msgid "Affiliate Links"
+msgstr "انضم صلة"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:41
+#: library/includes/registration.php:45
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>خطأ</strong> : أدخل اسم المستخدم أو عنوان البريد الإلكتروني."
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:46
+#: library/includes/registration.php:50
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>خطأ</strong> : لا يوجد عضو مسجل مع أن عنوان البريد الإلكتروني."
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:58
+#: library/includes/registration.php:62
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>خطأ</strong> : اسم المستخدم غير صحيح أو البريد الإلكتروني."
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:72
+msgid "Password reset is not allowed for this user"
+msgstr "غير مسموح إعادة تعيين كلمة المرور لهذا المستخدم"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:80
+msgid "Invalid key"
+msgstr "صالح مفتاح"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:88
+#: library/includes/registration.php:84
+#, php-format
+msgid "Username: %s"
+msgstr "اسم المستخدم : %s"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:89
+#: library/includes/registration.php:85
+#, php-format
+msgid "Password: %s"
+msgstr "كلمة السر : %s"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:92
+#: library/includes/registration.php:87
+#, php-format
+msgid "[%s] Your new password"
+msgstr "[%s] كلمة السر الجديدة"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:97
+msgid "The e-mail could not be sent."
+msgstr "ولم يتسن على البريد الإلكتروني إرسالها."
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:97
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "ممكن السبب : المضيف الخاص بك قد يكون تعطيل البريد () وظيفة..."
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:188
+#: library/includes/registration.php:315
+msgid "Sorry, that key does not appear to be valid."
+msgstr "عذرا ، هذا المفتاح لا يبدو أن تكون صالحة."
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:258
+#: library/includes/affiliates/affiliate_reg.php:327
+#: library/includes/registration.php:458
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
+msgstr "متصفحك الكوكيز <strong>خطأ</strong> : يتم حظرها من قبل أم لا يؤيد. يجب <a href='http://www.google.com/cookies.html'>تمكين ملفات تعريف الارتباط</a> لاستخدام وورد."
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:316
+#: library/includes/affiliates/affiliate_login.php:345
+#: message.php:231
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:329
+#: library/includes/affiliates/affiliate_login.php:380
+#: library/includes/registration.php:225
+#: message.php:242
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:335
+#: library/includes/affiliates/affiliate_login.php:386
+#: library/includes/registration.php:226
+#: message.php:243
+msgid "Password"
+msgstr "كلمة السر"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:342
+#: library/includes/login_frm.php:20
+msgid "Remember me on this computer"
+msgstr "تذكرني على هذا الكمبيوتر"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:397
+msgid "Username or E-mail"
+msgstr "اسم المستخدم أو البريد الإلكتروني"
+
+#@ default
+#: library/includes/affiliates/affiliate_login.php:402
+#: message.php:227
+msgid "Get New Password"
+msgstr "الحصول على كلمة السر الجديدة"
+
+#@ default
+#: library/includes/affiliates/affiliate_reg.php:45
+#: library/includes/registration.php:117
+#: library/includes/single_page_checkout_insertuser.php:24
+#: message.php:197
+msgid "ERROR: Please enter a username."
+msgstr "خطأ : الرجاء إدخال اسم المستخدم."
+
+#@ default
+#: library/includes/affiliates/affiliate_reg.php:47
+#: library/includes/registration.php:119
+#: library/includes/single_page_checkout_insertuser.php:26
+#: message.php:196
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr "<strong>خطأ</strong> : اسم المستخدم هذا غير صالح. الرجاء إدخال اسم مستخدم صالح."
+
+#@ default
+#: library/includes/affiliates/affiliate_reg.php:50
+#: library/includes/registration.php:122
+#: message.php:195
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>خطأ</strong> : هذا هو بالفعل تسجيل اسم المستخدم ، الرجاء اختيار اسم آخر."
+
+#@ default
+#: library/includes/affiliates/affiliate_reg.php:54
+#: library/includes/registration.php:126
+#: library/includes/single_page_checkout_insertuser.php:35
+#: message.php:194
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>خطأ</strong> : الرجاء اكتب عنوان البريد الإلكتروني."
+
+#@ default
+#: library/includes/affiliates/affiliate_reg.php:56
+#: library/includes/registration.php:128
+#: library/includes/single_page_checkout_insertuser.php:37
+#: message.php:193
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>خطأ</strong> : عنوان البريد الإلكتروني غير صحيح."
+
+#@ default
+#: library/includes/affiliates/affiliate_reg.php:59
+#: library/includes/registration.php:131
+#: message.php:192
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr "<strong>خطأ</strong> : هذا هو بالفعل تسجيل البريد الإلكتروني ، يرجى اختيار اسم آخر."
+
+#@ default
+#: library/includes/affiliates/affiliate_reg.php:104
+#: library/includes/registration.php:193
+#: library/includes/single_page_checkout_insertuser.php:93
+#, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>خطأ</strong> : تعذر تسجيل لك... يرجى الاتصال <a href=\"mailto:%s\">المسؤول عن الموقع</a> !"
+
+#@ default
+#: library/includes/affiliates/affiliate_reg.php:132
+msgid ""
+"[SUBJECT-STR]Affiliate registration Confirmation[SUBJECT-END]<p>Dear [#$user_name#],</p>\n"
+"	<p>You can log in  with the following information:</p>\n"
+"	<p>Username: [#$user_login#]</p>\n"
+"	<p>Password: [#$user_password#]</p>\n"
+"	<br>\n"
+"	<p>Thanks!</p>\n"
+"	<p>[#$store_name#]</p>"
+msgstr "[رهنا - المشبوهة] تسجيل فرع تأكيد [رهنا نهاية] <p style=\";text-align:right;direction:rtl\"> عزيزي [# $ # USER_NAME] ، </p><p style=\";text-align:right;direction:rtl\"> يمكنك تسجيل الدخول باستخدام المعلومات التالية : </p><p style=\";text-align:right;direction:rtl\"> اسم المستخدم : [$ # # user_login] </p><p style=\";text-align:right;direction:rtl\"> كلمة السر : [# $ user_password #] </p><br><p style=\";text-align:right;direction:rtl\"> شكرا! </p><p style=\";text-align:right;direction:rtl\"> [# $ Store_Name #] </p>"
+
+#@ default
+#: library/includes/affiliates/affiliates_settings.php:38
+#: product_menu.php:34
+msgid "Manage Affiliate"
+msgstr "إدارة فرع"
+
+#@ default
+#: library/includes/affiliates/affiliates_settings.php:115
+msgid "Links"
+msgstr "الروابط"
+
+#@ default
+#: library/includes/affiliates/affiliates_settings.php:127
+msgid "Sale Report"
+msgstr "بيع تقرير"
+
+#@ default
+#: library/includes/affiliates/affiliates_settings.php:132
+msgid "Members"
+msgstr "الأعضاء"
+
+#@ default
+#: library/includes/checkout_cart.php:2
+#: library/includes/checkout_cart.php:3
+#: library/includes/checkout_cart.php:4
+#: library/includes/checkout_cart.php:5
+#: library/includes/checkout_cart.php:6
+#: library/includes/checkout_cart_2.php:2
+#: library/includes/checkout_cart_2.php:3
+#: library/includes/checkout_cart_2.php:4
+#: library/includes/checkout_cart_2.php:5
+#: library/includes/checkout_cart_2.php:6
+msgid "Please select "
+msgstr "الرجاء اختيار"
+
+#@ default
+#: library/includes/checkout_cart.php:12
+#: library/includes/checkout_cart_2.php:13
+msgid "Checkout Now"
+msgstr "اطلب الآن"
+
+#@ default
+#: library/includes/checkout_cart.php:85
+#: library/includes/checkout_cart_2.php:67
+#: message.php:49
+msgid "Add to Shopping Cart"
+msgstr "أضف إلى سلة التسوق"
+
+#@ default
+#: library/includes/edit_profile.php:265
+msgid "same as"
+msgstr "نفس"
+
+#@ default
+#: library/includes/normal_checkout_page_payment.php:7
+#: message.php:84
+msgid "Select Payment Method"
+msgstr "حدد طريقة الدفع"
+
+#@ default
+#: library/includes/ordersuccess.php:33
+msgid ""
+"<p>Thank you, your order has been successfully received.</p>\n"
+"							<p>To complete the order Please transfer amount of <u>[#$order_amt#]</u> out bank with the following information :</p>\n"
+"							<p>Bank Name : [#$bank_name#]</p>\n"
+"							<p>Account Number : [#$account_number#]</p>\n"
+"							<br>\n"
+"							<p>Please include the following reference <b>Order Number : [#$orderId#]</b></p>\n"
+"							<br>\n"
+"							<p>Upon receipt we will process and ship your order.</p>\n"
+"							<p>Thank you for shopping at [#$store_name#].</p>						"
+msgstr "<p style=\";text-align:right;direction:rtl\"> شكرا لك ، وقد تلقى طلبك بنجاح. </p><p style=\";text-align:right;direction:rtl\"> لإكمال النظام الرجاء تحويل المبلغ من <u>[$ # # order_amt]</u> خارج البنك مع المعلومات التالية : </p><p style=\";text-align:right;direction:rtl\"> اسم البنك : [$ # # bank_name] </p><p style=\";text-align:right;direction:rtl\"> رقم الحساب : [account_number # $ #] </p><br><p style=\";text-align:right;direction:rtl\"> يرجى تشمل ما يلي <b>ترتيب</b> مرجع <b>رقم : [$ معرف الطلب # #]</b> </p><br><p style=\";text-align:right;direction:rtl\"> عند استلام وسوف نقوم بعملية السفينة طلبك. </p><p style=\";text-align:right;direction:rtl\"> شكرا للتسوق في [$ # # Store_Name]. </p>"
+
+#@ default
+#: library/includes/ordersuccess.php:47
+msgid "<p>Thank you, your order has been successfully received.</p>Thank you for shopping at [#$store_name#]."
+msgstr "<p style=\";text-align:right;direction:rtl\"> شكرا لك ، وقد تلقى طلبك بنجاح. </p> شكرا للتسوق في [$ # # Store_Name]."
+
+#@ default
+#: library/includes/payment.php:218
+msgid "Payment Pending - Thank you for order"
+msgstr "في انتظار الدفع -- شكرا لأجل"
+
+#@ default
+#: library/includes/payment.php:236
+msgid ""
+"[SUBJECT-STR]Order received - not confirm as payment is pending[SUBJECT-END]<p>Dear [#$to_name#],</p>\n"
+"							<p>[#$order_info#]</p>\n"
+"							<p>We received your order but sorry because payment is not confirm yet.</p>\n"
+"							<p>Thank you.</p>"
+msgstr "تلقى [الموضوعي المشبوهة] ترتيب -- تأكيد لا كدفعة معلقة [رهنا نهاية] <p style=\";text-align:right;direction:rtl\"> عزيزي [# $ # TO_NAME] ، </p><p style=\";text-align:right;direction:rtl\"> [# $ order_info #] </p><p style=\";text-align:right;direction:rtl\"> تلقينا طلبك ولكن آسف لأن الدفع لا تأكيد حتى الان. </p><p style=\";text-align:right;direction:rtl\"> شكرا لك. </p>"
+
+#@ default
+#: library/includes/payment.php:246
+msgid "Order received - not confirm as payment is pending"
+msgstr "تلقى ترتيب -- تأكيد ليس كما دفع معلقة"
+
+#@ default
+#: library/includes/payment.php:264
+msgid ""
+"[SUBJECT-STR]New order has been placed by  - Payment Pending[SUBJECT-END]\n"
+"							<p>Dear [#$to_name#],</p>\n"
+"							<p>order received successfully but payment is not confirm yet.</p>\n"
+"							<p>[#$order_info#]</p>\n"
+"							<p>Thank you.</p>"
+msgstr "وقد وضعت [الموضوعي المشبوهة] النظام الجديد من قبل -- حتى يتم سداد [رهنا نهاية] <p style=\";text-align:right;direction:rtl\"> عزيزي [# $ # TO_NAME] ، </p><p style=\";text-align:right;direction:rtl\"> تلقى النظام بنجاح ولكن الدفع لم تؤكد حتى الان. </p><p style=\";text-align:right;direction:rtl\"> [# $ order_info #] </p><p style=\";text-align:right;direction:rtl\"> شكرا لك. </p>"
+
+#@ default
+#: library/includes/product_buttons_above.php:5
+msgid "affiliate_link_text"
+msgstr "affiliate_link_text"
+
+#@ default
+#: library/includes/product_listing_page.php:14
+#: library/includes/store_page.php:14
+msgid "Switch View"
+msgstr "تبديل عرض"
+
+#@ default
+#: library/includes/registration.php:223
+msgid "Registration Email"
+msgstr "تسجيل البريد الإلكتروني"
+
+#@ default
+#: library/includes/registration.php:229
+msgid "We hope you enjoy shopping. Thanks!"
+msgstr "نأمل أن تستمتع تسوق. شكرا!"
+
+#@ default
+#: library/includes/registration.php:486
+msgid "Please Enter Captha Code"
+msgstr "الرجاء إدخال الرمز Captha"
+
+#@ default
+#: library/includes/registration_frm_page.php:86
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#@ default
+#: library/includes/registration_page.php:78
+msgid "Neither Registration nor Login allow."
+msgstr "لا تسجيل ولا يسمح الدخول."
+
+#@ default
+#: library/includes/send_inquiry_page.php:27
+msgid "Hello,"
+msgstr "مرحبا ،"
+
+#@ default
+#: library/includes/single_checkout_page.php:18
+msgid "<div style='color:red'>Select Payment method to continue.</div><br>"
+msgstr "<div style=\"color:red;text-align:right;direction:rtl\"> اختر طريقة الدفع للمتابعة. </div><br>"
+
+#@ default
+#: library/includes/single_checkout_page.php:19
+msgid "<div style='color:red'>Invalid User Name or Email.</div><br>"
+msgstr "<div style=\"color:red;text-align:right;direction:rtl\"> غير صالح اسم المستخدم أو البريد الإلكتروني. </div><br>"
+
+#@ default
+#: library/includes/single_page_checkout_insertuser.php:30
+msgid "<strong>ERROR</strong>:  This username is already registered, please choose another one."
+msgstr "<strong>خطأ</strong> : هذا هو بالفعل تسجيل اسم المستخدم ، الرجاء اختيار اسم آخر."
+
+#@ default
+#: library/includes/single_page_checkout_insertuser.php:143
+msgid ""
+"[SUBJECT-STR]Guest registration confirmation Email[SUBJECT-END]<p>Dear [#$user_name#],</p>\n"
+"	<p>You can log in  with the following information:</p>\n"
+"	<p>Username: [#$user_login#]</p>\n"
+"	<p>Password: [#$user_password#]</p>\n"
+"	<br>\n"
+"	<p>We hope you enjoy your shipping. Thanks!</p>\n"
+"	<p>[#$store_name#]</p>"
+msgstr "[رهنا - المشبوهة] تسجيل آراء تأكيد عبر البريد الالكتروني [رهنا نهاية] <p style=\";text-align:right;direction:rtl\"> عزيزي [# $ # USER_NAME] ، </p><p style=\";text-align:right;direction:rtl\"> يمكنك تسجيل الدخول باستخدام المعلومات التالية : </p><p style=\";text-align:right;direction:rtl\"> اسم المستخدم : [$ # # user_login] </p><p style=\";text-align:right;direction:rtl\"> كلمة السر : [# $ user_password #] </p><br><p style=\";text-align:right;direction:rtl\"> نأمل أن تستمتع الشحن الخاص بك. شكرا! </p><p style=\";text-align:right;direction:rtl\"> [# $ Store_Name #] </p>"
+
+#@ default
+#: library/includes/single_page_checkout_insertuser.php:159
+msgid "Guest registration confirmation Email"
+msgstr "آراء تأكيد تسجيل البريد الإلكتروني"
+
+#@ default
+#: library/includes/store_page.php:2
+#: message.php:8
+msgid "Store"
+msgstr "مخزن"
+
+#@ default
+#: library/includes/view_downloads.php:37
+msgid "download"
+msgstr "تنزيل"
+
+#@ default
+#: library/includes/view_downloads.php:39
+msgid "no download available"
+msgstr "لا توفر تنزيل"
+
+#@ default
+#: library/includes/view_orders.php:1
+#: message.php:310
+msgid "My Orders"
+msgstr "بلدي أوامر"
+
+#@ default
+#: library/includes/view_orders.php:35
+msgid "No order available"
+msgstr "أي أمر متاح"
+
+#@ default
+#: library/payment/2co/install.php:12
+msgid "Enter Vendor ID Example"
+msgstr "أدخل مثال البائع معرف"
+
+#@ default
+#: library/payment/2co/install.php:29
+#: library/payment/authorizenet/install.php:31
+#: library/payment/eway/install.php:23
+#: library/payment/googlechkout/install.php:23
+#: library/payment/payondelevary/install.php:16
+#: library/payment/paypal/install.php:41
+#: library/payment/paypal_pro/install.php:34
+#: library/payment/paypal_pro_express/install.php:47
+#: library/payment/prebanktransfer/install.php:29
+#: library/payment/worldpay/install.php:29
+msgid "Payment Method integrated successfully"
+msgstr "طريقة الدفع متكاملة بنجاح"
+
+#@ default
+#: library/payment/2co/install.php:35
+#: library/payment/authorizenet/install.php:37
+#: library/payment/eway/install.php:29
+#: library/payment/payondelevary/install.php:22
+#: library/payment/paypal_pro/install.php:40
+#: library/payment/paypal_pro_express/install.php:53
+#: library/payment/prebanktransfer/install.php:35
+#: library/payment/worldpay/install.php:35
+msgid "Payment Method deleted successfully"
+msgstr "طريقة حذف الدفع بنجاح"
+
+#@ default
+#: library/payment/eway/install.php:12
+msgid "Enter the eway Customer ID"
+msgstr "أدخل eway هوية العميل"
+
+#@ default
+#: library/payment/googlechkout/install.php:29
+#: library/payment/paypal/install.php:47
+msgid "this payment method cannot deleted because it is fix, you can deactive it"
+msgstr "لا يمكن حذف طريقة الدفع هذه لأنها الإصلاح ، يمكنك أن deactive"
+
+#@ default
+#: library/payment/paypal_pro/paypal_pro.php:90
+#: library/payment/paypal_pro_express/paypal_pro.php:90
+msgid "Card Type"
+msgstr "نوع البطاقة"
+
+#@ default
+#: library/payment/paypal_pro/paypal_pro.php:101
+#: library/payment/paypal_pro_express/paypal_pro.php:101
+msgid "Card Number"
+msgstr "بطاقة رقم"
+
+#@ default
+#: library/payment/paypal_pro/paypal_pro.php:105
+#: library/payment/paypal_pro_express/paypal_pro.php:105
+msgid "Expiration Date"
+msgstr "تاريخ انتهاء الصلاحية"
+
+#@ default
+#: library/payment/paypal_pro/paypal_pro.php:135
+#: library/payment/paypal_pro_express/paypal_pro.php:135
+msgid "Card Verification Number"
+msgstr "التحقق من رقم بطاقة"
+
+#@ default
+#: library/payment/prebanktransfer/install.php:11
+msgid "Enter the bank name to which you want to transfer payment"
+msgstr "أدخل اسم البنك الذي ترغب في نقل الدفع"
+
+#@ default
+#: library/payment/prebanktransfer/install.php:17
+msgid "Enter your bank Account ID"
+msgstr "أدخل معرف الحساب المصرفي"
+
+#@ default
+#: message.php:3
+msgid "Welcome"
+msgstr "مرحبا بكم"
+
+#@ default
+#: message.php:11
+msgid "Register"
+msgstr "سجل"
+
+#@ default
+#: message.php:12
+msgid "Join Our Affiliate Program"
+msgstr "انضمام لدينا برنامج انضم"
+
+#@ default
+#: message.php:15
+msgid "Categories"
+msgstr "الفئات"
+
+#@ default
+#: message.php:16
+msgid "item in your Shopping Bag"
+msgstr "البند الخاص في حقيبة تسوق"
+
+#@ default
+#: message.php:17
+msgid "cart is empty."
+msgstr "السلة فارغة."
+
+#@ default
+#: message.php:20
+msgid "All right reserved."
+msgstr "جميع الحقوق محفوظة."
+
+#@ default
+#: message.php:21
+msgid "Ecommerce Framework by <a href=\"http://Templatic.com\" title=\"Templatic\"><strong>Templatic</strong></a> "
+msgstr "التجارة الإلكترونية الإطارية التي <strong><a href=\"http://Templatic.com\" title=\"Templatic\">Templatic</a></strong>"
+
+#@ default
+#: message.php:24
+msgid "Email to a Friend"
+msgstr "أرسل لصديق"
+
+#@ default
+#: message.php:25
+msgid "Inform a Friend"
+msgstr "أبلغ صديق"
+
+#@ default
+#: message.php:26
+msgid "Your Name"
+msgstr "اسمك"
+
+#@ default
+#: message.php:27
+msgid "Your Email Address"
+msgstr "عنوان البريد الالكتروني الخاص بك"
+
+#@ default
+#: message.php:28
+msgid "Friend Name"
+msgstr "اسم صديقك"
+
+#@ default
+#: message.php:30
+msgid "Your Comments"
+msgstr "تعليقاتكم"
+
+#@ default
+#: message.php:31
+#: message.php:61
+#: message.php:101
+msgid "Email Address"
+msgstr "البريد الالكتروني العنوان"
+
+#@ default
+#: message.php:32
+msgid "Regular Price"
+msgstr "السعر العادي"
+
+#@ default
+#: message.php:33
+msgid "Sale Price"
+msgstr "بيع السعر"
+
+#@ default
+#: message.php:35
+msgid "Size"
+msgstr "حجم"
+
+#@ default
+#: message.php:36
+#: message.php:41
+msgid "Color"
+msgstr "اللون"
+
+#@ default
+#: message.php:37
+msgid "Size Chart"
+msgstr "حجم المخطط"
+
+#@ default
+#: message.php:38
+msgid "Close X"
+msgstr "إغلاق العاشر"
+
+#@ default
+#: message.php:39
+msgid "<span class=\"inquiry_message_success\">Inquiry send successfully</span>"
+msgstr "<span class=\"inquiry_message_success\">إرسال التحقيق بنجاح</span>"
+
+#@ default
+#: message.php:40
+#: message.php:58
+msgid "Send Inquiry"
+msgstr "ارسال استفسار"
+
+#@ default
+#: message.php:42
+msgid "Weight"
+msgstr "الوزن"
+
+#@ default
+#: message.php:43
+msgid "Print"
+msgstr "طباعة"
+
+#@ default
+#: message.php:44
+msgid "Share This"
+msgstr "حصة هذا"
+
+#@ default
+#: message.php:45
+msgid "RSS"
+msgstr "آر إس إس"
+
+#@ default
+#: message.php:46
+#: message.php:321
+msgid "View Cart Detail"
+msgstr "عرض السلة التفاصيل"
+
+#@ default
+#: message.php:47
+#: message.php:322
+msgid "Added To Cart Successfully"
+msgstr "وأضاف إلى السلة بنجاح"
+
+#@ default
+#: message.php:48
+msgid "Already Added in the cart"
+msgstr "وأضاف بالفعل في السلة"
+
+#@ default
+#: message.php:50
+msgid "Please select size"
+msgstr "الرجاء اختيار حجم"
+
+#@ default
+#: message.php:51
+msgid "Please select color"
+msgstr "الرجاء اختيار لون"
+
+#@ default
+#: message.php:52
+msgid "processing ..."
+msgstr "تجهيز..."
+
+#@ default
+#: message.php:53
+msgid "Error loading cart information"
+msgstr "خطأ في تحميل المعلومات السلة"
+
+#@ default
+#: message.php:54
+msgid "Buy Now"
+msgstr "اشتر الآن"
+
+#@ default
+#: message.php:57
+msgid "Thank you, your inquiry has been sent."
+msgstr "شكرا لك ، لقد تم ارسال استفسارك."
+
+#@ default
+#: message.php:59
+msgid "Inquiry"
+msgstr "تحقيق"
+
+#@ default
+#: message.php:60
+msgid "Here is an Inquiry for you related to"
+msgstr "هنا هو التحقيق لك المتصلة"
+
+#@ default
+#: message.php:63
+msgid "Send Email"
+msgstr "إرسال البريد الإلكتروني"
+
+#@ default
+#: message.php:64
+msgid "Back to Product Detail"
+msgstr "العودة إلى المنتج من التفصيل"
+
+#@ default
+#: message.php:67
+msgid "Download"
+msgstr "تنزيل"
+
+#@ default
+#: message.php:68
+msgid "Sorry, The file you are trying to Download is not available right now."
+msgstr "عذرا ، الملف الذي تحاول لتحميل هو غير متوفر الآن."
+
+#@ default
+#: message.php:69
+msgid "The link you are trying to download is not a Valid link. Please Check once."
+msgstr "الرابط الذي تحاول تحميل لا رابط صحيح. يرجى التحقق من مرة واحدة."
+
+#@ default
+#: message.php:72
+msgid "Order Detail"
+msgstr "تفاصيل النظام"
+
+#@ default
+#: message.php:75
+msgid "My Downloads"
+msgstr "بلدي تنزيلا"
+
+#@ default
+#: message.php:81
+msgid "Billing Address"
+msgstr "العنوان الذي ترسل به الفواتير"
+
+#@ default
+#: message.php:83
+msgid "Shipping Method"
+msgstr "أسلوب الشحن"
+
+#@ default
+#: message.php:85
+msgid "Your Selection"
+msgstr "اختيارك"
+
+#@ default
+#: message.php:87
+#: message.php:233
+msgid "Guest Checkout"
+msgstr "ضيف الخروج"
+
+#@ default
+#: message.php:88
+msgid "Select Payment method to continue."
+msgstr "اختر طريقة الدفع للمتابعة."
+
+#@ default
+#: message.php:89
+msgid "I accept the terms and conditions"
+msgstr "أوافق على الشروط والأحكام"
+
+#@ default
+#: message.php:90
+msgid "Confirm"
+msgstr "تأكيد"
+
+#@ default
+#: message.php:92
+msgid "Please accept the terms and conditions"
+msgstr "وتفضلوا بقبول الشروط والأحكام"
+
+#@ default
+#: message.php:93
+msgid "same as above"
+msgstr "نفس أعلاه"
+
+#@ default
+#: message.php:98
+msgid "want to become our affiliate?"
+msgstr "أريد أن أصبح تابعا لدينا؟"
+
+#@ default
+#: message.php:99
+msgid "My Personal Information"
+msgstr "معلوماتي الشخصية"
+
+#@ default
+#: message.php:100
+msgid "Name"
+msgstr "اسم"
+
+#@ default
+#: message.php:102
+#: message.php:106
+msgid "Edit Profile"
+msgstr "تحرير الملف الشخصي"
+
+#@ default
+#: message.php:103
+msgid "You don't have purchased any digital product"
+msgstr "ليس لديك أي شراء المنتجات الرقمية"
+
+#@ default
+#: message.php:109
+msgid "Personal Information"
+msgstr "المعلومات الشخصية"
+
+#@ default
+#: message.php:110
+msgid "Your Information updated successfully."
+msgstr "المعلومات المحدثة بنجاح."
+
+#@ default
+#: message.php:111
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+#@ default
+#: message.php:112
+msgid "Password Changed successfully."
+msgstr "تغيير كلمة المرور بنجاح."
+
+#@ default
+#: message.php:113
+msgid "New Password"
+msgstr "كلمة السر الجديدة"
+
+#@ default
+#: message.php:114
+msgid "Confirm New Password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#@ default
+#: message.php:118
+msgid "My Shopping Cart"
+msgstr "عربة التسوق"
+
+#@ default
+#: message.php:119
+msgid "Please Enter Coupon Code"
+msgstr "الرجاء إدخال رمز القسيمة"
+
+#@ default
+#: message.php:120
+msgid "Sorry! your cart is empty. Select product(s) to continue."
+msgstr "عذرا! السلة فارغة. حدد المنتج (ق) للمتابعة."
+
+#@ default
+#: message.php:121
+msgid "Not a valid Coupon. Please enter correct one."
+msgstr "ليس القسيمة صالحة. الرجاء إدخال الصحيح."
+
+#@ default
+#: message.php:122
+msgid "Sorry, the Cart is empty.  Select Products via Continue Shopping."
+msgstr "عذرا ، سلة التسوق فارغة. حدد المنتجات عبر مواصلة التسوق."
+
+#@ default
+#: message.php:123
+msgid "Update Cart"
+msgstr "تحديث السلة"
+
+#@ default
+#: message.php:124
+msgid "Remove Item"
+msgstr "إزالة البند"
+
+#@ default
+#: message.php:125
+msgid "Product(s)"
+msgstr "منتج (ق)"
+
+#@ default
+#: message.php:129
+msgid "Sub Total Amount"
+msgstr "المبلغ الإجمالي الفرعي"
+
+#@ default
+#: message.php:130
+msgid "Tax Amount"
+msgstr "ضريبة القيمة"
+
+#@ default
+#: message.php:131
+msgid "Total Amount"
+msgstr "المبلغ الإجمالي"
+
+#@ default
+#: message.php:132
+#: message.php:146
+msgid "Shipping Methods"
+msgstr "طرق الشحن"
+
+#@ default
+#: message.php:133
+msgid "Discount Code"
+msgstr "كود الخصم"
+
+#@ default
+#: message.php:134
+msgid "Recalculate"
+msgstr "حساب"
+
+#@ default
+#: message.php:135
+msgid "Continue Shopping"
+msgstr "مواصلة التسوق"
+
+#@ default
+#: message.php:138
+msgid "Final Amount"
+msgstr "المبلغ النهائي"
+
+#@ default
+#: message.php:142
+msgid "Confirmation"
+msgstr "تأكيد"
+
+#@ default
+#: message.php:144
+msgid "Billing Information"
+msgstr "معلومات الفوترة"
+
+#@ default
+#: message.php:145
+msgid "Payment Methods"
+msgstr "الدفع"
+
+#@ default
+#: message.php:147
+msgid "Cart Information"
+msgstr "عربة المعلومات"
+
+#@ default
+#: message.php:151
+msgid "Affiliates"
+msgstr "الشركات التابعة"
+
+#@ default
+#: message.php:152
+msgid "Affiliate Login"
+msgstr "فرع تسجيل الدخول"
+
+#@ default
+#: message.php:153
+msgid "Affiliate Registration"
+msgstr "انضم التسجيل"
+
+#@ default
+#: message.php:156
+msgid "Please enter your username or e-mail address. You will receive a new password via e-mail."
+msgstr "الرجاء إدخال اسم المستخدم أو عنوان البريد الإلكتروني. ستتلقى كلمة المرور الجديدة عبر البريد الإلكتروني."
+
+#@ default
+#: message.php:157
+msgid "You are now logged out."
+msgstr "يتم تسجيل أنت الآن خارج."
+
+#@ default
+#: message.php:158
+msgid "Affiliate registration is currently not allowed."
+msgstr "لا يسمح حاليا انضم تسجيل."
+
+#@ default
+#: message.php:159
+msgid "Check your e-mail for the confirmation link."
+msgstr "فحص البريد الإلكتروني الخاص بك لتأكيد الصلة."
+
+#@ default
+#: message.php:160
+msgid "Check your e-mail for your new password."
+msgstr "فحص البريد الإلكتروني الخاص بك لكلمة المرور الجديدة."
+
+#@ default
+#: message.php:163
+#: message.php:221
+msgid "A password will be e-mailed to you for future use."
+msgstr "كلمة المرور سترسل بالبريد الإلكتروني لك لاستخدامها في المستقبل."
+
+#@ default
+#: message.php:164
+#: message.php:173
+msgid "already a member?"
+msgstr "عضو بالفعل؟"
+
+#@ default
+#: message.php:165
+msgid "new user?"
+msgstr "مستخدم جديد؟"
+
+#@ default
+#: message.php:166
+msgid "Register Now"
+msgstr "سجل الآن"
+
+#@ default
+#: message.php:167
+msgid "forget password?"
+msgstr "نسيت كلمة السر؟"
+
+#@ default
+#: message.php:169
+msgid "Activate Affiliates"
+msgstr "تنشيط الفروع"
+
+#@ default
+#: message.php:170
+msgid "Affiliate Registration Page URL"
+msgstr "انضم عنوان صفحة التسجيل"
+
+#@ default
+#: message.php:171
+msgid "Affiliate Login Page URL"
+msgstr "انضم عنوان صفحة تسجيل الدخول"
+
+#@ default
+#: message.php:174
+msgid "Sign Up"
+msgstr "التوقيع"
+
+#@ default
+#: message.php:177
+msgid "Affiliates Share Amount"
+msgstr "حصة الشركات التابعة المبلغ"
+
+#@ default
+#: message.php:178
+msgid "(Default Share Amount is 0%)"
+msgstr "(الافتراضي المبلغ هو حصة 0 ٪)"
+
+#@ default
+#: message.php:179
+msgid "Affiliates Cookie Alive time (in Days)"
+msgstr "الشركات التابعة لها على قيد الحياة وقت كوكي (بالأيام)"
+
+#@ default
+#: message.php:180
+msgid "(Default alive time is 1 day)"
+msgstr "(الافتراضي الوقت على قيد الحياة هو يوم 1)"
+
+#@ default
+#: message.php:181
+msgid "Registration Page Message (above form) "
+msgstr "تسجيل الصفحة رسالة (فوق النموذج)"
+
+#@ default
+#: message.php:182
+msgid "(This content will show at top in affiliate registration page content area)"
+msgstr "(هذا المحتوى سوف تظهر في أعلى الصفحة في تسجيل التابعة ناحية المحتوى)"
+
+#@ default
+#: message.php:183
+msgid "Registration Page Message (below form)"
+msgstr "تسجيل الصفحة رسالة (النموذج أدناه)"
+
+#@ default
+#: message.php:184
+msgid "(This content will show at bottom in affiliate registration page content area)"
+msgstr "(هذا المحتوى سوف تظهر في أسفل صفحة في تسجيل التابعة ناحية المحتوى)"
+
+#@ default
+#: message.php:185
+msgid "Terms &amp; Conditions text"
+msgstr "الشروط والشروط النص"
+
+#@ default
+#: message.php:186
+msgid "Set Terms &amp; Conditions text beside checkbox on affiliate registration page"
+msgstr "الشروط الموضوعة والشروط بجانب مربع النص على صفحة التسجيل التابعة"
+
+#@ default
+#: message.php:187
+msgid "Affiliate share approval Email notification from wp-admin"
+msgstr "انضم موافقة حصة البريد الإلكتروني إشعار من المشرف الفسفور الابيض"
+
+#@ default
+#: message.php:188
+msgid "In case of wp-admin order approval, Email Notification is sent to Affiliate member for the affiliate share approval"
+msgstr "في حالة موافقة النظام الفسفور الابيض بين المشرف ، البريد الإلكتروني الإخطار يتم إرسالها إلى فرع الأعضاء للموافقة التابعة حصة"
+
+#@ default
+#: message.php:191
+msgid "I accept the Terms &amp; Conditions of the [#$store_name#] affiliate program"
+msgstr "أوافق على الشروط والمواصفات من [$ # # Store_Name] التابعة لبرنامج"
+
+#@ default
+#: message.php:198
+msgid "Please accept Terms and Conditions"
+msgstr "وتفضلوا بقبول الشروط والأحكام"
+
+#@ default
+#: message.php:202
+msgid "Please Refresh the page if any effect not appear"
+msgstr "يرجى تحديث الصفحة اذا لم يظهر أي أثر"
+
+#@ default
+#: message.php:208
+msgid "Payment Cancellation"
+msgstr "دفع إلغاء"
+
+#@ default
+#: message.php:209
+msgid "We are sorry for Cancellation of your order payment."
+msgstr "نعتذر عن إلغاء دفع طلبك."
+
+#@ default
+#: message.php:212
+msgid "Payment Success"
+msgstr "دفع النجاح"
+
+#@ default
+#: message.php:213
+msgid "Thank you for Shipping"
+msgstr "شكرا لكم على الشحن"
+
+#@ default
+#: message.php:214
+msgid "Your payment has been successfully received and your order will be processed for shipping.<br>"
+msgstr "وقد تلقى دفعتك بنجاح وستتم معالجة طلبك للشحن. <br>"
+
+#@ default
+#: message.php:215
+msgid "Thank you for shopping at"
+msgstr "شكرا للتسوق في"
+
+#@ default
+#: message.php:218
+msgid "Thank You"
+msgstr "شكرا لك"
+
+#@ default
+#: message.php:222
+#: message.php:236
+msgid "Your Information"
+msgstr "معلوماتك"
+
+#@ default
+#: message.php:223
+msgid "Indicates mandatory fields"
+msgstr "يشير إلى الحقول الإجبارية"
+
+#@ default
+#: message.php:224
+msgid "Create Account"
+msgstr "إنشاء حساب"
+
+#@ default
+#: message.php:225
+msgid "Forgot Password?"
+msgstr "نسيت كلمة السر؟"
+
+#@ default
+#: message.php:226
+msgid "Username or E-mail:"
+msgstr "اسم المستخدم أو البريد الإلكتروني :"
+
+#@ default
+#: message.php:229
+msgid "Register &amp; Checkout"
+msgstr "وسجل الخروج"
+
+#@ default
+#: message.php:230
+msgid "Click below to register and check out."
+msgstr "انقر أدناه لتسجيل وتدقيق."
+
+#@ default
+#: message.php:232
+msgid "Click below to Sign In if you have previously registered."
+msgstr "انقر أدناه لتسجيل الدخول إذا كنت قد سجلت مسبقا."
+
+#@ default
+#: message.php:234
+msgid "Click below to checkout without registering."
+msgstr "انقر أدناه اطلب الآن دون تسجيل."
+
+#@ default
+#: message.php:235
+msgid "Indicates Mendatory"
+msgstr "يشير Mendatory"
+
+#@ default
+#: message.php:237
+msgid ""
+"<p>Please select one of the options below to continue.</p>\n"
+"	<p>If you choose to register while checking out an account will be created for you so next time you can simply Sign In without having to re-enter your information.</p>"
+msgstr "<p style=\";text-align:right;direction:rtl\"> الرجاء اختيار أحد الخيارات أدناه للمتابعة. </p><p style=\";text-align:right;direction:rtl\"> إذا اخترت سجل في حين التحقق من حساب وسيتم خلق لكم في المرة القادمة حتى تتمكن من قم ببساطة دون الحاجة إلى إعادة إدخال المعلومات الخاصة بك. </p>"
+
+#@ default
+#: message.php:244
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+#@ default
+#: message.php:245
+msgid "First Name"
+msgstr "أول اسم"
+
+#@ default
+#: message.php:247
+msgid "Location Info"
+msgstr "موقع معلومات"
+
+#@ default
+#: message.php:254
+msgid "Address"
+msgstr "عنوان"
+
+#@ default
+#: message.php:258
+msgid "My Sale Report"
+msgstr "تقرير بيع بلدي"
+
+#@ default
+#: message.php:269
+msgid "Not record available."
+msgstr "سجل غير متوفر."
+
+#@ default
+#: message.php:276
+msgid "Affiliate Information"
+msgstr "فرع المعلومات"
+
+#@ default
+#: message.php:277
+msgid "Affiliate Code"
+msgstr "انضم مدونة"
+
+#@ default
+#: message.php:278
+msgid "Paypal Account"
+msgstr "بايبال حساب"
+
+#@ default
+#: message.php:279
+msgid "Not Specified"
+msgstr "غير محدد"
+
+#@ default
+#: message.php:280
+msgid "Change"
+msgstr "تغيير"
+
+#@ default
+#: message.php:282
+msgid "Sale Summary"
+msgstr "موجز بيع"
+
+#@ default
+#: message.php:283
+msgid "Number of Transactions"
+msgstr "عدد الصفقات"
+
+#@ default
+#: message.php:284
+msgid "Items Sold"
+msgstr "البنود التي تباع"
+
+#@ default
+#: message.php:286
+msgid "Your Total Earning"
+msgstr "العائد المجموع"
+
+#@ default
+#: message.php:290
+#: message.php:326
+msgid "Affiliates Members"
+msgstr "الأعضاء المنتسبين"
+
+#@ default
+#: message.php:296
+msgid "View Store"
+msgstr "عرض مخزن"
+
+#@ default
+#: message.php:299
+msgid "Related Products"
+msgstr "المنتجات ذات الصلة"
+
+#@ default
+#: message.php:302
+msgid "Pending"
+msgstr "ريثما"
+
+#@ default
+#: message.php:303
+msgid "Approve"
+msgstr "الموافقة على"
+
+#@ default
+#: message.php:304
+msgid "Reject"
+msgstr "رفض"
+
+#@ default
+#: message.php:306
+msgid "Shipping"
+msgstr "الشحن"
+
+#@ default
+#: message.php:307
+msgid "Delivered"
+msgstr "تسليم"
+
+#@ default
+#: message.php:314
+msgid "Hello, I am sending information about"
+msgstr "مرحبا ، وأنا على ارسال المعلومات حول"
+
+#@ default
+#: message.php:315
+msgid "It is a good one. Please see."
+msgstr "وهي واحدة جيدة. الرجاء راجع."
+
+#@ default
+#: product_menu.php:17
+msgid "Add Product"
+msgstr "إضافة منتج"
+
+#@ default
+#: product_menu.php:18
+msgid "Manage Products"
+msgstr "إدارة المنتجات"
+
+#@ default
+#: product_menu.php:22
+msgid "Payment Options"
+msgstr "خيارات الدفع"
+
+#@ default
+#: product_menu.php:23
+msgid "Manage Shipping"
+msgstr "إدارة الشحن"
+
+#@ default
+#: product_menu.php:24
+msgid "Manage Coupon"
+msgstr "إدارة القسيمة"
+
+#@ default
+#: product_menu.php:26
+msgid "Notifications"
+msgstr "الإخطارات"
+

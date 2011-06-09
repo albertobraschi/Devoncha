@@ -1,0 +1,16 @@
+var currencyFormat = {"cpos":true,"currency":"$","precision":2,"decimals":".","thousands":","};
+var UNSAVED_CHANGES_WARNING = 'There are unsaved changes that will be lost if you continue.';
+var CHECKOUT_LOGIN_NAME = 'You did not enter a login.';
+var CHECKOUT_LOGIN_PASSWORD = 'You did not enter a password to login with.';
+var CHECKOUT_REQUIRED_FIELD = 'Your %s is required.';
+var CHECKOUT_INVALID_EMAIL = 'The e-mail address you provided does not appear to be a valid address.';
+var CHECKOUT_MIN_LENGTH = 'The %s you entered is too short. It must be at least %d characters long.';
+var CHECKOUT_PASSWORD_MISMATCH = 'The passwords you entered do not match. They must match in order to confirm you are correctly entering the password you want to use.';
+var CHECKOUT_CHECKBOX_CHECKED = '%s must be checked before you can proceed.';
+
+var SHOPP_TB_CLOSE = 'Press Esc Key or';
+var SHOPP_TB_IMAGE = 'Image %d of %d';
+var SHOPP_TB_NEXT = 'Next';
+var SHOPP_TB_BACK = 'Back';
+var MONTH_NAMES = new Array('','January','February','March','April','May','June','July','August','September','October','November','December');
+var WEEK_DAYS = new Array('Sun','Mon','Tue','Wed','Thu','Fri','Sat');

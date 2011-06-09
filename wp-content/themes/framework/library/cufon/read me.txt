@@ -1,0 +1,51 @@
+
+How to generate & activate the fonts
+
+    * First you have to convert your font-file (.ttf, .otf) into a Cufón compatible format.
+      You can do this by using Cufón's own generator at http://cufon.shoqolate.com/generate/
+    * In the next step you must create the directory /fonts/ in /wp-content/plugins
+    * Then upload your .font.js font-files to /wp-content/plugins/fonts/
+      The Plugin will recognize your uploaded fonts and activate them.
+    * You can move the "Vegur" Fontfile from /examples/ to your new ../fonts/ directory for testing!
+    * If your font doesn't get recognized check the exact font-family FontName in your fontfile and set it right in your replacement code!
+      Check the first line in your font.js file to get the fontName (see bold example below).
+    * Example: (in a font.js file) Cufon.registerFont({"w":205,"face":{"font-family":"Vegur Bold", ...
+
+ 
+Set the font-replacements
+Easy Example:
+------------------------------------------------------------------
+Cufon.set('fontFamily', 'Amaze').replace('h1')('h2');
+
+Replace with different fonts:
+Cufon.set('fontFamily', 'NiftyFont');
+
+Cufon.replace('#welcome');
+Cufon.replace('#sidebar h2');
+Cufon.replace('#content .title');
+
+Cufon.set('fontFamily', 'AnotherNiceFont');
+Cufon.replace('h4');
+Cufon.replace('.quote');
+Cufon.replace('#message');
+
+Access via JavaScript frameworks: (e.g. jQuery needs to be enabled)
+Cufon.replace('#your_div_id > h1:first-child', { fontFamily: 'FontName With Spaces' });
+Cufon.replace('#your_div_id a', { fontFamily: 'FontName' });
+Cufon.replace('#your_div_id', { fontFamily: 'FontName-Medium' });
+
+Other Examples:
+Cufon.set('fontFamily', 'Vegur');
+Cufon.replace('#blog-title a', { hover: true });
+Cufon.replace('.menu a', { hover: true, fontWeight: '800' });
+Cufon.replace('.aside h3');
+Cufon.replace('h1.page-title' , { fontWeight: '400' });
+Cufon.replace('h1.entry-title', { fontWeight: '400' });
+Cufon.replace('h2.entry-title', { fontWeight: '400', hover: true });
+» Get more styling hints
+
+» If nothing works try to rename your font.js file and your font-family string to the same name and don't use any blanks!
+» For questions about Cufón please visit the Google Group!
+
+» Please do not use copyrighted fonts!
+» Cufón is distributed under the MIT license by Simo Kinnunen. 

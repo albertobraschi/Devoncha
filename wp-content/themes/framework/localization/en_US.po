@@ -1,0 +1,4550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eComFramework/framework v0.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-10-13 13:04+0000\n"
+"Last-Translator: admin <dobhavesh@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/admin_functions.php:197
+#@ default
+msgid "Select Page"
+msgstr ""
+
+#: admin/admin_functions.php:218
+#@ default
+msgid "Select Category"
+msgstr ""
+
+#: admin/admin_options.php:13
+#@ default
+msgid "Please select the CSS skin of your blog here."
+msgstr ""
+
+#: admin/admin_options.php:21
+#@ default
+msgid "Use Custom Stylesheet"
+msgstr ""
+
+#: admin/admin_options.php:22
+#@ default
+msgid "If you want to make custom design changes using CSS enable and <a href=''>edit custom.css file here</a>."
+msgstr ""
+
+#: admin/admin_options.php:28
+#@ default
+msgid "Paste the full URL for your favicon image here if you wish to show it in browser address bar. <a href='http://www.favicon.cc/'>Create one here</a>"
+msgstr ""
+
+#: admin/admin_options.php:33
+#@ default
+msgid "Header Logo Image Path"
+msgstr ""
+
+#: admin/admin_options.php:34
+#@ default
+msgid "Paste the full URL to your logo image here. eg. : <b>http://mysite.com/images/logo.png</b>"
+msgstr ""
+
+#: admin/admin_options.php:39
+#@ default
+msgid "Display Blog Title instead of Logo"
+msgstr ""
+
+#: admin/admin_options.php:40
+#@ default
+msgid "This option will overwrite your logo selection above - You can <a href=''>change your settings here</a>"
+msgstr ""
+
+#: admin/admin_options.php:41
+#@ default
+msgid "Display Blog Title and Tagline."
+msgstr ""
+
+#: admin/admin_options.php:46
+#@ default
+msgid "Syndication / Feed"
+msgstr ""
+
+#: admin/admin_options.php:47
+#@ default
+msgid "If you are using a service like Feedburner to manage your RSS feed, enter Feed ID here. If you'd prefer to use the default WordPress feed, simply leave this box blank. eg. : <b>templatic/eKPs</b>"
+msgstr ""
+
+#: admin/admin_options.php:52
+#@ default
+msgid "Feed URL link"
+msgstr ""
+
+#: admin/admin_options.php:53
+#@ default
+msgid "If you are using a service like Feedburner to manage your RSS feed, enter full URL of your feed here. If you'd prefer to use the default WordPress feed, simply leave this box blank. eg. :<b>http://feeds2.feedburner.com/templatic</b>"
+msgstr ""
+
+#: admin/admin_options.php:71
+#@ default
+msgid "Cufon Fonts"
+msgstr ""
+
+#: admin/admin_options.php:72
+#@ default
+msgid "Enable cufon style being used for titles?"
+msgstr ""
+
+#: admin/admin_options.php:73
+#@ default
+msgid "This theme uses Rockwell fonts for headings in the site. You can disable this if you wish to."
+msgstr ""
+
+#: admin/admin_options.php:88
+#@ default
+msgid "Header Navigation Settings"
+msgstr ""
+
+#: admin/admin_options.php:92
+#@ default
+msgid "Display Store Link?"
+msgstr ""
+
+#: admin/admin_options.php:93
+#@ default
+msgid "Wish to display Store Link?"
+msgstr ""
+
+#: admin/admin_options.php:94
+#@ default
+msgid "Do you wish to display 'Store' link in Header Navigation? Select 'Show' to display else 'Hide'"
+msgstr ""
+
+#: admin/admin_options.php:100
+#@ default
+msgid "Display Blog Categories Link?"
+msgstr ""
+
+#: admin/admin_options.php:101
+#@ default
+msgid "Wish to display Blog Categories Link?"
+msgstr ""
+
+#: admin/admin_options.php:102
+#@ default
+msgid "Do you wish to display 'Blog Categories' link in Header Navigation? Select 'Show' to display else 'Hide'"
+msgstr ""
+
+#: admin/admin_options.php:108
+#@ default
+msgid "Display Pages?"
+msgstr ""
+
+#: admin/admin_options.php:109
+#@ default
+msgid "Wish to display Pages?"
+msgstr ""
+
+#: admin/admin_options.php:110
+#@ default
+msgid "Do you wish to display 'Pages' in Header Navigation? Select 'Show' to display else 'Hide'."
+msgstr ""
+
+#: admin/admin_options.php:117
+#: admin/admin_options.php:118
+#@ default
+msgid "Exclude Pages from Header Menu"
+msgstr ""
+
+#: admin/admin_options.php:119
+#@ default
+msgid "Enter a comma-separated list of the <code>Page ID's</code> that you'd like to display in header (on the right). (ie. <code>1,2,3,4</code>)"
+msgstr ""
+
+#: admin/admin_options.php:126
+#: admin/admin_options.php:127
+#@ default
+msgid "Display Categories?"
+msgstr ""
+
+#: admin/admin_options.php:128
+#@ default
+msgid "Do you wish to display 'Categories' in Header Navigation? Select 'Show' to display else 'Hide'."
+msgstr ""
+
+#: admin/admin_options.php:141
+#@ default
+msgid "Menu Category"
+msgstr ""
+
+#: admin/admin_options.php:142
+#@ default
+msgid "Header Navigation Select Menu Category"
+msgstr ""
+
+#: admin/admin_options.php:143
+#@ default
+msgid "Select categories that you'd like to display on the right side in header. Press ctrl to select more than one."
+msgstr ""
+
+#: admin/admin_options.php:149
+#@ default
+msgid "Breadcrumbs Navigation"
+msgstr ""
+
+#: admin/admin_options.php:150
+#: admin/admin_options.php:172
+#@ default
+msgid "Show breadcrumbs navigation bar"
+msgstr ""
+
+#: admin/admin_options.php:167
+#@ default
+msgid "Footer Navigation Settings"
+msgstr ""
+
+#: admin/admin_options.php:171
+#@ default
+msgid "Footer Navigation"
+msgstr ""
+
+#: admin/admin_options.php:173
+#@ default
+msgid "Select categories that you'd like to display on the right side in footer. Press ctrl to select more than one."
+msgstr ""
+
+#: admin/admin_options.php:193
+#@ default
+msgid "Products Listing Settings -> For 'Store' or 'All Products' Page"
+msgstr ""
+
+#: admin/admin_options.php:197
+#@ default
+msgid "Listing Format on 'Store' or 'All Products' Page"
+msgstr ""
+
+#: admin/admin_options.php:198
+#@ default
+msgid "Display product listing either grid or normat listing format on 'Store' or 'All Products' Page"
+msgstr ""
+
+#: admin/admin_options.php:204
+#: admin/admin_options.php:308
+#: admin/admin_options.php:412
+#: library/functions/widgets_functions.php:930
+#@ default
+msgid "Number of Products"
+msgstr ""
+
+#: admin/admin_options.php:205
+#@ default
+msgid "Display number of products on Store or All Products Page. The Number is for per page Products number."
+msgstr ""
+
+#: admin/admin_options.php:211
+#: admin/admin_options.php:315
+#@ default
+msgid "Display Title?"
+msgstr ""
+
+#: admin/admin_options.php:212
+#: admin/admin_options.php:316
+#: admin/admin_options.php:420
+#@ default
+msgid "Check mark if you wish to display Product Title. Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:218
+#@ default
+msgid "Title Display order"
+msgstr ""
+
+#: admin/admin_options.php:225
+#: admin/admin_options.php:329
+#@ default
+msgid "Display Image?"
+msgstr ""
+
+#: admin/admin_options.php:226
+#: admin/admin_options.php:330
+#: admin/admin_options.php:434
+#@ default
+msgid "Check mark if you wish to display Product Image. Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:232
+#: admin/admin_options.php:336
+#: admin/admin_options.php:440
+#@ default
+msgid "Image Display Order"
+msgstr ""
+
+#: admin/admin_options.php:239
+#: admin/admin_options.php:343
+#: admin/admin_options.php:447
+#@ default
+msgid "Set Image Border?"
+msgstr ""
+
+#: admin/admin_options.php:240
+#@ default
+msgid "Check mark if wish to set image border."
+msgstr ""
+
+#: admin/admin_options.php:246
+#: admin/admin_options.php:350
+#: admin/admin_options.php:454
+#@ default
+msgid "Display Price?"
+msgstr ""
+
+#: admin/admin_options.php:247
+#: admin/admin_options.php:351
+#: admin/admin_options.php:455
+#@ default
+msgid "Check mark if you wish to display Product Price. Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:253
+#: admin/admin_options.php:357
+#@ default
+msgid "Price Display order"
+msgstr ""
+
+#: admin/admin_options.php:260
+#@ default
+msgid "Display Description?"
+msgstr ""
+
+#: admin/admin_options.php:261
+#@ default
+msgid "Check mark if you wish to display Product Description. Note that product description will only appear in listing view and not in grid view. Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:267
+#: admin/admin_options.php:371
+#@ default
+msgid "Description Display order"
+msgstr ""
+
+#: admin/admin_options.php:274
+#: admin/admin_options.php:378
+#: admin/admin_options.php:482
+#@ default
+msgid "Display View Button?"
+msgstr ""
+
+#: admin/admin_options.php:275
+#@ default
+msgid "Check mark if you wish to display Product View Button. Note that View button will only appear in listing view and not in gird view. Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:281
+#@ default
+msgid "View Button Display order"
+msgstr ""
+
+#: admin/admin_options.php:297
+#@ default
+msgid "Products Listing Settings -> For 'Archive' or 'Category' Page"
+msgstr ""
+
+#: admin/admin_options.php:301
+#: admin/admin_options.php:405
+#@ default
+msgid "Listing Format"
+msgstr ""
+
+#: admin/admin_options.php:302
+#@ default
+msgid "Display product listing either grid or normat listing format on 'Archive' or 'Category' Page"
+msgstr ""
+
+#: admin/admin_options.php:309
+#@ default
+msgid "Display number of products on Category or Archive Page. The Number is for per page Products number."
+msgstr ""
+
+#: admin/admin_options.php:322
+#@ default
+msgid "Title Display Order"
+msgstr ""
+
+#: admin/admin_options.php:344
+#@ default
+msgid "Please check mark if you wish to set image border in listing."
+msgstr ""
+
+#: admin/admin_options.php:364
+#@ default
+msgid "Display Product Description?"
+msgstr ""
+
+#: admin/admin_options.php:365
+#@ default
+msgid "Check mark if you wish to display Product Description. Description will only appear in listing view and not in grid view.  Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:379
+#@ default
+msgid "Check mark if you wish to display Product View Button. View Button will appear only in listing view and not in gird view. Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:385
+#@ default
+msgid "Button Display order"
+msgstr ""
+
+#: admin/admin_options.php:401
+#@ default
+msgid "Products Listing Settings -> For Home Page - Latest Products "
+msgstr ""
+
+#: admin/admin_options.php:406
+#@ default
+msgid "Display product listing either grid or normat listing format on 'Home' Page"
+msgstr ""
+
+#: admin/admin_options.php:413
+#@ default
+msgid "Display number of products on 'Home' Page"
+msgstr ""
+
+#: admin/admin_options.php:419
+#@ default
+msgid "Display Product Title?"
+msgstr ""
+
+#: admin/admin_options.php:426
+#: admin/admin_options.php:461
+#@ default
+msgid "Price Display Order"
+msgstr ""
+
+#: admin/admin_options.php:433
+#@ default
+msgid "Display Product Image?"
+msgstr ""
+
+#: admin/admin_options.php:448
+#@ default
+msgid "Wish to set Image border?"
+msgstr ""
+
+#: admin/admin_options.php:468
+#@ default
+msgid "Display Description"
+msgstr ""
+
+#: admin/admin_options.php:469
+#@ default
+msgid "Check mark if you wish to display Product Description. Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:475
+#@ default
+msgid "Description Display Order"
+msgstr ""
+
+#: admin/admin_options.php:483
+#@ default
+msgid "Check mark if you wish to display Product View Button. Other related options will be effected only if this option is checked."
+msgstr ""
+
+#: admin/admin_options.php:489
+#@ default
+msgid "View Button Display Order"
+msgstr ""
+
+#: admin/admin_options.php:505
+#@ default
+msgid "Image default width & height Settings For Product Listing"
+msgstr ""
+
+#: admin/admin_options.php:509
+#@ default
+msgid "Default Width (in pixel)"
+msgstr ""
+
+#: admin/admin_options.php:510
+#@ default
+msgid "Set the image Width. Image will be automatically resized to this width."
+msgstr ""
+
+#: admin/admin_options.php:516
+#@ default
+msgid "Default Height (in pixel)"
+msgstr ""
+
+#: admin/admin_options.php:517
+#@ default
+msgid "Set the image Height. Image will be automatically resized to this Height."
+msgstr ""
+
+#: admin/admin_options.php:522
+#@ default
+msgid "Default Image Cutting Edge"
+msgstr ""
+
+#: admin/admin_options.php:523
+#@ default
+msgid "Set Default Image Cutting Edge Position."
+msgstr ""
+
+#: admin/admin_options.php:540
+#@ default
+msgid "Blog Section Settings"
+msgstr ""
+
+#: admin/admin_options.php:545
+#@ default
+msgid "Select Categories As Blog Categories"
+msgstr ""
+
+#: admin/admin_options.php:554
+#@ default
+msgid "Content Display"
+msgstr ""
+
+#: admin/admin_options.php:555
+#@ default
+msgid "Display Full Post Content"
+msgstr ""
+
+#: admin/admin_options.php:556
+#@ default
+msgid "Instead of default Post excerpts display Full Post Content in Blog Section"
+msgstr ""
+
+#: admin/admin_options.php:576
+#@ default
+msgid "Stats and Scripts"
+msgstr ""
+
+#: admin/admin_options.php:580
+#@ default
+msgid "Header Scripts"
+msgstr ""
+
+#: admin/admin_options.php:581
+#@ default
+msgid "If you need to add scripts to your header (like <a href='http://haveamint.com/'>Mint</a> tracking code), do so here."
+msgstr ""
+
+#: admin/admin_options.php:586
+#@ default
+msgid "Footer Scripts"
+msgstr ""
+
+#: admin/admin_options.php:587
+#@ default
+msgid "If you need to add scripts to your footer (like <a href='http://www.google.com/analytics/'>Google Analytics</a> tracking code), do so here."
+msgstr ""
+
+#: admin/admin_options.php:605
+#@ default
+msgid "SEO Options"
+msgstr ""
+
+#: admin/admin_options.php:609
+#@ default
+msgid "Meta Description"
+msgstr ""
+
+#: admin/admin_options.php:610
+#@ default
+msgid "You should use meta descriptions to provide search engines with additional information about topics that appear on your site. This only applies to your home page."
+msgstr ""
+
+#: admin/admin_options.php:615
+#@ default
+msgid "Meta Keywords (comma separated)"
+msgstr ""
+
+#: admin/admin_options.php:616
+#@ default
+msgid "Meta keywords are rarely used nowadays but you can still provide search engines with additional information about topics that appear on your site. This only applies to your home page."
+msgstr ""
+
+#: admin/admin_options.php:621
+#@ default
+msgid "Meta Author"
+msgstr ""
+
+#: admin/admin_options.php:622
+#@ default
+msgid "You should write your <em>full name</em> here but only do so if this blog is writen only by one outhor. This only applies to your home page."
+msgstr ""
+
+#: admin/admin_options.php:639
+#@ default
+msgid "Product  Details  Page Settings"
+msgstr ""
+
+#: admin/admin_options.php:643
+#@ default
+msgid "Display quantity textbox"
+msgstr ""
+
+#: admin/admin_options.php:644
+#@ default
+msgid "Do you want to display quantity textbox on Detail page"
+msgstr ""
+
+#: admin/admin_options.php:650
+#@ default
+msgid "Set quantity textbox on Shopping Cart page"
+msgstr ""
+
+#: admin/admin_options.php:651
+#@ default
+msgid "Do you want to set quantity textbox on Shopping Cart page to be editable?"
+msgstr ""
+
+#: admin/admin_options.php:658
+#@ default
+msgid "Maximum number of Quantity Decimal"
+msgstr ""
+
+#: admin/admin_options.php:659
+#@ default
+msgid "Maximum number of quantity Decimal in case of <u>quantity textbox=show</u>"
+msgstr ""
+
+#: admin/admin_options.php:664
+#@ default
+msgid "Show or Hide Product Weight"
+msgstr ""
+
+#: admin/admin_options.php:665
+#@ default
+msgid "Select wish to either Show or Hide Product Weight on Product detail page "
+msgstr ""
+
+#: admin/admin_options.php:671
+#@ default
+msgid "Show or Hide 'Tell a Friend'"
+msgstr ""
+
+#: admin/admin_options.php:672
+#@ default
+msgid "Select wish to either Show or Hide 'Tell a Friend' on Product detail page "
+msgstr ""
+
+#: admin/admin_options.php:678
+#@ default
+msgid "Show or Hide 'Add Comment'"
+msgstr ""
+
+#: admin/admin_options.php:679
+#@ default
+msgid "Select wish to either Show or Hide 'Add Comment' on Product detail page "
+msgstr ""
+
+#: admin/admin_options.php:687
+#@ default
+msgid "Add to Cart/Send Inquiry Button Position"
+msgstr ""
+
+#: admin/admin_options.php:688
+#@ default
+msgid "Select Add to Cart Button Position in Product Detail Page"
+msgstr ""
+
+#: admin/admin_options.php:694
+#@ default
+msgid "Show or Hide Related produts"
+msgstr ""
+
+#: admin/admin_options.php:695
+#@ default
+msgid "Wish to either Show or Hide related produts on product detail page"
+msgstr ""
+
+#: admin/admin_options.php:702
+#@ default
+msgid "Number of Related products"
+msgstr ""
+
+#: admin/admin_options.php:703
+#@ default
+msgid "Number of Related products display on Detail page"
+msgstr ""
+
+#: admin/admin_options.php:716
+#@ default
+msgid "Site Pages Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:720
+#@ default
+msgid "Home Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:727
+#@ default
+msgid "Content Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:728
+#@ default
+msgid "Select layout of Content pages, e.g. About, Contact Ua"
+msgstr ""
+
+#: admin/admin_options.php:734
+#@ default
+msgid "Product Listing Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:741
+#@ default
+msgid "Blog Listing Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:748
+#@ default
+msgid "Product Detail Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:755
+#@ default
+msgid "Blog Detail Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:762
+#@ default
+msgid "Store Listing Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:769
+#@ default
+msgid "Shopping Cart Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:775
+#@ default
+msgid "Checkout Page Layout setting"
+msgstr ""
+
+#: admin/admin_options.php:782
+#@ default
+msgid "All Other Pages Layout setting"
+msgstr ""
+
+#: admin/admin_settings.php:73
+#: product_menu.php:27
+#@ default
+msgid "Design Settings"
+msgstr ""
+
+#: admin/admin_settings.php:75
+#@ default
+msgid "Show/Hide All Options"
+msgstr ""
+
+#: admin/admin_settings.php:76
+#@ default
+msgid "Show All Options"
+msgstr ""
+
+#: admin/admin_settings.php:77
+#@ default
+msgid "Hide All Options"
+msgstr ""
+
+#: admin/admin_settings.php:122
+#@ default
+msgid "Child Theme"
+msgstr ""
+
+#: admin/admin_settings.php:204
+#: admin/design_settings.php:107
+#@ default
+msgid "label"
+msgstr ""
+
+#: admin/admin_settings.php:240
+#: admin/admin_settings.php:249
+#: admin/admin_settings.php:262
+#: admin/admin_settings.php:334
+#: admin/design_settings.php:143
+#: admin/design_settings.php:152
+#: admin/design_settings.php:173
+#: library/includes/admin_shipping_settings.php:86
+#@ default
+msgid "name"
+msgstr ""
+
+#: admin/admin_settings.php:241
+#: admin/admin_settings.php:342
+#: admin/design_settings.php:144
+#@ default
+msgid "desc"
+msgstr ""
+
+#: admin/admin_settings.php:251
+#: admin/admin_settings.php:311
+#: admin/design_settings.php:154
+#: admin/design_settings.php:163
+#: admin/design_settings.php:223
+#@ default
+msgid "Save changes"
+msgstr ""
+
+#: admin/admin_settings.php:317
+#: admin/design_settings.php:229
+#@ default
+msgid "Reset"
+msgstr ""
+
+#: admin/design_settings.php:1
+#@ default
+msgid "Framework"
+msgstr ""
+
+#: admin/design_settings.php:236
+#@ default
+msgid "Are you sure want to Reset Settings?"
+msgstr ""
+
+#: comments-old.php:76
+#: comments-old.php:82
+#: comments.php:63
+#: comments.php:69
+#@ default
+msgid "*"
+msgstr ""
+
+#: functions.php:93
+#@ default
+msgid "All State"
+msgstr ""
+
+#: index.php:81
+#@ default
+msgid "Product"
+msgstr ""
+
+#: index.php:81
+#: library/functions/general_functions.php:1042
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:76
+#: library/includes/affiliates/export_report.php:21
+#: library/includes/checkout_cart.php:71
+#: message.php:127
+#: message.php:265
+#@ default
+msgid "Qty"
+msgstr ""
+
+#: index.php:81
+#: library/functions/custom.php:1089
+#: library/functions/general_functions.php:1043
+#: message.php:34
+#: message.php:126
+#@ default
+msgid "Price"
+msgstr ""
+
+#: index.php:89
+#: library/includes/admin_manage_country.php:158
+#: library/includes/admin_manage_orders.php:326
+#: library/includes/admin_manage_state.php:163
+#: library/includes/admin_manage_tax.php:122
+#: library/includes/admin_manage_users.php:195
+#: library/includes/affiliates/export_report.php:109
+#: message.php:128
+#: message.php:270
+#@ default
+msgid "Total"
+msgstr ""
+
+#: index.php:90
+#: library/functions/widgets_functions.php:1032
+#: library/includes/edit_profile.php:321
+#: library/includes/registration_page.php:29
+#: message.php:14
+#: message.php:80
+#: message.php:136
+#: message.php:240
+#@ default
+msgid "Checkout"
+msgstr ""
+
+#: library/captcha/captcha_function.php:8
+#@ default
+msgid "Captha"
+msgstr ""
+
+#: library/captcha/captcha_function.php:11
+#@ default
+msgid "Please enter valid black colored text only"
+msgstr ""
+
+#: library/captcha/captcha_function.php:12
+#@ default
+msgid "Please enter black colored text only."
+msgstr ""
+
+#: library/functions/comments_functions.php:46
+#@ default
+msgid "Reply"
+msgstr ""
+
+#: library/functions/custom.php:44
+#@ default
+msgid "Physical Product"
+msgstr ""
+
+#: library/functions/custom.php:48
+#@ default
+msgid "Download/Digital Product"
+msgstr ""
+
+#: library/functions/custom.php:52
+#@ default
+msgid "Virtual/Service Product"
+msgstr ""
+
+#: library/functions/custom.php:56
+#: message.php:139
+#@ default
+msgid "Donation Product"
+msgstr ""
+
+#: library/functions/custom.php:59
+#: library/functions/general_functions.php:1093
+#: library/includes/admin_coupon.php:96
+#: library/includes/admin_manage_tax.php:92
+#: library/includes/admin_shipping_settings.php:101
+#: library/includes/admin_shipping_settings.php:143
+#: library/includes/admin_shipping_settings.php:181
+#: library/includes/admin_tax_form.php:102
+#: library/includes/admin_tax_form.php:107
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:77
+#: library/includes/affiliates/export_report.php:22
+#: library/includes/cart_detail_page.php:96
+#: library/includes/normal_checkout_page_cartdetail.php:67
+#: library/includes/view_orders.php:6
+#: message.php:266
+#@ default
+msgid "Amount"
+msgstr ""
+
+#: library/functions/custom.php:65
+#@ default
+msgid "Affiliate Product"
+msgstr ""
+
+#: library/functions/custom.php:70
+#@ default
+msgid "Affiliate Link"
+msgstr ""
+
+#: library/functions/custom.php:71
+#@ default
+msgid "On clicking the affiliate link, you will redirected to this url"
+msgstr ""
+
+#: library/functions/custom.php:73
+#@ default
+msgid "Link Button text"
+msgstr ""
+
+#: library/functions/custom.php:74
+#@ default
+msgid "Text will be display on the affiliate link button"
+msgstr ""
+
+#: library/functions/custom.php:900
+#@ default
+msgid "Select Digital Product to Upload"
+msgstr ""
+
+#: library/functions/custom.php:906
+#@ default
+msgid "Select Image to Upload"
+msgstr ""
+
+#: library/functions/custom.php:936
+#@ default
+msgid "Remove"
+msgstr ""
+
+#: library/functions/custom.php:1069
+#@ default
+msgid "View all posts and products"
+msgstr ""
+
+#: library/functions/custom.php:1072
+#@ default
+msgid "View only products"
+msgstr ""
+
+#: library/functions/custom.php:1090
+#@ default
+msgid "Is Taxable"
+msgstr ""
+
+#: library/functions/custom.php:1091
+#: product_menu.php:20
+#@ default
+msgid "Stock"
+msgstr ""
+
+#: library/functions/custom.php:1092
+#@ default
+msgid "Main Image"
+msgstr ""
+
+#: library/functions/custom.php:1095
+#@ default
+msgid "Digital Product"
+msgstr ""
+
+#: library/functions/custom.php:1097
+#@ default
+msgid "Thumbnails"
+msgstr ""
+
+#: library/functions/custom.php:1100
+#@ default
+msgid "Is Product"
+msgstr ""
+
+#: library/functions/custom.php:1113
+#: library/functions/custom.php:1127
+#: library/functions/custom.php:1150
+#: library/functions/custom.php:1162
+#: library/includes/admin_settings.php:292
+#: library/includes/admin_settings.php:324
+#: library/includes/admin_settings.php:335
+#: library/includes/admin_settings.php:342
+#: library/includes/admin_settings.php:353
+#: library/includes/admin_settings.php:362
+#: library/includes/admin_settings.php:371
+#: library/includes/admin_settings.php:380
+#: library/includes/admin_settings.php:396
+#: library/includes/admin_settings.php:402
+#: library/includes/admin_settings.php:409
+#: library/includes/admin_settings.php:417
+#: library/includes/admin_settings.php:424
+#: library/includes/admin_settings.php:435
+#: library/includes/admin_settings.php:443
+#: library/includes/affiliates/affiliates_settings.php:88
+#@ default
+msgid "Yes"
+msgstr ""
+
+#: library/functions/custom.php:1116
+#: library/functions/custom.php:1130
+#: library/functions/custom.php:1153
+#: library/functions/custom.php:1165
+#: library/includes/admin_settings.php:293
+#: library/includes/admin_settings.php:325
+#: library/includes/admin_settings.php:334
+#: library/includes/admin_settings.php:343
+#: library/includes/admin_settings.php:352
+#: library/includes/admin_settings.php:361
+#: library/includes/admin_settings.php:370
+#: library/includes/admin_settings.php:379
+#: library/includes/admin_settings.php:397
+#: library/includes/admin_settings.php:403
+#: library/includes/admin_settings.php:410
+#: library/includes/admin_settings.php:418
+#: library/includes/admin_settings.php:425
+#: library/includes/admin_settings.php:436
+#: library/includes/admin_settings.php:444
+#: library/includes/affiliates/affiliates_settings.php:87
+#@ default
+msgid "No"
+msgstr ""
+
+#: library/functions/custom.php:1253
+#@ default
+msgid "Current  Month"
+msgstr ""
+
+#: library/functions/custom.php:1254
+#@ default
+msgid "Up to Date"
+msgstr ""
+
+#: library/functions/custom.php:1258
+#: library/includes/admin_stock.php:63
+#: message.php:77
+#@ default
+msgid "Products"
+msgstr ""
+
+#: library/functions/custom.php:1264
+#@ default
+msgid "Total Orders"
+msgstr ""
+
+#: library/functions/custom.php:1282
+#@ default
+msgid "Processing Orders"
+msgstr ""
+
+#: library/functions/custom.php:1410
+#: library/functions/general_functions.php:1004
+#: library/includes/admin_manage_orders.php:281
+#: library/includes/view_orders.php:4
+#: message.php:76
+#@ default
+msgid "Order Number"
+msgstr ""
+
+#: library/functions/custom.php:1411
+#: library/includes/admin_manage_orders.php:285
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:72
+#: library/includes/affiliates/export_report.php:17
+#: library/includes/view_orders.php:5
+#: message.php:261
+#@ default
+msgid "Date"
+msgstr ""
+
+#: library/functions/custom.php:1412
+#@ default
+msgid "Bill Amount"
+msgstr ""
+
+#: library/functions/custom.php:1413
+#: library/includes/admin_manage_orders.php:286
+#: library/includes/admin_manage_tax.php:95
+#: library/includes/admin_tax_form.php:93
+#: library/includes/view_orders.php:7
+#: message.php:311
+#@ default
+msgid "Status"
+msgstr ""
+
+#: library/functions/custom.php:1430
+#@ default
+msgid "Sorry, Not a single order is there"
+msgstr ""
+
+#: library/functions/custom.php:1444
+#@ default
+msgid "Shopping Cart Summary"
+msgstr ""
+
+#: library/functions/custom.php:1447
+#@ default
+msgid "Latest Order List"
+msgstr ""
+
+#: library/functions/custom_functions.php:471
+#@ twentyten
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: library/functions/duplicate_posts.php:11
+#: library/functions/duplicate_posts.php:70
+#@ default
+msgid "No post to duplicate has been supplied!"
+msgstr ""
+
+#: library/functions/duplicate_posts.php:30
+#: library/functions/duplicate_posts.php:89
+#@ default
+msgid "Post creation failed, could not find original post:"
+msgstr ""
+
+#: library/functions/duplicate_posts.php:40
+#: library/functions/duplicate_posts.php:99
+#@ default
+msgid "Make a duplicate from this post"
+msgstr ""
+
+#: library/functions/duplicate_posts.php:41
+#: library/functions/duplicate_posts.php:100
+#@ default
+msgid "Duplicate"
+msgstr ""
+
+#: library/functions/duplicate_posts.php:58
+#: library/functions/duplicate_posts.php:120
+#@ default
+msgid "Copy to a new draft"
+msgstr ""
+
+#: library/functions/general_functions.php:19
+#@ default
+msgid "Pay with name"
+msgstr ""
+
+#: library/functions/general_functions.php:253
+#: library/functions/general_functions.php:337
+#@ default
+msgid "Note tax included : "
+msgstr ""
+
+#: library/functions/general_functions.php:412
+#: library/functions/general_functions.php:1086
+#: library/includes/admin_manage_coupon.php:49
+#: message.php:137
+#@ default
+msgid "Discount Amount"
+msgstr ""
+
+#: library/functions/general_functions.php:518
+#@ default
+msgid "Tax"
+msgstr ""
+
+#: library/functions/general_functions.php:1005
+#@ default
+msgid "Order Date"
+msgstr ""
+
+#: library/functions/general_functions.php:1006
+#: library/includes/admin_manage_orders.php:144
+#: library/includes/admin_manage_users.php:37
+#: library/includes/admin_order_detail.php:156
+#@ default
+msgid "Order Status"
+msgstr ""
+
+#: library/functions/general_functions.php:1012
+#: message.php:107
+#: message.php:143
+#@ default
+msgid "User Information"
+msgstr ""
+
+#: library/functions/general_functions.php:1019
+#: message.php:82
+#: message.php:255
+#@ default
+msgid "Shipping Address"
+msgstr ""
+
+#: library/functions/general_functions.php:1027
+#@ default
+msgid "Payment Information"
+msgstr ""
+
+#: library/functions/general_functions.php:1028
+#: message.php:108
+#@ default
+msgid "Shipping Information"
+msgstr ""
+
+#: library/functions/general_functions.php:1036
+#@ default
+msgid "Products Information"
+msgstr ""
+
+#: library/functions/general_functions.php:1040
+#: library/includes/normal_checkout_page_cartdetail.php:4
+#@ default
+msgid "Image"
+msgstr ""
+
+#: library/functions/general_functions.php:1041
+#: message.php:86
+#@ default
+msgid "Product Name"
+msgstr ""
+
+#: library/functions/general_functions.php:1044
+#@ default
+msgid "Price Total"
+msgstr ""
+
+#: library/functions/general_functions.php:1069
+#@ default
+msgid "code : "
+msgstr ""
+
+#: library/functions/general_functions.php:1080
+#@ default
+msgid "Sub Total"
+msgstr ""
+
+#: library/functions/general_functions.php:1105
+#@ default
+msgid "Total Payable Amount"
+msgstr ""
+
+#: library/functions/general_functions.php:1121
+#@ default
+msgid "Please transfer amount of"
+msgstr ""
+
+#: library/functions/general_functions.php:1121
+#@ default
+msgid "to out bank with following information"
+msgstr ""
+
+#: library/functions/general_functions.php:1122
+#@ default
+msgid "payment for Order Number"
+msgstr ""
+
+#: library/functions/general_functions.php:1123
+#@ default
+msgid "Bank Name"
+msgstr ""
+
+#: library/functions/general_functions.php:1124
+#@ default
+msgid "Account Number"
+msgstr ""
+
+#: library/functions/general_functions.php:1380
+#@ default
+msgid "out_of_stock"
+msgstr ""
+
+#: library/functions/general_functions.php:1520
+#: library/functions/general_functions.php:1525
+#@ default
+msgid "Current stock is"
+msgstr ""
+
+#: library/functions/general_functions.php:1981
+#: library/functions/general_functions.php:1990
+#: library/includes/admin_stock.php:97
+#: library/includes/admin_stock.php:111
+#: library/includes/admin_stock.php:119
+#@ default
+msgid "Out of Stock"
+msgstr ""
+
+#: library/functions/product.php:174
+#@ default
+msgid "select "
+msgstr ""
+
+#: library/functions/product.php:269
+#@ default
+msgid "Donation Amount : "
+msgstr ""
+
+#: library/functions/product.php:430
+#: library/functions/product.php:522
+#: message.php:297
+#@ default
+msgid "View Details"
+msgstr ""
+
+#: library/functions/product.php:634
+#@ default
+msgid "Product Code"
+msgstr ""
+
+#: library/functions/theme_ui.php:41
+#@ default
+msgid "Click here"
+msgstr ""
+
+#: library/functions/theme_ui.php:54
+#: library/functions/widgets_functions.php:798
+#@ default
+msgid "You have"
+msgstr ""
+
+#: library/functions/theme_ui.php:91
+#: library/functions/theme_ui.php:94
+#@ default
+msgid "sizetitle"
+msgstr ""
+
+#: library/functions/theme_ui.php:102
+#: library/functions/theme_ui.php:105
+#@ default
+msgid "colortitle"
+msgstr ""
+
+#: library/functions/theme_ui.php:112
+#: library/functions/theme_ui.php:115
+#@ default
+msgid "att3title"
+msgstr ""
+
+#: library/functions/theme_ui.php:112
+#: library/functions/theme_ui.php:115
+#@ default
+msgid "Attribute3"
+msgstr ""
+
+#: library/functions/theme_ui.php:122
+#: library/functions/theme_ui.php:125
+#@ default
+msgid "att4title"
+msgstr ""
+
+#: library/functions/theme_ui.php:122
+#: library/functions/theme_ui.php:125
+#@ default
+msgid "Attribute4"
+msgstr ""
+
+#: library/functions/theme_ui.php:132
+#: library/functions/theme_ui.php:135
+#@ default
+msgid "att5title"
+msgstr ""
+
+#: library/functions/theme_ui.php:132
+#: library/functions/theme_ui.php:135
+#@ default
+msgid "Attribute5"
+msgstr ""
+
+#: library/functions/widgets_functions.php:84
+#@ default
+msgid "Subscribe"
+msgstr ""
+
+#: library/functions/widgets_functions.php:656
+#: library/functions/widgets_functions.php:922
+#@ default
+msgid "Categories (<code>IDs</code> separated by commas):"
+msgstr ""
+
+#: library/functions/widgets_functions.php:661
+#@ default
+msgid "Number of posts:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:666
+#@ default
+msgid "Set slider auto rotation:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:674
+#@ default
+msgid "Slider rotation speed(frame/milisecond):"
+msgstr ""
+
+#: library/functions/widgets_functions.php:679
+#@ default
+msgid "Slider image Width in px <br />(Default is 420px):"
+msgstr ""
+
+#: library/functions/widgets_functions.php:684
+#@ default
+msgid "Slider image Height in px <br />(Default is 460px):"
+msgstr ""
+
+#: library/functions/widgets_functions.php:689
+#@ default
+msgid "Slider content Length in characters:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:756
+#: library/functions/widgets_functions.php:820
+#: library/functions/widgets_functions.php:927
+#: library/functions/widgets_functions.php:1055
+#: library/functions/widgets_functions.php:1104
+#: library/functions/widgets_functions.php:1169
+#: library/functions/widgets_functions.php:1250
+#: library/functions/widgets_functions.php:1321
+#: library/includes/admin_country_form.php:54
+#: library/includes/admin_manage_country.php:68
+#: library/includes/admin_manage_country.php:133
+#: library/includes/admin_manage_state.php:68
+#: library/includes/admin_manage_state.php:138
+#: library/includes/admin_manage_tax.php:91
+#: library/includes/admin_state_form.php:65
+#: library/includes/affiliates/admin_affiliates.php:33
+#@ default
+msgid "Title"
+msgstr ""
+
+#: library/functions/widgets_functions.php:761
+#@ default
+msgid "Exclude Categories (<code>IDs</code> separated by commas)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:851
+#: message.php:318
+#@ default
+msgid "Latest Products"
+msgstr ""
+
+#: library/functions/widgets_functions.php:932
+#@ default
+msgid "Listing Type"
+msgstr ""
+
+#: library/functions/widgets_functions.php:942
+#@ default
+msgid "Wish to display Store link?"
+msgstr ""
+
+#: library/functions/widgets_functions.php:945
+#@ default
+msgid "Image Width (in px)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:949
+#@ default
+msgid "Image Height (in px)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:952
+#@ default
+msgid "Image Cutting Type"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1005
+#@ default
+msgid "Welcome "
+msgstr ""
+
+#: library/functions/widgets_functions.php:1009
+#: message.php:4
+#@ default
+msgid "Hello Guest"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1020
+#: message.php:10
+#: message.php:97
+#@ default
+msgid "My Account"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1021
+#: message.php:5
+#@ default
+msgid "Logout"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1026
+#: message.php:6
+#: message.php:239
+#@ default
+msgid "Login"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1027
+#: library/includes/admin_manage_users.php:155
+#@ default
+msgid "Registration"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1031
+#@ default
+msgid "Cart Detail"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1108
+#@ default
+msgid "Advertisement"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1173
+#@ default
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1178
+#@ default
+msgid "Number of photos"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1254
+#@ default
+msgid "Number of posts"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1325
+#@ default
+msgid "Twitter Account ID"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1329
+#@ default
+msgid "Number of List"
+msgstr ""
+
+#: library/functions/widgets_functions.php:1333
+#@ default
+msgid "Follow Link"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:21
+#: message.php:7
+#@ default
+msgid "Home"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:22
+#: message.php:9
+#@ default
+msgid "Blog"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:29
+#@ default
+msgid "Archives for"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:30
+#@ default
+msgid "Search for"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:61
+#: library/includes/admin_paymet_settings.php:59
+#: library/includes/admin_paymethods.php:261
+#: library/includes/admin_paymethods.php:300
+#: library/includes/admin_shippings.php:87
+#: library/includes/affiliates/affiliates_settings.php:44
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:69
+#@ default
+msgid "You cannot edit the Yoast Breadcrumbs options."
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:185
+#: library/functions/yoast-breadcrumbs.php:189
+#: library/functions/yoast-breadcrumbs.php:271
+#@ default
+msgid "home"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:186
+#@ default
+msgid "blog"
+msgstr ""
+
+#: library/functions/yoast-posts.php:23
+#@ yoast-posts
+msgid "Yoast - Tweaking Websites"
+msgstr ""
+
+#: library/includes/404_page.php:5
+#@ default
+msgid "Error 404 | Nothing found!"
+msgstr ""
+
+#: library/includes/404_page.php:6
+#@ default
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+#: library/includes/add_new_paymethod.php:1
+#@ default
+msgid "Install New Payment Gateway"
+msgstr ""
+
+#: library/includes/add_new_paymethod.php:4
+#@ default
+msgid "Installed successully."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:288
+#: product_menu.php:25
+#@ default
+msgid "Bulk Upload"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:297
+#@ default
+msgid "Invalid File type. Please upload  CSV(comma delimited) only."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:299
+#@ default
+msgid "Please upload CSV(comma delimited) file only."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:306
+#@ default
+msgid "Uploaded successully."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:311
+#@ default
+msgid "Select CSV file"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:316
+#: library/includes/admin_country_form.php:62
+#: library/includes/admin_coupon.php:108
+#: library/includes/admin_manage_orders.php:324
+#: library/includes/admin_manage_users_frm.php:172
+#: library/includes/admin_notification_edit.php:93
+#: library/includes/admin_paymet_settings.php:106
+#: library/includes/admin_settings.php:261
+#: library/includes/admin_settings.php:312
+#: library/includes/admin_settings.php:385
+#: library/includes/admin_settings.php:495
+#: library/includes/admin_shipping_settings.php:131
+#: library/includes/admin_shipping_settings.php:211
+#: library/includes/admin_shippings.php:96
+#: library/includes/admin_state_form.php:81
+#: library/includes/admin_tax_form.php:114
+#: library/includes/affiliates/admin_affiliates_frm.php:89
+#: library/includes/affiliates/affiliates_settings.php:107
+#: message.php:281
+#@ default
+msgid "Submit"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:320
+#@ default
+msgid "<b><u>Note</u> :- </b>Only CSV(comma delimited) file is allowed. Everytime you upload a CSV, the records will be inserted, not updated."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:325
+#@ default
+msgid "You may like to download"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:325
+#@ default
+msgid "sample CSV file"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:328
+#@ default
+msgid "CSV file field description Guide"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:334
+#@ default
+msgid "This is \"Product Title\". It's a mandatory field and it should not be left as blank. It must be in first column only."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:338
+#@ default
+msgid "This is the product description. This should be in second column and can also be left as blank."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:342
+#@ default
+msgid ""
+" This is products category. It should always be in third column and if its left as blank, then all products will be inserted in \"Uncategorised\" category.\n"
+"Note: Column Position of above three fields should not be changed. And for below product fields, you can change the column position, but don't change its column's name.\n"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:348
+#@ default
+msgid "If you want to insert a digital product, then you'll need to first setup its path from wp-admin > Shopping cart > General settings > Product Settings > Digital Product Path. In this column, just enter the filename of the product. E.g. moneytransfer.zip"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:352
+#@ default
+msgid "The price of this product"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:356
+#@ default
+msgid "This is the products special price last date"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:360
+#@ default
+msgid "This is products special price"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:364
+#@ default
+msgid "Products model number"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:368
+#@ default
+msgid "This is products size chart. It can be image URL or basic HTML code."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:372
+#@ default
+msgid "If you have physical product and want to set shipping as free, then set it to \"1\" else \"0\"."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:376
+#@ default
+msgid ""
+"This is products weight. Just enter the weight amount. You can set weight unit from wp-admin > Shopping cart > General settings > Shopping cart > Default Weight Unit. E.g. if products weight is 10 lbs, then just enter 10\n"
+"Istaxable: If you want to apply tax for this product, then write \"1\", else write \"0\".\n"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:382
+#@ default
+msgid "These are product attribute titles. You can write any attribute here e.g. size, shape, brand, type, etc."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:386
+#@ default
+msgid "These are product attribute values. Multiple values should be comma separated and price should be entered in brackets e.g. Red(-2), black(+2), Blue(+1)."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:390
+#@ default
+msgid "You can manage stock for each and every attributes from here. E.g. for these product attributes: Red(-2), black(+2), Blue(+1), you can enter stock as10,15,50"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:394
+#@ default
+msgid "If you want to enable stock management for your product, then write \"1\" to enable stock management and \"0\" to disable."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:398
+#@ default
+msgid "If you have enabled stock management, then you can write the initial stock (starting stock) value here. \"0\" means out of stock and if you leave it as blank, then it will consider it as unlimited stock."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:402
+#@ default
+msgid "If you want to set minimum stock alert, then set its limit here. E.g. 5. You'll receive an Email, if the product stock reaches 5 or less than 5."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:406
+#@ default
+msgid "To show stock details in \"Product detail\" page."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:410
+#@ default
+msgid "Filename of the products image should be inserted in this field. E.g. tie_01.jpg. If you want to insert more than one product, then you have to insert the column with same title, which would be \"productimage\", then just enter its filename e.g. tie_02.jpg. Finally upload the CSV and then you'll be presented URL where you'll need to upload the images. Use an FTP client like FileZilla to upload the images at that path.\n"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:422
+#@ default
+msgid "Please select csv file to upload"
+msgstr ""
+
+#: library/includes/admin_country_form.php:35
+#@ default
+msgid "Edit Country"
+msgstr ""
+
+#: library/includes/admin_country_form.php:35
+#@ default
+msgid "Add Country"
+msgstr ""
+
+#: library/includes/admin_country_form.php:49
+#@ default
+msgid "Country&nbsp;Code"
+msgstr ""
+
+#: library/includes/admin_country_form.php:64
+#: library/includes/admin_coupon.php:110
+#: library/includes/admin_manage_users_frm.php:174
+#: library/includes/admin_notification_edit.php:94
+#: library/includes/admin_paymet_settings.php:108
+#: library/includes/admin_shipping_settings.php:133
+#: library/includes/admin_shipping_settings.php:213
+#: library/includes/admin_state_form.php:83
+#: library/includes/admin_tax_form.php:116
+#: library/includes/affiliates/admin_affiliates_frm.php:91
+#: message.php:305
+#@ default
+msgid "Cancel"
+msgstr ""
+
+#: library/includes/admin_country_form.php:73
+#@ default
+msgid "Please enter Country Code"
+msgstr ""
+
+#: library/includes/admin_country_form.php:79
+#: library/includes/admin_state_form.php:98
+#: library/includes/admin_tax_form.php:126
+#@ default
+msgid "Please enter Title"
+msgstr ""
+
+#: library/includes/admin_coupon.php:70
+#@ default
+msgid "Edit Coupon"
+msgstr ""
+
+#: library/includes/admin_coupon.php:70
+#@ default
+msgid "Add Coupon"
+msgstr ""
+
+#: library/includes/admin_coupon.php:82
+#: library/includes/admin_state_form.php:55
+#@ default
+msgid "Coupon code already exists, Please user different one."
+msgstr ""
+
+#: library/includes/admin_coupon.php:87
+#: library/includes/admin_manage_coupon.php:47
+#@ default
+msgid "Coupon Code"
+msgstr ""
+
+#: library/includes/admin_coupon.php:92
+#@ default
+msgid "Discount&nbsp;Type"
+msgstr ""
+
+#: library/includes/admin_coupon.php:95
+#: library/includes/admin_tax_form.php:106
+#@ default
+msgid "Percentage"
+msgstr ""
+
+#: library/includes/admin_coupon.php:102
+#@ default
+msgid "Value"
+msgstr ""
+
+#: library/includes/admin_coupon.php:121
+#: library/includes/affiliates/admin_affiliates_frm.php:102
+#@ default
+msgid "Percentage should be less than or equal to 100"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:23
+#: product_menu.php:30
+#@ default
+msgid "Manage Country"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:34
+#: library/includes/admin_manage_state.php:34
+#@ default
+msgid "State information added successfully"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:37
+#: library/includes/admin_manage_state.php:37
+#@ default
+msgid "State information deleted successfully"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:40
+#: library/includes/admin_manage_state.php:40
+#@ default
+msgid "State information edited successfully"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:53
+#: library/includes/admin_manage_country.php:69
+#: library/includes/admin_manage_orders.php:139
+#: library/includes/admin_manage_orders.php:195
+#: library/includes/admin_manage_state.php:53
+#: library/includes/admin_manage_state.php:69
+#: library/includes/admin_manage_users.php:32
+#: library/includes/admin_manage_users.php:88
+#: library/includes/admin_stock.php:44
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:44
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:44
+#: message.php:259
+#@ default
+msgid "Search"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:69
+#: library/includes/admin_manage_state.php:69
+#@ default
+msgid "List All"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:72
+#@ default
+msgid "Search Country United States title with starting characters. ex: to search <b>United States</b> you can enter <b>United</b>"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:90
+#@ default
+msgid "[ + Add Country ]"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:131
+#: library/includes/admin_manage_state.php:136
+#@ default
+msgid "ID"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:132
+#: library/includes/admin_manage_state.php:137
+#@ default
+msgid "Code"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:134
+#@ default
+msgid "States"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:135
+#: library/includes/admin_manage_state.php:140
+#: library/includes/admin_manage_tax.php:96
+#: library/includes/admin_paymethods.php:260
+#: library/includes/admin_shipping_settings.php:146
+#: library/includes/admin_shippings.php:56
+#: library/includes/affiliates/admin_affiliates.php:36
+#@ default
+msgid "Action"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:147
+#@ default
+msgid "View States"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:148
+#: library/includes/admin_manage_state.php:153
+#: library/includes/admin_manage_tax.php:112
+#@ default
+msgid "Are you sure want to delete?"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:148
+#: library/includes/admin_manage_coupon.php:51
+#: library/includes/admin_manage_coupon.php:70
+#: library/includes/admin_manage_orders.php:314
+#: library/includes/admin_manage_state.php:153
+#: library/includes/admin_manage_tax.php:112
+#: library/includes/admin_shipping_settings.php:167
+#: library/includes/affiliates/admin_affiliates.php:59
+#@ default
+msgid "Delete"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:158
+#: library/includes/admin_manage_state.php:163
+#: library/includes/admin_manage_tax.php:122
+#@ default
+msgid "records"
+msgstr ""
+
+#: library/includes/admin_manage_country.php:174
+#: library/includes/admin_manage_state.php:179
+#: library/includes/admin_manage_tax.php:138
+#@ default
+msgid "No Record Available"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:26
+#@ default
+msgid "Manage Coupons"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:35
+#@ default
+msgid "Coupon updated successfully."
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:40
+#@ default
+msgid "Coupon deleted successfully."
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:43
+#@ default
+msgid "[ + Add Coupon ]"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:48
+#@ default
+msgid "Discount Type"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:50
+#: library/includes/admin_manage_coupon.php:69
+#: library/includes/admin_shipping_settings.php:165
+#: library/includes/admin_shippings.php:86
+#: library/includes/affiliates/admin_affiliates.php:45
+#: message.php:94
+#@ default
+msgid "Edit"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:32
+#: product_menu.php:19
+#@ default
+msgid "Manage Orders"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:85
+#@ default
+msgid "Please select atleast one record to delete."
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:86
+#: library/includes/admin_manage_orders.php:99
+#@ default
+msgid "Are you sure want to continue?"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:91
+#@ default
+msgid "Select Status to set"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:98
+#@ default
+msgid "Please select atleast one record to "
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:121
+#@ default
+msgid "Deleted successfully..."
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:124
+#: library/includes/admin_manage_users.php:16
+#@ default
+msgid "Status Updated successfully..."
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:158
+#: library/includes/admin_manage_users.php:51
+#@ default
+msgid "order number"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:173
+#: library/includes/admin_manage_users.php:66
+#@ default
+msgid "Select Payment Type"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:186
+#: library/includes/admin_manage_orders.php:316
+#: library/includes/admin_manage_users.php:79
+#@ default
+msgid "Select Status"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:207
+#: library/includes/admin_manage_users.php:100
+#@ default
+msgid "List All Orders"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:212
+#: library/includes/admin_manage_users.php:105
+#@ default
+msgid "<u><b>Note</b></u> : you can search multiple orders by enter \"Order Number\"  comma seperated. example : 1,2,3,4"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:282
+#@ default
+msgid "Customer Name"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:283
+#@ default
+msgid "Order Total"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:284
+#@ default
+msgid "Payment Type"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:315
+#@ default
+msgid "Set Status to :"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:326
+#@ default
+msgid "orders"
+msgstr ""
+
+#: library/includes/admin_manage_orders.php:344
+#: library/includes/admin_manage_users.php:206
+#@ default
+msgid "No Orders Available"
+msgstr ""
+
+#: library/includes/admin_manage_state.php:23
+#: product_menu.php:31
+#@ default
+msgid "Manage States"
+msgstr ""
+
+#: library/includes/admin_manage_state.php:72
+#@ default
+msgid "Search State title with starting characters. ex: to search <b>London City</b> you can enter <b>London</b>"
+msgstr ""
+
+#: library/includes/admin_manage_state.php:90
+#@ default
+msgid "[ + Add State ]"
+msgstr ""
+
+#: library/includes/admin_manage_state.php:139
+#: library/includes/admin_manage_tax.php:94
+#: library/includes/admin_manage_users_frm.php:114
+#: library/includes/admin_manage_users_frm.php:158
+#: library/includes/admin_settings.php:480
+#: library/includes/admin_shipping_settings.php:113
+#: library/includes/admin_shipping_settings.php:193
+#: library/includes/admin_state_form.php:71
+#: library/includes/admin_tax_form.php:73
+#: message.php:252
+#@ default
+msgid "Country"
+msgstr ""
+
+#: library/includes/admin_manage_tax.php:23
+#: product_menu.php:29
+#@ default
+msgid "Manage Tax"
+msgstr ""
+
+#: library/includes/admin_manage_tax.php:34
+#@ default
+msgid "Information added successfully"
+msgstr ""
+
+#: library/includes/admin_manage_tax.php:37
+#@ default
+msgid "Information deleted successfully"
+msgstr ""
+
+#: library/includes/admin_manage_tax.php:40
+#@ default
+msgid "Information edited successfully"
+msgstr ""
+
+#: library/includes/admin_manage_tax.php:47
+#@ default
+msgid "[ + Add Tax ]"
+msgstr ""
+
+#: library/includes/admin_manage_tax.php:93
+#@ default
+msgid "State\t"
+msgstr ""
+
+#: library/includes/admin_manage_tax.php:153
+#: library/includes/admin_tax_form.php:96
+#@ default
+msgid "Active"
+msgstr ""
+
+#: library/includes/admin_manage_tax.php:156
+#: library/includes/admin_tax_form.php:97
+#@ default
+msgid "Inactive"
+msgstr ""
+
+#: library/includes/admin_manage_users.php:7
+#: product_menu.php:21
+#@ default
+msgid "Manage Users"
+msgstr ""
+
+#: library/includes/admin_manage_users.php:23
+#@ default
+msgid "Click to Add or Delete Users"
+msgstr ""
+
+#: library/includes/admin_manage_users.php:153
+#@ default
+msgid "User ID"
+msgstr ""
+
+#: library/includes/admin_manage_users.php:154
+#: library/includes/admin_notification_edit.php:47
+#@ default
+msgid "Email"
+msgstr ""
+
+#: library/includes/admin_manage_users.php:156
+#@ default
+msgid "Orders"
+msgstr ""
+
+#: library/includes/admin_manage_users.php:157
+#: library/includes/admin_manage_users.php:178
+#: message.php:287
+#@ default
+msgid "View Detail"
+msgstr ""
+
+#: library/includes/admin_manage_users.php:195
+#@ default
+msgid "users"
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:69
+#@ default
+msgid "Edit User"
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:83
+#@ default
+msgid "User Information "
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:85
+#: library/includes/admin_manage_users_frm.php:129
+#@ default
+msgid "Full Name"
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:90
+#: library/includes/admin_manage_users_frm.php:134
+#: library/includes/admin_settings.php:460
+#: message.php:248
+#@ default
+msgid "Address1"
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:96
+#: library/includes/admin_manage_users_frm.php:140
+#: library/includes/admin_settings.php:465
+#: message.php:249
+#@ default
+msgid "Address2"
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:102
+#: library/includes/admin_manage_users_frm.php:146
+#: library/includes/admin_settings.php:470
+#: message.php:250
+#@ default
+msgid "City"
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:108
+#: library/includes/admin_manage_users_frm.php:152
+#: library/includes/admin_settings.php:475
+#: library/includes/admin_shipping_settings.php:122
+#: library/includes/admin_shipping_settings.php:202
+#: library/includes/admin_tax_form.php:83
+#: message.php:251
+#@ default
+msgid "State"
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:120
+#: library/includes/admin_manage_users_frm.php:164
+#: library/includes/admin_settings.php:484
+#: message.php:253
+#@ default
+msgid "Postal Code"
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:127
+#@ default
+msgid "Shipping Information "
+msgstr ""
+
+#: library/includes/admin_manage_users_frm.php:183
+#@ default
+msgid "Please enter Full Name"
+msgstr ""
+
+#: library/includes/admin_notification.php:8
+#: library/includes/admin_notification_edit.php:29
+#@ default
+msgid "Manage Notification"
+msgstr ""
+
+#: library/includes/admin_notification.php:14
+#@ default
+msgid "updated successfully."
+msgstr ""
+
+#: library/includes/admin_notification.php:103
+#@ default
+msgid "Emails"
+msgstr ""
+
+#: library/includes/admin_notification.php:107
+#: library/includes/admin_notification.php:136
+#: library/includes/admin_notification_edit.php:69
+#@ default
+msgid "File Name"
+msgstr ""
+
+#: library/includes/admin_notification.php:108
+#: library/includes/admin_notification_edit.php:81
+#: message.php:29
+#: message.php:62
+#@ default
+msgid "Subject"
+msgstr ""
+
+#: library/includes/admin_notification.php:109
+#: library/includes/admin_notification.php:137
+#@ default
+msgid "Description"
+msgstr ""
+
+#: library/includes/admin_notification.php:132
+#@ default
+msgid "Messages"
+msgstr ""
+
+#: library/includes/admin_notification_edit.php:55
+#: library/includes/admin_notification_edit.php:88
+#@ default
+msgid "Message"
+msgstr ""
+
+#: library/includes/admin_notification_edit.php:73
+#@ default
+msgid "File Path"
+msgstr ""
+
+#: library/includes/admin_notification_edit.php:95
+#: message.php:91
+#@ default
+msgid "Back"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:98
+#@ default
+msgid "Your Affiliate Sale"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:131
+#@ default
+msgid "Order Detail of Order"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:139
+#@ default
+msgid "Order Request IP Address : "
+msgstr ""
+
+#: library/includes/admin_order_detail.php:143
+#@ default
+msgid "Order status changed successfuly"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:169
+#@ default
+msgid "Comments"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:174
+#: message.php:115
+#@ default
+msgid "Update"
+msgstr ""
+
+#: library/includes/admin_order_detail.php:180
+#@ default
+msgid "Back to Orders Listing"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:67
+#: library/includes/admin_shipping_settings.php:91
+#@ default
+msgid "Updated Succesfully"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:73
+#@ default
+msgid "Payment Method"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:77
+#: library/includes/admin_paymethods.php:258
+#@ default
+msgid "Is Active"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:79
+#: library/includes/admin_paymethods.php:296
+#@ default
+msgid "Activate"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:80
+#: library/includes/admin_paymethods.php:293
+#@ default
+msgid "Deactivate"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:85
+#@ default
+msgid "Display Order"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:97
+#@ default
+msgid "title"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:99
+#@ default
+msgid "description"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:119
+#@ default
+msgid "Please enter Payment Method"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:57
+#: library/includes/admin_paymethods.php:63
+#: library/includes/admin_paymethods.php:69
+#: library/includes/admin_paymethods.php:75
+#: library/includes/admin_paymethods.php:93
+#: library/payment/2co/install.php:18
+#: library/payment/authorizenet/install.php:13
+#: library/payment/authorizenet/install.php:19
+#: library/payment/googlechkout/install.php:11
+#: library/payment/paypal/install.php:11
+#: library/payment/paypal/install.php:17
+#: library/payment/paypal/install.php:23
+#: library/payment/paypal/install.php:29
+#: library/payment/paypal_pro/install.php:11
+#: library/payment/paypal_pro/install.php:17
+#: library/payment/paypal_pro/install.php:23
+#: library/payment/paypal_pro_express/install.php:11
+#: library/payment/paypal_pro_express/install.php:17
+#: library/payment/paypal_pro_express/install.php:23
+#: library/payment/paypal_pro_express/install.php:29
+#: library/payment/paypal_pro_express/install.php:35
+#: library/payment/worldpay/install.php:11
+#: library/payment/worldpay/install.php:17
+#@ default
+msgid "Example"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:241
+#@ default
+msgid "Manage Payment Options"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:253
+#@ default
+msgid "Current Installed"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:257
+#: library/includes/admin_shippings.php:55
+#@ default
+msgid "Method Name"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:259
+#@ default
+msgid "Sort Order"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:314
+#@ default
+msgid "Install New / All Options"
+msgstr ""
+
+#: library/includes/admin_settings.php:169
+#: product_menu.php:28
+#@ default
+msgid "General Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:182
+#: library/includes/admin_settings.php:187
+#: library/includes/admin_settings.php:196
+#: message.php:13
+#: product_menu.php:9
+#: product_menu.php:13
+#@ default
+msgid "Shopping Cart"
+msgstr ""
+
+#: library/includes/admin_settings.php:185
+#@ default
+msgid "Store Type"
+msgstr ""
+
+#: library/includes/admin_settings.php:188
+#@ default
+msgid "Digital Shop"
+msgstr ""
+
+#: library/includes/admin_settings.php:190
+#@ default
+msgid "Catalog Mode"
+msgstr ""
+
+#: library/includes/admin_settings.php:194
+#@ default
+msgid "<em>Checkout Type (for 'Shopping Cart' and 'Digital Shop' only)</em>"
+msgstr ""
+
+#: library/includes/admin_settings.php:197
+#@ default
+msgid "Buy Now Button"
+msgstr ""
+
+#: library/includes/admin_settings.php:201
+#@ default
+msgid "Checkout/Login Method"
+msgstr ""
+
+#: library/includes/admin_settings.php:203
+#@ default
+msgid "Normal Login Checkout"
+msgstr ""
+
+#: library/includes/admin_settings.php:204
+#: message.php:205
+#@ default
+msgid "Checkout as Guest"
+msgstr ""
+
+#: library/includes/admin_settings.php:205
+#@ default
+msgid "Login and Registration not allowed"
+msgstr ""
+
+#: library/includes/admin_settings.php:206
+#@ default
+msgid "Registration not allowed"
+msgstr ""
+
+#: library/includes/admin_settings.php:210
+#@ default
+msgid "From Email Name"
+msgstr ""
+
+#: library/includes/admin_settings.php:214
+#@ default
+msgid "From Email ID"
+msgstr ""
+
+#: library/includes/admin_settings.php:218
+#@ default
+msgid "Default Currency (Ex.: USD)"
+msgstr ""
+
+#: library/includes/admin_settings.php:222
+#@ default
+msgid "Default Currency Symbol (Ex.: $)"
+msgstr ""
+
+#: library/includes/admin_settings.php:226
+#@ default
+msgid "Price Format Decimals <br> (Ex.: 0 for 1/1 for 1.0/2 for 1.00/3 for 1.000/4 for  1.000)"
+msgstr ""
+
+#: library/includes/admin_settings.php:230
+#@ default
+msgid "Price Format Currency Symbol Position"
+msgstr ""
+
+#: library/includes/admin_settings.php:242
+#, php-format
+#@ default
+msgid "Before Price Amount(%s 10.00)"
+msgstr ""
+
+#: library/includes/admin_settings.php:243
+#, php-format
+#@ default
+msgid "After Price Amount(10.00 %s)"
+msgstr ""
+
+#: library/includes/admin_settings.php:244
+#@ default
+msgid "None(10.00)"
+msgstr ""
+
+#: library/includes/admin_settings.php:249
+#@ default
+msgid "Default Weight Unit (Ex.: gr,dr,oz or lb)"
+msgstr ""
+
+#: library/includes/admin_settings.php:251
+#@ default
+msgid "You can also leave this as blank "
+msgstr ""
+
+#: library/includes/admin_settings.php:256
+#@ default
+msgid "Product Tax - apply to each products (%)"
+msgstr ""
+
+#: library/includes/admin_settings.php:267
+#@ default
+msgid "Product Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:271
+#@ default
+msgid "Product Image Path"
+msgstr ""
+
+#: library/includes/admin_settings.php:272
+#@ default
+msgid "(Default folder is 'products_img')"
+msgstr ""
+
+#: library/includes/admin_settings.php:276
+#@ default
+msgid "Digital Product Path"
+msgstr ""
+
+#: library/includes/admin_settings.php:277
+#@ default
+msgid "(Default folder is 'digital_products')"
+msgstr ""
+
+#: library/includes/admin_settings.php:284
+#@ default
+msgid "Stock Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:290
+#@ default
+msgid "Set email alert on minimum stock of Product"
+msgstr ""
+
+#: library/includes/admin_settings.php:297
+#@ default
+msgid "Stock calculation for order status"
+msgstr ""
+
+#: library/includes/admin_settings.php:300
+#@ default
+msgid "All Status"
+msgstr ""
+
+#: library/includes/admin_settings.php:318
+#@ default
+msgid "Email Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:321
+#@ default
+msgid "Send Registration Email Notification"
+msgstr ""
+
+#: library/includes/admin_settings.php:329
+#@ default
+msgid "Send Guest Registration Email Notification"
+msgstr ""
+
+#: library/includes/admin_settings.php:330
+#@ default
+msgid "In case of Checkout as Guest do you want to send Registration Email Notification"
+msgstr ""
+
+#: library/includes/admin_settings.php:339
+#@ default
+msgid "Send Forgot Password Email Notification"
+msgstr ""
+
+#: library/includes/admin_settings.php:347
+#@ default
+msgid "Send New Order Success Email to Customer"
+msgstr ""
+
+#: library/includes/admin_settings.php:348
+#@ default
+msgid "Send an Email to customer if Checkout is successfull"
+msgstr ""
+
+#: library/includes/admin_settings.php:357
+#@ default
+msgid "Send New Order Success Email to Admin"
+msgstr ""
+
+#: library/includes/admin_settings.php:358
+#@ default
+msgid "Send an Email to Admin if Checkout is successfull"
+msgstr ""
+
+#: library/includes/admin_settings.php:366
+#@ default
+msgid "Send Order Approval Email from wp-admin"
+msgstr ""
+
+#: library/includes/admin_settings.php:367
+#@ default
+msgid "Send an Email to customer in case of wp-admin order approval"
+msgstr ""
+
+#: library/includes/admin_settings.php:375
+#@ default
+msgid "Send Order Rejection Email from wp-admin"
+msgstr ""
+
+#: library/includes/admin_settings.php:376
+#@ default
+msgid "Send an Email to customer in case of wp-admin order rejection"
+msgstr ""
+
+#: library/includes/admin_settings.php:391
+#@ default
+msgid "Other Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:394
+#@ default
+msgid "Enable SSL - https for checkout process"
+msgstr ""
+
+#: library/includes/admin_settings.php:400
+#@ default
+msgid "Enable SSL - https for Login process"
+msgstr ""
+
+#: library/includes/admin_settings.php:407
+#@ default
+msgid "Enable Auto login after successful Registraton"
+msgstr ""
+
+#: library/includes/admin_settings.php:415
+#@ default
+msgid "Display Blog Page link on header navigation"
+msgstr ""
+
+#: library/includes/admin_settings.php:422
+#@ default
+msgid "Display Store Page link on header navigation"
+msgstr ""
+
+#: library/includes/admin_settings.php:429
+#@ default
+msgid "Display Number of Orders on Admin Dashboard"
+msgstr ""
+
+#: library/includes/admin_settings.php:433
+#@ default
+msgid "Display Coupon code on checkout page"
+msgstr ""
+
+#: library/includes/admin_settings.php:440
+#@ default
+msgid "Display Term and Conditions"
+msgstr ""
+
+#: library/includes/admin_settings.php:441
+#@ default
+msgid "Display Term and Conditions checkbox at checkout page"
+msgstr ""
+
+#: library/includes/admin_settings.php:446
+#@ default
+msgid "syntax beside checkbox"
+msgstr ""
+
+#: library/includes/admin_settings.php:449
+#@ default
+msgid "Registration Page Mandatory Fields"
+msgstr ""
+
+#: library/includes/admin_settings.php:450
+#@ default
+msgid "the selected fields will be Mandatory Fields while collecting user information"
+msgstr ""
+
+#: library/includes/admin_settings.php:456
+#: message.php:246
+#@ default
+msgid "Last Name"
+msgstr ""
+
+#: library/includes/admin_settings.php:490
+#@ default
+msgid "Login Page Top Content"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:44
+#@ default
+msgid "Please enter Amount"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:62
+#: library/includes/admin_tax_form.php:134
+#@ default
+msgid "Processing ..."
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:86
+#, php-format
+#@ default
+msgid "Settings for %s"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:91
+#@ default
+msgid "Delete Succesfully"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:94
+#@ default
+msgid "Add New"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:106
+#: library/includes/admin_shipping_settings.php:144
+#: library/includes/admin_shipping_settings.php:186
+#@ default
+msgid "Range"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:109
+#: library/includes/admin_shipping_settings.php:189
+#@ default
+msgid "Keep blank for no range. You can set as from starting range to ending range as starting->ending. <u>ex: 0->1000</u>. The range unit depends on type of shipping. like for price base shipping range will be from start price->end price and for weight base shipping it will be from start weight->end weight"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:116
+#: library/includes/admin_shipping_settings.php:163
+#: library/includes/admin_shipping_settings.php:196
+#: library/includes/admin_tax_form.php:76
+#@ default
+msgid "All Countries"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:125
+#: library/includes/admin_shipping_settings.php:205
+#: library/includes/admin_tax_form.php:86
+#@ default
+msgid "Select Country First"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:145
+#@ default
+msgid "State / Country"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:163
+#@ default
+msgid "All States"
+msgstr ""
+
+#: library/includes/admin_shipping_settings.php:169
+#@ default
+msgid "Can't&nbsp;Delete"
+msgstr ""
+
+#: library/includes/admin_shippings.php:41
+#@ default
+msgid "Manage Shipping Options"
+msgstr ""
+
+#: library/includes/admin_shippings.php:54
+#@ default
+msgid "Select"
+msgstr ""
+
+#: library/includes/admin_shippings.php:127
+#@ default
+msgid "Please Enter Title"
+msgstr ""
+
+#: library/includes/admin_state_form.php:41
+#@ default
+msgid "Edit State"
+msgstr ""
+
+#: library/includes/admin_state_form.php:41
+#@ default
+msgid "Add State"
+msgstr ""
+
+#: library/includes/admin_state_form.php:60
+#@ default
+msgid "State&nbsp;Code"
+msgstr ""
+
+#: library/includes/admin_state_form.php:74
+#@ default
+msgid "Select Country"
+msgstr ""
+
+#: library/includes/admin_state_form.php:92
+#@ default
+msgid "Please enter State Code"
+msgstr ""
+
+#: library/includes/admin_state_form.php:104
+#@ default
+msgid "Please select Country"
+msgstr ""
+
+#: library/includes/admin_stock.php:5
+#: product_menu.php:20
+#@ default
+msgid "Manage Stock"
+msgstr ""
+
+#: library/includes/admin_stock.php:64
+#@ default
+msgid "Opening Stock"
+msgstr ""
+
+#: library/includes/admin_stock.php:65
+#@ default
+msgid "Sold Out"
+msgstr ""
+
+#: library/includes/admin_stock.php:66
+#@ default
+msgid "Current Stock"
+msgstr ""
+
+#: library/includes/admin_stock.php:67
+#@ default
+msgid "Low stock value"
+msgstr ""
+
+#: library/includes/admin_stock.php:68
+#@ default
+msgid "Stock enabled?"
+msgstr ""
+
+#: library/includes/admin_stock.php:94
+#: library/includes/admin_stock.php:108
+#@ default
+msgid "Unlimited"
+msgstr ""
+
+#: library/includes/admin_tax_form.php:47
+#@ default
+msgid "Edit Tax"
+msgstr ""
+
+#: library/includes/admin_tax_form.php:47
+#@ default
+msgid "Add Tax"
+msgstr ""
+
+#: library/includes/admin_tax_form.php:61
+#@ default
+msgid "Tax&nbsp;Title"
+msgstr ""
+
+#: library/includes/admin_tax_form.php:67
+#@ default
+msgid "Tax&nbsp;Description"
+msgstr ""
+
+#: library/includes/admin_tax_form.php:79
+#@ default
+msgid "Skip to apply in all countries."
+msgstr ""
+
+#: library/includes/admin_tax_form.php:89
+#@ default
+msgid "Skip to apply in all states of above country."
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:24
+#@ default
+msgid "Affiliates Share"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:39
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:39
+#: message.php:272
+#@ default
+msgid "Search By"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:40
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:40
+#: message.php:273
+#@ default
+msgid "Date From"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:42
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:42
+#: library/includes/affiliates/affiliate_sale_report.php:40
+#@ default
+msgid "To"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:45
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:45
+#: message.php:260
+#@ default
+msgid "Default"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:61
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:61
+#: message.php:271
+#@ default
+msgid "Export to Excel"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:67
+#: message.php:291
+#: message.php:327
+#@ default
+msgid "User Name"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:68
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:28
+#: message.php:285
+#: message.php:292
+#: message.php:328
+#@ default
+msgid "Total Sale Amount"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:69
+#: message.php:293
+#: message.php:329
+#@ default
+msgid "Total Share Amount"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_default.php:101
+#@ default
+msgid "No affiliates share available."
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:5
+#@ default
+msgid "Affiliate Detail Report"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:22
+#@ default
+msgid "'s Affiliate Detail Report"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:24
+#@ default
+msgid "No of Transactions"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:26
+#@ default
+msgid "Total Item Sold"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:30
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:166
+#@ default
+msgid "Total Earn Amount"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:73
+#: library/includes/affiliates/export_report.php:18
+#: message.php:262
+#@ default
+msgid "Transaction ID"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:74
+#: library/includes/affiliates/export_report.php:19
+#: message.php:263
+#@ default
+msgid "Payment Status"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:75
+#: library/includes/affiliates/export_report.php:20
+#: message.php:264
+#@ default
+msgid "Item Name"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:78
+#: library/includes/affiliates/export_report.php:23
+#: message.php:267
+#@ default
+msgid "Currency"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:79
+#: library/includes/affiliates/export_report.php:24
+#: message.php:268
+#@ default
+msgid "Affiliate Share"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliate_sale_report_detail.php:161
+#@ default
+msgid "No record available"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:21
+#@ default
+msgid "Manage Affiliate Links"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:29
+#: library/includes/affiliates/admin_affiliates_frm.php:57
+#@ default
+msgid "Add Affiliate Link"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:34
+#: library/includes/affiliates/admin_affiliates_frm.php:73
+#@ default
+msgid "Link URL"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:35
+#@ default
+msgid "Link Key"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:52
+#: library/includes/affiliates/admin_affiliates_frm.php:82
+#@ default
+msgid "Hide"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:55
+#: library/includes/affiliates/admin_affiliates_frm.php:81
+#@ default
+msgid "Show"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:67
+#@ default
+msgid "No records available"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates.php:76
+#@ default
+msgid "Are you sure want to delete the link?"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates_frm.php:54
+#@ default
+msgid "Edit Affiliate Link"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates_frm.php:68
+#@ default
+msgid "Link Title"
+msgstr ""
+
+#: library/includes/affiliates/admin_affiliates_frm.php:78
+#@ default
+msgid "Link Status"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_account.php:81
+#@ default
+msgid "Affiliate Links"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:41
+#: library/includes/registration.php:45
+#@ default
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:46
+#: library/includes/registration.php:50
+#@ default
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:58
+#: library/includes/registration.php:62
+#@ default
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:72
+#@ default
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:80
+#@ default
+msgid "Invalid key"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:88
+#: library/includes/registration.php:84
+#, php-format
+#@ default
+msgid "Username: %s"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:89
+#: library/includes/registration.php:85
+#, php-format
+#@ default
+msgid "Password: %s"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:92
+#: library/includes/registration.php:87
+#, php-format
+#@ default
+msgid "[%s] Your new password"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:97
+#@ default
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:97
+#@ default
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:188
+#: library/includes/registration.php:315
+#@ default
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:258
+#: library/includes/affiliates/affiliate_reg.php:327
+#: library/includes/registration.php:458
+#@ default
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:316
+#: library/includes/affiliates/affiliate_login.php:345
+#: message.php:231
+#@ default
+msgid "Sign In"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:329
+#: library/includes/affiliates/affiliate_login.php:380
+#: library/includes/registration.php:225
+#: message.php:242
+#@ default
+msgid "Username"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:335
+#: library/includes/affiliates/affiliate_login.php:386
+#: library/includes/registration.php:226
+#: message.php:243
+#@ default
+msgid "Password"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:342
+#: library/includes/login_frm.php:20
+#@ default
+msgid "Remember me on this computer"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:397
+#@ default
+msgid "Username or E-mail"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_login.php:402
+#: message.php:227
+#@ default
+msgid "Get New Password"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:45
+#: library/includes/registration.php:117
+#: library/includes/single_page_checkout_insertuser.php:24
+#: message.php:197
+#@ default
+msgid "ERROR: Please enter a username."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:47
+#: library/includes/registration.php:119
+#: library/includes/single_page_checkout_insertuser.php:26
+#: message.php:196
+#@ default
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:50
+#: library/includes/registration.php:122
+#: message.php:195
+#@ default
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:54
+#: library/includes/registration.php:126
+#: library/includes/single_page_checkout_insertuser.php:35
+#: message.php:194
+#@ default
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:56
+#: library/includes/registration.php:128
+#: library/includes/single_page_checkout_insertuser.php:37
+#: message.php:193
+#@ default
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:59
+#: library/includes/registration.php:131
+#: message.php:192
+#@ default
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:104
+#: library/includes/registration.php:193
+#: library/includes/single_page_checkout_insertuser.php:93
+#, php-format
+#@ default
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: library/includes/affiliates/affiliate_reg.php:132
+#@ default
+msgid ""
+"[SUBJECT-STR]Affiliate registration Confirmation[SUBJECT-END]<p>Dear [#$user_name#],</p>\n"
+"\t<p>You can log in  with the following information:</p>\n"
+"\t<p>Username: [#$user_login#]</p>\n"
+"\t<p>Password: [#$user_password#]</p>\n"
+"\t<br>\n"
+"\t<p>Thanks!</p>\n"
+"\t<p>[#$store_name#]</p>"
+msgstr ""
+
+#: library/includes/affiliates/affiliates_settings.php:38
+#: product_menu.php:34
+#@ default
+msgid "Manage Affiliate"
+msgstr ""
+
+#: library/includes/affiliates/affiliates_settings.php:115
+#@ default
+msgid "Links"
+msgstr ""
+
+#: library/includes/affiliates/affiliates_settings.php:127
+#@ default
+msgid "Sale Report"
+msgstr ""
+
+#: library/includes/affiliates/affiliates_settings.php:132
+#@ default
+msgid "Members"
+msgstr ""
+
+#: library/includes/checkout_cart.php:2
+#: library/includes/checkout_cart.php:3
+#: library/includes/checkout_cart.php:4
+#: library/includes/checkout_cart.php:5
+#: library/includes/checkout_cart.php:6
+#: library/includes/checkout_cart_2.php:2
+#: library/includes/checkout_cart_2.php:3
+#: library/includes/checkout_cart_2.php:4
+#: library/includes/checkout_cart_2.php:5
+#: library/includes/checkout_cart_2.php:6
+#@ default
+msgid "Please select "
+msgstr ""
+
+#: library/includes/checkout_cart.php:12
+#: library/includes/checkout_cart_2.php:13
+#@ default
+msgid "Checkout Now"
+msgstr ""
+
+#: library/includes/checkout_cart.php:85
+#: library/includes/checkout_cart_2.php:67
+#: message.php:49
+#@ default
+msgid "Add to Shopping Cart"
+msgstr ""
+
+#: library/includes/edit_profile.php:265
+#@ default
+msgid "same as"
+msgstr ""
+
+#: library/includes/normal_checkout_page_payment.php:7
+#: message.php:84
+#@ default
+msgid "Select Payment Method"
+msgstr ""
+
+#: library/includes/ordersuccess.php:33
+#@ default
+msgid ""
+"<p>Thank you, your order has been successfully received.</p>\n"
+"\t\t\t\t\t\t\t<p>To complete the order Please transfer amount of <u>[#$order_amt#]</u> out bank with the following information :</p>\n"
+"\t\t\t\t\t\t\t<p>Bank Name : [#$bank_name#]</p>\n"
+"\t\t\t\t\t\t\t<p>Account Number : [#$account_number#]</p>\n"
+"\t\t\t\t\t\t\t<br>\n"
+"\t\t\t\t\t\t\t<p>Please include the following reference <b>Order Number : [#$orderId#]</b></p>\n"
+"\t\t\t\t\t\t\t<br>\n"
+"\t\t\t\t\t\t\t<p>Upon receipt we will process and ship your order.</p>\n"
+"\t\t\t\t\t\t\t<p>Thank you for shopping at [#$store_name#].</p>\n"
+"\t\t\t\t\t\t"
+msgstr ""
+
+#: library/includes/ordersuccess.php:47
+#@ default
+msgid "<p>Thank you, your order has been successfully received.</p>Thank you for shopping at [#$store_name#]."
+msgstr ""
+
+#: library/includes/payment.php:218
+#@ default
+msgid "Payment Pending - Thank you for order"
+msgstr ""
+
+#: library/includes/payment.php:236
+#@ default
+msgid ""
+"[SUBJECT-STR]Order received - not confirm as payment is pending[SUBJECT-END]<p>Dear [#$to_name#],</p>\n"
+"\t\t\t\t\t\t\t<p>[#$order_info#]</p>\n"
+"\t\t\t\t\t\t\t<p>We received your order but sorry because payment is not confirm yet.</p>\n"
+"\t\t\t\t\t\t\t<p>Thank you.</p>"
+msgstr ""
+
+#: library/includes/payment.php:246
+#@ default
+msgid "Order received - not confirm as payment is pending"
+msgstr ""
+
+#: library/includes/payment.php:264
+#@ default
+msgid ""
+"[SUBJECT-STR]New order has been placed by  - Payment Pending[SUBJECT-END]\n"
+"\t\t\t\t\t\t\t<p>Dear [#$to_name#],</p>\n"
+"\t\t\t\t\t\t\t<p>order received successfully but payment is not confirm yet.</p>\n"
+"\t\t\t\t\t\t\t<p>[#$order_info#]</p>\n"
+"\t\t\t\t\t\t\t<p>Thank you.</p>"
+msgstr ""
+
+#: library/includes/product_buttons_above.php:5
+#@ default
+msgid "affiliate_link_text"
+msgstr ""
+
+#: library/includes/product_listing_page.php:14
+#: library/includes/store_page.php:14
+#@ default
+msgid "Switch View"
+msgstr ""
+
+#: library/includes/registration.php:223
+#@ default
+msgid "Registration Email"
+msgstr ""
+
+#: library/includes/registration.php:229
+#@ default
+msgid "We hope you enjoy shopping. Thanks!"
+msgstr ""
+
+#: library/includes/registration.php:486
+#@ default
+msgid "Please Enter Captha Code"
+msgstr ""
+
+#: library/includes/registration_frm_page.php:86
+#@ default
+msgid "Phone Number"
+msgstr ""
+
+#: library/includes/registration_page.php:78
+#@ default
+msgid "Neither Registration nor Login allow."
+msgstr ""
+
+#: library/includes/send_inquiry_page.php:27
+#@ default
+msgid "Hello,"
+msgstr ""
+
+#: library/includes/single_checkout_page.php:18
+#@ default
+msgid "<div style='color:red'>Select Payment method to continue.</div><br>"
+msgstr ""
+
+#: library/includes/single_checkout_page.php:19
+#@ default
+msgid "<div style='color:red'>Invalid User Name or Email.</div><br>"
+msgstr ""
+
+#: library/includes/single_page_checkout_insertuser.php:30
+#@ default
+msgid "<strong>ERROR</strong>:  This username is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/single_page_checkout_insertuser.php:143
+#@ default
+msgid ""
+"[SUBJECT-STR]Guest registration confirmation Email[SUBJECT-END]<p>Dear [#$user_name#],</p>\n"
+"\t<p>You can log in  with the following information:</p>\n"
+"\t<p>Username: [#$user_login#]</p>\n"
+"\t<p>Password: [#$user_password#]</p>\n"
+"\t<br>\n"
+"\t<p>We hope you enjoy your shipping. Thanks!</p>\n"
+"\t<p>[#$store_name#]</p>"
+msgstr ""
+
+#: library/includes/single_page_checkout_insertuser.php:159
+#@ default
+msgid "Guest registration confirmation Email"
+msgstr ""
+
+#: library/includes/store_page.php:2
+#: message.php:8
+#@ default
+msgid "Store"
+msgstr ""
+
+#: library/includes/view_downloads.php:37
+#@ default
+msgid "download"
+msgstr ""
+
+#: library/includes/view_downloads.php:39
+#@ default
+msgid "no download available"
+msgstr ""
+
+#: library/includes/view_orders.php:1
+#: message.php:310
+#@ default
+msgid "My Orders"
+msgstr ""
+
+#: library/includes/view_orders.php:35
+#@ default
+msgid "No order available"
+msgstr ""
+
+#: library/payment/2co/install.php:12
+#@ default
+msgid "Enter Vendor ID Example"
+msgstr ""
+
+#: library/payment/2co/install.php:29
+#: library/payment/authorizenet/install.php:31
+#: library/payment/eway/install.php:23
+#: library/payment/googlechkout/install.php:23
+#: library/payment/payondelevary/install.php:16
+#: library/payment/paypal/install.php:41
+#: library/payment/paypal_pro/install.php:34
+#: library/payment/paypal_pro_express/install.php:47
+#: library/payment/prebanktransfer/install.php:29
+#: library/payment/worldpay/install.php:29
+#@ default
+msgid "Payment Method integrated successfully"
+msgstr ""
+
+#: library/payment/2co/install.php:35
+#: library/payment/authorizenet/install.php:37
+#: library/payment/eway/install.php:29
+#: library/payment/payondelevary/install.php:22
+#: library/payment/paypal_pro/install.php:40
+#: library/payment/paypal_pro_express/install.php:53
+#: library/payment/prebanktransfer/install.php:35
+#: library/payment/worldpay/install.php:35
+#@ default
+msgid "Payment Method deleted successfully"
+msgstr ""
+
+#: library/payment/eway/install.php:12
+#@ default
+msgid "Enter the eway Customer ID"
+msgstr ""
+
+#: library/payment/googlechkout/install.php:29
+#: library/payment/paypal/install.php:47
+#@ default
+msgid "this payment method cannot deleted because it is fix, you can deactive it"
+msgstr ""
+
+#: library/payment/paypal_pro/paypal_pro.php:90
+#: library/payment/paypal_pro_express/paypal_pro.php:90
+#@ default
+msgid "Card Type"
+msgstr ""
+
+#: library/payment/paypal_pro/paypal_pro.php:101
+#: library/payment/paypal_pro_express/paypal_pro.php:101
+#@ default
+msgid "Card Number"
+msgstr ""
+
+#: library/payment/paypal_pro/paypal_pro.php:105
+#: library/payment/paypal_pro_express/paypal_pro.php:105
+#@ default
+msgid "Expiration Date"
+msgstr ""
+
+#: library/payment/paypal_pro/paypal_pro.php:135
+#: library/payment/paypal_pro_express/paypal_pro.php:135
+#@ default
+msgid "Card Verification Number"
+msgstr ""
+
+#: library/payment/prebanktransfer/install.php:11
+#@ default
+msgid "Enter the bank name to which you want to transfer payment"
+msgstr ""
+
+#: library/payment/prebanktransfer/install.php:17
+#@ default
+msgid "Enter your bank Account ID"
+msgstr ""
+
+#: message.php:3
+#@ default
+msgid "Welcome"
+msgstr ""
+
+#: message.php:11
+#@ default
+msgid "Register"
+msgstr ""
+
+#: message.php:12
+#@ default
+msgid "Join Our Affiliate Program"
+msgstr ""
+
+#: message.php:15
+#@ default
+msgid "Categories"
+msgstr ""
+
+#: message.php:16
+#@ default
+msgid "item in your Shopping Bag"
+msgstr ""
+
+#: message.php:17
+#@ default
+msgid "cart is empty."
+msgstr ""
+
+#: message.php:20
+#@ default
+msgid "All right reserved."
+msgstr ""
+
+#: message.php:21
+#@ default
+msgid "Ecommerce Framework by <a href=\"http://Templatic.com\" title=\"Templatic\"><strong>Templatic</strong></a> "
+msgstr ""
+
+#: message.php:24
+#@ default
+msgid "Email to a Friend"
+msgstr ""
+
+#: message.php:25
+#@ default
+msgid "Inform a Friend"
+msgstr ""
+
+#: message.php:26
+#@ default
+msgid "Your Name"
+msgstr ""
+
+#: message.php:27
+#@ default
+msgid "Your Email Address"
+msgstr ""
+
+#: message.php:28
+#@ default
+msgid "Friend Name"
+msgstr ""
+
+#: message.php:30
+#@ default
+msgid "Your Comments"
+msgstr ""
+
+#: message.php:31
+#: message.php:61
+#: message.php:101
+#@ default
+msgid "Email Address"
+msgstr ""
+
+#: message.php:32
+#@ default
+msgid "Regular Price"
+msgstr ""
+
+#: message.php:33
+#@ default
+msgid "Sale Price"
+msgstr ""
+
+#: message.php:35
+#@ default
+msgid "Size"
+msgstr ""
+
+#: message.php:36
+#: message.php:41
+#@ default
+msgid "Color"
+msgstr ""
+
+#: message.php:37
+#@ default
+msgid "Size Chart"
+msgstr ""
+
+#: message.php:38
+#@ default
+msgid "Close X"
+msgstr ""
+
+#: message.php:39
+#@ default
+msgid "<span class=\"inquiry_message_success\">Inquiry send successfully</span>"
+msgstr ""
+
+#: message.php:40
+#: message.php:58
+#@ default
+msgid "Send Inquiry"
+msgstr ""
+
+#: message.php:42
+#@ default
+msgid "Weight"
+msgstr ""
+
+#: message.php:43
+#@ default
+msgid "Print"
+msgstr ""
+
+#: message.php:44
+#@ default
+msgid "Share This"
+msgstr ""
+
+#: message.php:45
+#@ default
+msgid "RSS"
+msgstr ""
+
+#: message.php:46
+#: message.php:321
+#@ default
+msgid "View Cart Detail"
+msgstr ""
+
+#: message.php:47
+#: message.php:322
+#@ default
+msgid "Added To Cart Successfully"
+msgstr ""
+
+#: message.php:48
+#@ default
+msgid "Already Added in the cart"
+msgstr ""
+
+#: message.php:50
+#@ default
+msgid "Please select size"
+msgstr ""
+
+#: message.php:51
+#@ default
+msgid "Please select color"
+msgstr ""
+
+#: message.php:52
+#@ default
+msgid "processing ..."
+msgstr ""
+
+#: message.php:53
+#@ default
+msgid "Error loading cart information"
+msgstr ""
+
+#: message.php:54
+#@ default
+msgid "Buy Now"
+msgstr ""
+
+#: message.php:57
+#@ default
+msgid "Thank you, your inquiry has been sent."
+msgstr ""
+
+#: message.php:59
+#@ default
+msgid "Inquiry"
+msgstr ""
+
+#: message.php:60
+#@ default
+msgid "Here is an Inquiry for you related to"
+msgstr ""
+
+#: message.php:63
+#@ default
+msgid "Send Email"
+msgstr ""
+
+#: message.php:64
+#@ default
+msgid "Back to Product Detail"
+msgstr ""
+
+#: message.php:67
+#@ default
+msgid "Download"
+msgstr ""
+
+#: message.php:68
+#@ default
+msgid "Sorry, The file you are trying to Download is not available right now."
+msgstr ""
+
+#: message.php:69
+#@ default
+msgid "The link you are trying to download is not a Valid link. Please Check once."
+msgstr ""
+
+#: message.php:72
+#@ default
+msgid "Order Detail"
+msgstr ""
+
+#: message.php:75
+#@ default
+msgid "My Downloads"
+msgstr ""
+
+#: message.php:81
+#@ default
+msgid "Billing Address"
+msgstr ""
+
+#: message.php:83
+#@ default
+msgid "Shipping Method"
+msgstr ""
+
+#: message.php:85
+#@ default
+msgid "Your Selection"
+msgstr ""
+
+#: message.php:87
+#: message.php:233
+#@ default
+msgid "Guest Checkout"
+msgstr ""
+
+#: message.php:88
+#@ default
+msgid "Select Payment method to continue."
+msgstr ""
+
+#: message.php:89
+#@ default
+msgid "I accept the terms and conditions"
+msgstr ""
+
+#: message.php:90
+#@ default
+msgid "Confirm"
+msgstr ""
+
+#: message.php:92
+#@ default
+msgid "Please accept the terms and conditions"
+msgstr ""
+
+#: message.php:93
+#@ default
+msgid "same as above"
+msgstr ""
+
+#: message.php:98
+#@ default
+msgid "want to become our affiliate?"
+msgstr ""
+
+#: message.php:99
+#@ default
+msgid "My Personal Information"
+msgstr ""
+
+#: message.php:100
+#@ default
+msgid "Name"
+msgstr ""
+
+#: message.php:102
+#: message.php:106
+#@ default
+msgid "Edit Profile"
+msgstr ""
+
+#: message.php:103
+#@ default
+msgid "You don't have purchased any digital product"
+msgstr ""
+
+#: message.php:109
+#@ default
+msgid "Personal Information"
+msgstr ""
+
+#: message.php:110
+#@ default
+msgid "Your Information updated successfully."
+msgstr ""
+
+#: message.php:111
+#@ default
+msgid "Change Password"
+msgstr ""
+
+#: message.php:112
+#@ default
+msgid "Password Changed successfully."
+msgstr ""
+
+#: message.php:113
+#@ default
+msgid "New Password"
+msgstr ""
+
+#: message.php:114
+#@ default
+msgid "Confirm New Password"
+msgstr ""
+
+#: message.php:118
+#@ default
+msgid "My Shopping Cart"
+msgstr ""
+
+#: message.php:119
+#@ default
+msgid "Please Enter Coupon Code"
+msgstr ""
+
+#: message.php:120
+#@ default
+msgid "Sorry! your cart is empty. Select product(s) to continue."
+msgstr ""
+
+#: message.php:121
+#@ default
+msgid "Not a valid Coupon. Please enter correct one."
+msgstr ""
+
+#: message.php:122
+#@ default
+msgid "Sorry, the Cart is empty.  Select Products via Continue Shopping."
+msgstr ""
+
+#: message.php:123
+#@ default
+msgid "Update Cart"
+msgstr ""
+
+#: message.php:124
+#@ default
+msgid "Remove Item"
+msgstr ""
+
+#: message.php:125
+#@ default
+msgid "Product(s)"
+msgstr ""
+
+#: message.php:129
+#@ default
+msgid "Sub Total Amount"
+msgstr ""
+
+#: message.php:130
+#@ default
+msgid "Tax Amount"
+msgstr ""
+
+#: message.php:131
+#@ default
+msgid "Total Amount"
+msgstr ""
+
+#: message.php:132
+#: message.php:146
+#@ default
+msgid "Shipping Methods"
+msgstr ""
+
+#: message.php:133
+#@ default
+msgid "Discount Code"
+msgstr ""
+
+#: message.php:134
+#@ default
+msgid "Recalculate"
+msgstr ""
+
+#: message.php:135
+#@ default
+msgid "Continue Shopping"
+msgstr ""
+
+#: message.php:138
+#@ default
+msgid "Final Amount"
+msgstr ""
+
+#: message.php:142
+#@ default
+msgid "Confirmation"
+msgstr ""
+
+#: message.php:144
+#@ default
+msgid "Billing Information"
+msgstr ""
+
+#: message.php:145
+#@ default
+msgid "Payment Methods"
+msgstr ""
+
+#: message.php:147
+#@ default
+msgid "Cart Information"
+msgstr ""
+
+#: message.php:151
+#@ default
+msgid "Affiliates"
+msgstr ""
+
+#: message.php:152
+#@ default
+msgid "Affiliate Login"
+msgstr ""
+
+#: message.php:153
+#@ default
+msgid "Affiliate Registration"
+msgstr ""
+
+#: message.php:156
+#@ default
+msgid "Please enter your username or e-mail address. You will receive a new password via e-mail."
+msgstr ""
+
+#: message.php:157
+#@ default
+msgid "You are now logged out."
+msgstr ""
+
+#: message.php:158
+#@ default
+msgid "Affiliate registration is currently not allowed."
+msgstr ""
+
+#: message.php:159
+#@ default
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: message.php:160
+#@ default
+msgid "Check your e-mail for your new password."
+msgstr ""
+
+#: message.php:163
+#: message.php:221
+#@ default
+msgid "A password will be e-mailed to you for future use."
+msgstr ""
+
+#: message.php:164
+#: message.php:173
+#@ default
+msgid "already a member?"
+msgstr ""
+
+#: message.php:165
+#@ default
+msgid "new user?"
+msgstr ""
+
+#: message.php:166
+#@ default
+msgid "Register Now"
+msgstr ""
+
+#: message.php:167
+#@ default
+msgid "forget password?"
+msgstr ""
+
+#: message.php:169
+#@ default
+msgid "Activate Affiliates"
+msgstr ""
+
+#: message.php:170
+#@ default
+msgid "Affiliate Registration Page URL"
+msgstr ""
+
+#: message.php:171
+#@ default
+msgid "Affiliate Login Page URL"
+msgstr ""
+
+#: message.php:174
+#@ default
+msgid "Sign Up"
+msgstr ""
+
+#: message.php:177
+#@ default
+msgid "Affiliates Share Amount"
+msgstr ""
+
+#: message.php:178
+#@ default
+msgid "(Default Share Amount is 0%)"
+msgstr ""
+
+#: message.php:179
+#@ default
+msgid "Affiliates Cookie Alive time (in Days)"
+msgstr ""
+
+#: message.php:180
+#@ default
+msgid "(Default alive time is 1 day)"
+msgstr ""
+
+#: message.php:181
+#@ default
+msgid "Registration Page Message (above form) "
+msgstr ""
+
+#: message.php:182
+#@ default
+msgid "(This content will show at top in affiliate registration page content area)"
+msgstr ""
+
+#: message.php:183
+#@ default
+msgid "Registration Page Message (below form)"
+msgstr ""
+
+#: message.php:184
+#@ default
+msgid "(This content will show at bottom in affiliate registration page content area)"
+msgstr ""
+
+#: message.php:185
+#@ default
+msgid "Terms &amp; Conditions text"
+msgstr ""
+
+#: message.php:186
+#@ default
+msgid "Set Terms &amp; Conditions text beside checkbox on affiliate registration page"
+msgstr ""
+
+#: message.php:187
+#@ default
+msgid "Affiliate share approval Email notification from wp-admin"
+msgstr ""
+
+#: message.php:188
+#@ default
+msgid "In case of wp-admin order approval, Email Notification is sent to Affiliate member for the affiliate share approval"
+msgstr ""
+
+#: message.php:191
+#@ default
+msgid "I accept the Terms &amp; Conditions of the [#$store_name#] affiliate program"
+msgstr ""
+
+#: message.php:198
+#@ default
+msgid "Please accept Terms and Conditions"
+msgstr ""
+
+#: message.php:202
+#@ default
+msgid "Please Refresh the page if any effect not appear"
+msgstr ""
+
+#: message.php:208
+#@ default
+msgid "Payment Cancellation"
+msgstr ""
+
+#: message.php:209
+#@ default
+msgid "We are sorry for Cancellation of your order payment."
+msgstr ""
+
+#: message.php:212
+#@ default
+msgid "Payment Success"
+msgstr ""
+
+#: message.php:213
+#@ default
+msgid "Thank you for Shipping"
+msgstr ""
+
+#: message.php:214
+#@ default
+msgid "Your payment has been successfully received and your order will be processed for shipping.<br>"
+msgstr ""
+
+#: message.php:215
+#@ default
+msgid "Thank you for shopping at"
+msgstr ""
+
+#: message.php:218
+#@ default
+msgid "Thank You"
+msgstr ""
+
+#: message.php:222
+#: message.php:236
+#@ default
+msgid "Your Information"
+msgstr ""
+
+#: message.php:223
+#@ default
+msgid "Indicates mandatory fields"
+msgstr ""
+
+#: message.php:224
+#@ default
+msgid "Create Account"
+msgstr ""
+
+#: message.php:225
+#@ default
+msgid "Forgot Password?"
+msgstr ""
+
+#: message.php:226
+#@ default
+msgid "Username or E-mail:"
+msgstr ""
+
+#: message.php:229
+#@ default
+msgid "Register &amp; Checkout"
+msgstr ""
+
+#: message.php:230
+#@ default
+msgid "Click below to register and check out."
+msgstr ""
+
+#: message.php:232
+#@ default
+msgid "Click below to Sign In if you have previously registered."
+msgstr ""
+
+#: message.php:234
+#@ default
+msgid "Click below to checkout without registering."
+msgstr ""
+
+#: message.php:235
+#@ default
+msgid "Indicates Mendatory"
+msgstr ""
+
+#: message.php:237
+#@ default
+msgid ""
+"<p>Please select one of the options below to continue.</p>\n"
+"\t<p>If you choose to register while checking out an account will be created for you so next time you can simply Sign In without having to re-enter your information.</p>"
+msgstr ""
+
+#: message.php:244
+#@ default
+msgid "E-mail"
+msgstr ""
+
+#: message.php:245
+#@ default
+msgid "First Name"
+msgstr ""
+
+#: message.php:247
+#@ default
+msgid "Location Info"
+msgstr ""
+
+#: message.php:254
+#@ default
+msgid "Address"
+msgstr ""
+
+#: message.php:258
+#@ default
+msgid "My Sale Report"
+msgstr ""
+
+#: message.php:269
+#@ default
+msgid "Not record available."
+msgstr ""
+
+#: message.php:276
+#@ default
+msgid "Affiliate Information"
+msgstr ""
+
+#: message.php:277
+#@ default
+msgid "Affiliate Code"
+msgstr ""
+
+#: message.php:278
+#@ default
+msgid "Paypal Account"
+msgstr ""
+
+#: message.php:279
+#@ default
+msgid "Not Specified"
+msgstr ""
+
+#: message.php:280
+#@ default
+msgid "Change"
+msgstr ""
+
+#: message.php:282
+#@ default
+msgid "Sale Summary"
+msgstr ""
+
+#: message.php:283
+#@ default
+msgid "Number of Transactions"
+msgstr ""
+
+#: message.php:284
+#@ default
+msgid "Items Sold"
+msgstr ""
+
+#: message.php:286
+#@ default
+msgid "Your Total Earning"
+msgstr ""
+
+#: message.php:290
+#: message.php:326
+#@ default
+msgid "Affiliates Members"
+msgstr ""
+
+#: message.php:296
+#@ default
+msgid "View Store"
+msgstr ""
+
+#: message.php:299
+#@ default
+msgid "Related Products"
+msgstr ""
+
+#: message.php:302
+#@ default
+msgid "Pending"
+msgstr ""
+
+#: message.php:303
+#@ default
+msgid "Approve"
+msgstr ""
+
+#: message.php:304
+#@ default
+msgid "Reject"
+msgstr ""
+
+#: message.php:306
+#@ default
+msgid "Shipping"
+msgstr ""
+
+#: message.php:307
+#@ default
+msgid "Delivered"
+msgstr ""
+
+#: message.php:314
+#@ default
+msgid "Hello, I am sending information about"
+msgstr ""
+
+#: message.php:315
+#@ default
+msgid "It is a good one. Please see."
+msgstr ""
+
+#: product_menu.php:17
+#@ default
+msgid "Add Product"
+msgstr ""
+
+#: product_menu.php:18
+#@ default
+msgid "Manage Products"
+msgstr ""
+
+#: product_menu.php:22
+#@ default
+msgid "Payment Options"
+msgstr ""
+
+#: product_menu.php:23
+#@ default
+msgid "Manage Shipping"
+msgstr ""
+
+#: product_menu.php:24
+#@ default
+msgid "Manage Coupon"
+msgstr ""
+
+#: product_menu.php:26
+#@ default
+msgid "Notifications"
+msgstr ""
+

@@ -1,0 +1,3 @@
+20th - Nov - 2010 (got Fatal error for some clients.)
+-------------------------------------------
+functions.php

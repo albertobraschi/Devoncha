@@ -1,0 +1,111 @@
+/*
+File:			custom.css
+Description:	Custom styles for Your Theme
+
+HOW TO USE THIS FILE:
+
+Override any class you want and it will change default styling to suit your needs.
+
+For example, if you wish to change the default text blog title to grey, you would add the 
+following declarations to this file:
+
+	#header .blog-title a{ background:#cccccc }     //This makes blog title background grey
+
+*/
+
+
+
+/* Structure ---------------------- */
+#header-in {  padding:0px 0 20px 0; position:relative; height:100%; overflow:hidden; }
+#page {  }
+#content { min-height:400px; }
+#sidebar { margin-top:15px; padding:0 10px 15px 20px; }
+#bottom { }
+#wrapper { padding:10px 0px; min-height:450px; width:960px; margin:0 auto; }
+
+.sidebar_left { padding:0 20px 15px 10px !important; }
+.sidebar_l { width:150px; }
+.sidebar_r { width:200px; }
+.content_3col { width:550px; padding:0 10px; margin-left:10px; }
+.sidebar_l { padding-left:10px; }
+.sidebar_r { padding-right:10px; }
+
+
+#content ul.display li .sale_img { position:absolute; right:50px; top:0px; float:right; }
+#content ul.thumb_view li .sale_img { position:absolute; right:0px; top:0px; float:right; }
+
+
+
+/* ===================================================== coda slider css ================================================ */
+/* Home Page ---------------------- */
+
+.slider { width:560px; float:left; overflow:hidden; margin-bottom:10px;  }
+.slider_bottom { padding:10px; height:630px; position:relative; z-index:0; }  /* Altura do Slider central da home-page */
+.front_advt { float:right; width:100px; }
+
+.banner_img  { float:left; margin:0 15px 15px 0; }
+
+
+/* Most common stuff you'll need to change */
+
+	.coda-slider-wrapper { padding:0; }
+	.coda-slider {  }
+	
+	/* Use this to keep the slider content contained in a box even when JavaScript is disabled */
+	.coda-slider-no-js .coda-slider { height: 200px; overflow: auto !important; padding-right: 20px }
+	
+	/* Change the width of the entire slider (without dynamic arrows) */
+	.coda-slider, .coda-slider .panel { width: 570px } 
+	
+	/* Change margin and width of the slider (with dynamic arrows) */
+	.coda-slider-wrapper.arrows .coda-slider, .coda-slider-wrapper.arrows .coda-slider .panel { width: 570px;  _width:570px  }
+	.coda-slider-wrapper.arrows .coda-slider { margin: 0 3px }
+	
+	/* Arrow styling */
+	.coda-nav-right a { background:url(images/right.png) no-repeat left top; width:29px; height:29px; text-indent:-9009px; cursor:pointer; }
+	.coda-nav-left a { background:url(images/left.png) no-repeat left top; width:29px; height:29px; text-indent:-9009px; cursor:pointer;  }
+	.coda-nav-left a:hover, .coda-nav-right a:hover { background-position:0 -29px; }
+	
+	/* Tab nav */
+	.coda-nav ul li a.current { background: #39c }
+	
+	/* Panel padding */
+	.coda-slider .panel-wrapper { padding: 0px }
+	
+	/* Preloader */
+	.coda-slider p.loading { padding: 20px; text-align: center }
+	
+	/* Don't change anything below here unless you know what you're doing */
+
+	/* Tabbed nav */
+	.coda-nav ul { clear: both; display: block; margin: auto; overflow: hidden; display:none; }
+	.coda-nav ul li { display: inline }
+	.coda-nav ul li a { background: #000; color: #fff; display: block; float: left; margin-right: 1px; padding: 3px 6px; text-decoration: none }
+	
+	/* Miscellaneous */
+	.coda-slider-wrapper { clear: both; }
+	.coda-slider { float: left; overflow: hidden; position: relative }
+	.coda-slider .panel { display: block; float: left }
+	.coda-slider .panel-container { position: relative }
+	.coda-nav-left { position:absolute; right:50px; bottom:10px;  _right:80px; z-index:99999; }
+	 .coda-nav-right {position:absolute; right:15px; _right:45px; bottom:10px;  z-index:99999; }
+	.coda-nav-left a, .coda-nav-right a { display: block; text-align: center; text-decoration: none }
+	
+	a.featured_pro { float:left; border:1px solid #ccc; margin:3px 15px 10px 0; width:256px; height:268px; overflow:hidden; display:block;  }
+	.panel-wrapper h3 { margin:0 0 10px 0; padding:0; }
+	
+	.coda-slider-wrapper { overflow:hidden;}
+	
+	
+	
+	
+/* product details page content_right */
+.content_3col .product_details_inner  { float:inherit; width:100%; }
+.content_3col #comments_wrap  { margin-top:11px; }
+.content_3col #respond p.commpadd input { width:64%; }
+.content_3col #comments .comment .text-right { width:76%; padding:5px 5px 5px 20px;  }
+
+.content_3col .realated_products { margin:0 0 0 -40px; padding:0; } 
+.content_3col .realated_products li { margin:0 0 0 40px; padding:0; list-style:none; width:130px; float:left;  font-size:12px; text-align:center; }
+
+.content_3col #photos { width:100%; margin-bottom:20px;  }

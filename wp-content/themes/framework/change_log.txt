@@ -1,0 +1,491 @@
+1st March  2011 ( v: 0.1.5.7) 
+--------------------------------------------------
+product detail page optimization - done
+--------------------------------------------------
+library/includes/related_products.php
+
+
+
+
+25th Feb  2011
+--------------------------------------------------
+wp-admin > dashboard latest order summary problem -solved
+--------------------------------------------------
+library/functions/custom.php
+library/functions/general_functions.php
+
+25th Feb  2011
+--------------------------------------------------
+Front end - header - shopping cart amount -> current format problem
+--------------------------------------------------
+library/functions/widget_functions.php
+
+
+
+22th Feb  2011
+--------------------------------------------------
+wp-admin > manage country > delete problem - solved
+--------------------------------------------------
+library/includes/admin_manage_country.php
+
+
+
+19th Feb  2011
+--------------------------------------------------
+Header Main Navigation Category Problem Solved
+--------------------------------------------------
+library/includes/header.php
+
+
+16th Feb  2011
+--------------------------------------------------
+guest checkout page design distorted
+--------------------------------------------------
+library/includes/checkout_userinfo.php
+
+
+
+10th Feb, 2011 (v : 0.1.5.5)
+----------------------------------------------------
+email notification problem for order status=shipping & delivered
+------------------------
+library/includes/admin_order_detail.php
+library/functions/general_functions.php
+
+
+4th Jan, 2011 (v : 0.1.5.4)
+----------------------------------------------------
+wp-admin > design options > filter added.
+------------------------
+admin/admin_options.php
+
+------------------------
+added filter for product detail - image resize parameters in "show_product_images()" function.
+filters are "ec_prd_detail_bimg_resize_filter" and "ec_prd_detail_timg_resize_filter"
+------------------------
+library/functions/product.php
+
+------------------------
+wp-admin > manage Users > view detail > phone number field missing > added.
+------------------------
+library/includes/admin_manage_users_frm.php
+
+------------------------
+forgot password problem - solved
+------------------------
+library/includes/registration.php
+
+
+------------------------
+IE - checkout page - Term and conditons - validation problem - solved
+------------------------
+library/includes/client_order_desc.php
+
+
+
+31th Jan, 2011
+----------------------------------------------------
+Thumb.php not working properly-solved
+---------------------------------------------------
+themeroot/thumb.php file
+
+27th Jan, 2011
+-------------------------------------------------
+product detail page - Rss URL Problem - solved
+-------------------------------------------------
+library/functions/product.php
+
+-------------------------------------------------
+wordpay payment gateway cart empty problem - solved
+-------------------------------------------------
+library/payment/worldpay/worldpay_response.php
+
+
+24th Jan, 2011
+-------------------------------------------------
+State & Country Selection - SSL problem - solved
+-------------------------------------------------
+library/includes/checkout_userinfo.php
+library/includes/edit_profile.php
+library/includes/registration_frm.php
+
+
+
+22nd Jan, 2011
+-------------------------------------------------
+Subscribe to feedburner issue solved
+-------------------------------------------------
+library/functions/widget_functions.php
+
+
+19th - Jan, 2011
+--------------------------------------------------
+Country/State Select Box IE-8 Problem - Solved
+---------------------
+functions.php
+library/includes/edit_profile.php
+library/includes/registration_frm_page.php
+library/includes/registration_frm.php
+library/includes/checkout_userinfo.php
+
+
+8th - Jan, 2011
+--------------------------------------------------
+notification - blank email problem
+--------------------
+library/includes/admin_notification.php
+library/includes/admin_order_detail.php
+library/includes/ipn_process.php
+library/includes/admin_notification.php
+library/includes/registration.php
+library/includes/payment_email.php
+library/includes/admin_settings.php
+
+
+library/functions/general_functions.php
+
+
+7th - Jan, 2011
+--------------------------------------------------
+authorize.net user address info problem - solved
+--------------------
+library/payment/authorizenet/authorizenet_response.php
+
+
+
+
+6th - Jan, 2011
+--------------------------------------------------
+tell a friend comment problem - solved
+--------------------
+library/includes/tellafriend_form.php
+
+added new widget from "social media"
+-------------------
+library/functions/widgets_functions.php
+library/functions/custom_functions.php
+
+5th - Jan, 2011
+--------------------------------------------------
+Country/State Select Box Added for Tax & Shipping Calculation Problem - Solved
+---------------------
+functions.php
+library/includes/edit_profile.php
+library/includes/registration_frm_page.php
+library/includes/registration_frm.php
+library/includes/registration.php
+library/functions/custom_functions.php
+library/includes/checkout_userinfo.php
+
+Chamged Email Notification Method
+----------------------
+library/includes/admin_notification.php
+library/includes/single_page_checkout_insertuser.php
+library/includes/registration.php
+library/includes/ipn_process.php
+library/includes/admin_order_detial.php
+library/includes/payment_email.php
+library/includes/return_page.php
+library/includes/payment_cancel.php
+library/includes/return_page.php
+
+Google checkout tax problem - solved
+----------------------
+library/payment/googlechkout/googlechkout_response.php
+
+
+
+25th - Dec, 2010 (phone number validation - added)
+--------------------------------------------------
+message.php
+library/includes/checkout_userinfo.php
+library/includes/my_account.php
+library/includes/edit_profile.php
+library/includes/registration_frm_page.php
+library/includes/registration_frm.php
+library/includes/admin_settings.php
+
+
+
+
+30th - Nov, 2010 (google checkout tax problem - solved)
+--------------------------------------------------
+library/payment/googlechkout/googlechkout_response.php
+
+11th - Dec, 2010 (bread crumb - new script added)
+--------------------------------------------------
+library/functions/yoast-breadcrumbs.php
+library/includes/admin_settings.php
+library/functions/general_functions.php
+
+1st - Dec, 2010 (registration -> phone number added + for order + edit profile + order detail)
+--------------------------------------------------
+library/includes/payment_email.php
+library/includes/payment.php
+library/includes/registartion.php
+library/includes/edit_profile.php
+library/includes/single_page_checkout_insertuser.php
+library/includes/registration_frm_page.php
+library/includes/checkout_userinfo.php
+library/functions/general_functions.php
+
+
+30th - Nov, 2010 (registration -> forget password - problem - solved)
+--------------------------------------------------
+library/includes/registration.php
+
+25th - Nov, 2010 (order description on checkout)
+--------------------------------------------------
+message.php
+library/functions/general_functions.php
+library/includes/payment.php
+library/includes/normal_checkout_page_comments.php
+library/includes/normal_checkout_page.php
+library/includes/single_checkout_page.php
+
+ADDITIONAL CHANGES
+----------------------------------
+library/includes/normal_checkout_page_cartdetail.php
+library/includes/normal_checkout.php
+library/includes/normal_checkout_page_payment.php
+library/includes/normal_checkout_sidebar.php
+
+
+23rd - Nov, 2010
+--------------------------------------------------
+options to show/hide detail print/rss options
+--------------------------
+library/functions/product.php
+admin/admin_options.php
+
+Error on wp-admin > shopping cart> general settings > email options problem - solved
+--------------------------
+library/includes/admin_settings.php
+
+eway payment gateway - amount problem - solved
+--------------------------
+library/functions/product.php
+
+slider widget content "..." problem - solved
+--------------------------
+library/functions/custom_functions.php
+
+
+22nd - Nov, 2010 (additional improvement)
+--------------------------------------------------
+library/payment/eway/eway_response.php
+
+
+16th - Nov, 2010 
+--------------------------------------------------
+search listing - image appear - added
+----------------------
+library/includes/search_page.php
+
+featured image - blog listing
+----------------------
+library/includes/blog_listing_page.php
+
+
+
+15th - Nov, 2010 
+--------------------------------------------------
+edit profile - javascript validation correction
+----------------------
+library/includes/edit_profile.php
+
+wp-admin manage coupon problem - solved
+--------------------
+library/includes/admin_coupon.php
+
+13th - Nov, 2010 (wp-admin > shopping cart > manage user worng link)
+----------------------------------------------------
+library/includes/admin_manage_users.php
+
+
+12th - Nov, 2010 (affiliate module - complete new format)
+----------------------------------------------------
+library/includes/affilates
+library/includes/paynow.php
+
+
+11th - Nov, 2010 
+----------------------------------------------------
+remove unnecessary option settings
+-----------------------
+library/admin/admin_options.php
+library/admin/admin_design_settings.php
+
+captch spelling correction for registration page
+-----------------------
+library/includes/registraton.php
+library/captcha/captcha_functions.php
+
+manage stock wp-admin - solved
+-----------------------
+library/includes/admin_stock.php
+
+sold product order information - new feature
+-----------------------
+library/includes/admin_manage_orders.php
+
+prebank trasfer - success problem - solved
+-----------------------
+library/includes/ordersuccess_page.php
+
+show category desc on listing page
+------------------------
+library/includes/product_listing_page.php
+
+
+3rd - Nov, 2010 (tax include in total amount problem - solved)
+----------------------------------------------------
+library/functions/general_functions.php
+library/includes/cart_detail.php
+
+3rd - Nov, 2010 (digital download -  protect files from direct download)
+----------------------------------------------------
+index.php
+library/includes/view_downloads.php
+library/includes/digital_download.php
+
+
+2nd - Nov, 2010
+----------------------------------------------------
+authorize.net order approval email notification  ::--
+library/payment/authorizenet/authorizenet_response.php 
+
+general settings problem - solved  ::--
+library/includes/admin_settings.php
+
+wp-admin> manage_users redirection problem - solved ::-
+library/includes/admin_manage_users.php
+
+eway - response file error - solved  ::--
+library/payment.eway/eway_response.php
+
+
+
+30th - Oct, 2010 (payment amount decimal problem)
+----------------------------------------------------
+library/functions/general_functions.php
+
+29th - Oct, 2010 (captch enable/disable option setting from desing settings)
+--------------------------------------------------
+admin/admin_options.php
+library/captcha/captcha_function.php
+library/includes/registration_frm_page.php
+
+29th - Oct, 2010 (default SSL diable on checkout)
+--------------------------------------------------
+library/functions/general_functions.php
+
+29th - Oct, 2010 (authorize.net - test mode to live)
+--------------------------------------------------
+library/payment/authorizenet/authorizenet.php
+library/payment/authorizenet/authorizenet_response.php
+
+
+28th - Oct, 2010 (cart detail page- design problem -solved )
+--------------------------------------------------
+library/css/common.css
+library/includes/cart_detail_page.php
+
+27th - Oct, 2010 ( Theme by ecommerceplex & message class fixing)
+--------------------------------------------------
+
+library/css/common.css
+
+library/includes/footer.php
+
+
+
+
+26th - Oct, 2010 (additional changes for payment system)
+--------------------------------------------------
+library/includes/payment.php
+library/includes/payment_email.php
+library/includes/product_detail_page.php
+
+26th - Oct, 2010 (autorize.net problem-solved)
+--------------------------------------------------
+library/payment/authorizenet/authorizenet_response.php
+
+25th - Oct, 2010 (latest order list on wp-admin dash board)
+--------------------------------------------------
+library/functions/custom.php
+library/includes/ordersuccess.php
+library/includes/ordersuccess_page.php
+library/includes/return.php
+library/includes/return_page.php
+
+
+23th - Oct, 2010 (search form in header navigation)
+--------------------------------------------------
+search.php 
+library/includes/search_page.php add
+
+
+22th - Oct, 2010 (search form in header navigation)
+--------------------------------------------------
+library/includes/header.php
+
+19th - Oct, 2010
+--------------------------------------------------
+library/includes/ipn_process.php  -- paypal payment success - ipn related changes
+library/includes/payment.php  --  store IP address with order
+library/includes/admin_order_detail.php  -- show IP address on order detail page.
+library/includes/admin_settings.php  -- single quotaton proble.
+library/functions/general_functions.php -- client comment while place the order. 
+email notification problem solved
+---------------------------------------
+functions.php
+library/includes/payment.php
+library/includes/ipn_process.php
+library/includes/single_page_checkout_insertuser.php
+library/includes/return.php
+library/includes/registration.php
+library/includes/payment_cancel.php
+library/includes/ordersuccess.php
+library/includes/admin_notification_edit.php
+library/includes/admin_order_detail.php
+library/includes/admin_notification.php
+
+
+
+14th - Oct, 2010 
+--------------------------------------------------
+library/includes/registration.php  -->login problem - solved
+library/includes/single_checkout_page.php  --> guest checkout error on checkout page - solved
+
+13th - Oct, 2010 (custom style + cufon )
+--------------------------------------------------
+header.php
+admin/admin_options.php
+library/functions/custom_functions.php
+
+13th - Oct, 2010 (bulk upload functions conflic error -  solved)
+--------------------------------------------------
+library/includes/admin_bulk_upload.php
+
+
+12th - Oct, 2010 (design setting bug solved)
+--------------------------------------------------
+admin/admin_options.php
+library/functions/theme_variables.php
+
+
+11th - Oct, 2010 (bult upload image problem)
+--------------------------------------------------
+library/includes/admin_bulk_upload.php
+post_sample_csv.php
+
+
+***************************************************************
+FILTER LISTING
+***************************************************************
+Filter name : order_approved_admin_email_content_filter
+Description : wp-admin order approve or rejection order content change filter.
+Example : add_filter('order_approved_admin_email_content_filter','my_order_approved_admin_email_content_filter');
+
+---------------------------------------------

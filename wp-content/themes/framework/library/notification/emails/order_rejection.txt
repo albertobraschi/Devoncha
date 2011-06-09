@@ -1,0 +1,8 @@
+[SUBJECT-STR]Order Rejection Email[SUBJECT-END]
+<p>Dear [#$user_name#],</p>
+<p>Your order has been rejected because of some reason,</p>
+<p>Check your Order Information below: </p>
+<p>[#$order_info#]</p>
+<br>
+<p>We hope you enjoy the shopping. Thanks!</p>
+<p>[#$store_name#]</p>
